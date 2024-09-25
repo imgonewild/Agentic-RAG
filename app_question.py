@@ -57,7 +57,7 @@ def main():
         "Can the specific chemical identity or exact percentage of the composition be disclosed for the product?"
     ]
 
-    # questions = ["Who is the Supplier of the product?"]    
+    questions = ["What are the first aid measures in case of skin contact?"]    
 
     cnt = 1
     with open(filename + '.txt', 'w', encoding="utf-8") as file:

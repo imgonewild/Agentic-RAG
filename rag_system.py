@@ -57,7 +57,7 @@ class RAGSystem:
         # text = re.sub(r'_{10,}', '', text)  # Remove long sequences of underscores (formatting characters)
         
         # Remove multiple spaces, tabs, and newline characters
-        # text = re.sub(r'\s+', ' ', text).strip()  # Normalize white spaces
+        text = re.sub(r'\s+', ' ', text).strip()  # Normalize white spaces
         text = re.sub(r' +', ' ', text).strip()
         return text
 
@@ -133,21 +133,28 @@ class RAGSystem:
         return pages
 
     def _document_splitter(self, documents):
-        if self.method == 0:
-            splitter = RecursiveCharacterTextSplitter(
-                chunk_size=1500,
-                chunk_overlap=250,
-                length_function=len,
-            )
-        elif self.method == 1:
-            splitter = RecursiveCharacterTextSplitter(
-                chunk_size=1500,
-                chunk_overlap=250,
-                length_function=len,
-                is_separator_regex=True,
-                separators=[r'[sS][eE][cC][tT][iI][oO][nN]\s([1-9IVX]+)(\.|\:|\ -)'],  # Case-insensitive regex pattern
-            )
-
+        # if self.method == 0:
+        #     print("overlap")
+        #     splitter = RecursiveCharacterTextSplitter(
+        #         chunk_size=1500,
+        #         chunk_overlap=600,
+        #         length_function=len,
+        #         is_separator_regex=False,
+        #     )
+        # elif self.method == 1:
+        #     splitter = RecursiveCharacterTextSplitter(
+        #         chunk_size=1500,
+        #         chunk_overlap=250,
+        #         length_function=len,
+        #         is_separator_regex=True,
+        #         separators=[r'[sS][eE][cC][tT][iI][oO][nN]\s([1-9IVX]+)(\.|\:|\ -)'],  # Case-insensitive regex pattern
+        #     )
+        splitter = RecursiveCharacterTextSplitter(
+            chunk_size=1000,
+            chunk_overlap=250,
+            length_function=len,
+            is_separator_regex=False,
+        )
         # Split the documents into chunks
         chunks = splitter.split_documents(documents)
 
