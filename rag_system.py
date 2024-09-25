@@ -28,6 +28,7 @@ class RAGSystem:
             Answer the question based on the above context: {question}. 
             Reply with section title that are relevant to the answer.
             Reply in the format: {{"answer": "answer", "source": "section title"}} 
+            and do reply other text
             and if the answer contain multiple answers, then combine to one single answer
             and reply in the format:
             {{"answer": "answer 1, answer 2, answer 3, etc", "source": "section title 1, section title 2, section title 3, etc"}}.
