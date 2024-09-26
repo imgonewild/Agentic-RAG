@@ -7,6 +7,7 @@ from langchain.prompts import ChatPromptTemplate
 from langchain_community.llms.ollama import Ollama
 from langchain_chroma import Chroma
 import re
+import os
 
 # pip install -U langchain-chroma
 class RAGSystem:
@@ -26,9 +27,9 @@ class RAGSystem:
             Answer the question based on the following context: {context}. 
             ---
             Answer the question based on the above context: {question}. 
-            Reply with section title that are relevant to the answer.
-            Reply in the format: {{"answer": "answer", "source": "section title"}} 
-            and do not reply other text
+            Identify and include the relevant section title(s) that occur before the information used in your answer.
+            Section title should be before the answer.
+            Reply in the format: {{"answer": "answer", "source": "section title"}} do not reply other text
             and if the answer contain multiple answers, then combine to one single answer
             and reply in the format:
             {{"answer": "answer 1, answer 2, answer 3, etc", "source": "section title 1, section title 2, section title 3, etc"}}.
@@ -165,8 +166,8 @@ class RAGSystem:
         #from datetime import datetime
         #current_time = datetime.now().strftime('%m%d %I%M%p').lower()
         # filename = f'{current_time}_chunks.txt'
-
-        with open(self.filename + "_chunks.txt", 'a', encoding="utf-8") as file:
+        os.makedirs("output/" + self.filename )
+        with open("output/" + self.filename + "/" + self.data_directory  + "_" + self.filename + "_chunks.txt", 'a', encoding="utf-8") as file:
             for idx, chunk in enumerate(chunks):
                 file.write(f"Chunk {idx + 1}:\n")
                 file.write(f"Content: {chunk.page_content}\n")

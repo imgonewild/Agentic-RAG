@@ -63,7 +63,7 @@ def main():
     # questions = ["What are the first aid measures in case of skin contact?"]    
 
     cnt = 1
-    with open(filename + '.txt', 'w', encoding="utf-8") as file:
+    with open("output/" + filename + "/" + filename + '.txt', 'w', encoding="utf-8") as file:
 
         Answer = pd.DataFrame({"Question":[],"Answer":[],"Source":[]})
 
@@ -77,13 +77,14 @@ def main():
             print(str(cnt) + ": " + question)  # Convert cnt to string
             print(response)
             try:
-                j = json.loads(response)
+                j = json.loads(response.lstrip('\n')[:response.find('}')+1])
+                print(j)
                 Answer = Answer._append({"Question":[question],"Answer":[j["answer"]],"Source":[j["source"]]},ignore_index=True)
             except Exception as err:
                 print(err)
                 Answer = Answer._append({"Question":[question],"Answer":[response],"Source":[err]},ignore_index=True)
             cnt+=1
-        Answer.to_csv("Answer" + filename + ".csv")
+        Answer.to_csv("output/" + filename + "/" + "Answer" + filename + ".csv",encoding='utf-8-sig')
     print("\n--- Total %s seconds ---" % (time.time() - start_time))
 
 if __name__ == "__main__":
