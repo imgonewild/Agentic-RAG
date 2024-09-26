@@ -1,6 +1,9 @@
 from rag_system import RAGSystem
 import time
 from datetime import datetime
+import pandas as pd
+import json
+
 start_time = time.time()
 current_time = datetime.now().strftime('%m%d %I%M%p').lower()
 
@@ -57,10 +60,13 @@ def main():
         "Can the specific chemical identity or exact percentage of the composition be disclosed for the product?"
     ]
 
-    questions = ["What are the first aid measures in case of skin contact?"]    
+    # questions = ["What are the first aid measures in case of skin contact?"]    
 
     cnt = 1
     with open(filename + '.txt', 'w', encoding="utf-8") as file:
+
+        Answer = pd.DataFrame({"Question":[],"Answer":[],"Source":[]})
+
         for question in questions:
             if(method):
                 question = "Based on the following Safety Data Sheet, " + question
@@ -70,8 +76,14 @@ def main():
             file.write(f"{response}\n")
             print(str(cnt) + ": " + question)  # Convert cnt to string
             print(response)
+            try:
+                j = json.loads(response)
+                Answer = Answer._append({"Question":[question],"Answer":[j["answer"][0]],"Source":[j["source"][0]]},ignore_index=True)
+            except Exception as err:
+                print(err)
+                Answer = Answer._append({"Question":[question],"Answer":[response],"Source":[err]},ignore_index=True)
             cnt+=1
-            
+        Answer.to_csv("Answer" + filename + ".csv")
     print("\n--- Total %s seconds ---" % (time.time() - start_time))
 
 if __name__ == "__main__":

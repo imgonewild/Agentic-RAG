@@ -28,7 +28,7 @@ class RAGSystem:
             Answer the question based on the above context: {question}. 
             Reply with section title that are relevant to the answer.
             Reply in the format: {{"answer": "answer", "source": "section title"}} 
-            and do reply other text
+            and do not reply other text
             and if the answer contain multiple answers, then combine to one single answer
             and reply in the format:
             {{"answer": "answer 1, answer 2, answer 3, etc", "source": "section title 1, section title 2, section title 3, etc"}}.
@@ -127,35 +127,38 @@ class RAGSystem:
     def _load_documents(self):
         loader = PyPDFDirectoryLoader(self.data_directory)
         pages = loader.load()
+        text = [Document("")]
         # Clean the content of each page
         for page in pages:
             page.page_content = self._clean_text(page.page_content)
+            text[0].page_content += page.page_content
+            text[0].metadata = page.metadata
         
-        return pages
+        return text
 
     def _document_splitter(self, documents):
-        # if self.method == 0:
-        #     print("overlap")
-        #     splitter = RecursiveCharacterTextSplitter(
-        #         chunk_size=1500,
-        #         chunk_overlap=600,
-        #         length_function=len,
-        #         is_separator_regex=False,
-        #     )
-        # elif self.method == 1:
-        #     splitter = RecursiveCharacterTextSplitter(
-        #         chunk_size=1500,
-        #         chunk_overlap=250,
-        #         length_function=len,
-        #         is_separator_regex=True,
-        #         separators=[r'[sS][eE][cC][tT][iI][oO][nN]\s([1-9IVX]+)(\.|\:|\ -)'],  # Case-insensitive regex pattern
-        #     )
-        splitter = RecursiveCharacterTextSplitter(
-            chunk_size=1000,
-            chunk_overlap=250,
-            length_function=len,
-            is_separator_regex=False,
-        )
+        if self.method == 0:
+            print("overlap")
+            splitter = RecursiveCharacterTextSplitter(
+                chunk_size=1500,
+                chunk_overlap=600,
+                length_function=len,
+                is_separator_regex=False,
+            )
+        elif self.method == 1:
+            splitter = RecursiveCharacterTextSplitter(
+                chunk_size=1500,
+                chunk_overlap=250,
+                length_function=len,
+                is_separator_regex=True,
+                separators=[r'[sS][eE][cC][tT][iI][oO][nN]\s([1-9IVX]+)(\.|\:|\ -)'],  # Case-insensitive regex pattern
+            )
+        # splitter = RecursiveCharacterTextSplitter(
+        #     chunk_size=1000,
+        #     chunk_overlap=250,
+        #     length_function=len,
+        #     is_separator_regex=False,
+        # )
         # Split the documents into chunks
         chunks = splitter.split_documents(documents)
 

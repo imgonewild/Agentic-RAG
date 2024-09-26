@@ -1,0 +1,21 @@
+1: What is the product identifier?
+{"answer": "Marks -A-Lot Permanent Markers", "source": "Section 1: Identification"}
+
+2: When was the Safety Data Sheet issued?
+{"answer": "5-15-2015", "source": "SAFETY DATA SHEET 5-15-2015"}
+
+3: What is the product description?
+{"answer": "Marks -A-Lot Permanent Markers Inks", "source": "Section 1: Identification"}
+
+4: Who is the manufacturer of the product?
+{"answer": "Avery Products Corporation", "source": "Section 1: Identification"}
+
+5: What is the emergency telephone number for the product?
+{"answer": "1-800-222-1222 (Poison Control Center), 800 -462-8379", "source": "Section 1: Identification, Section 4: First Aid Measures"}
+
+6: What are the hazard classifications associated with the product?
+{"answer": "Serious Eye Damage – Category 1, Flammable Liquid", "source": "Section 2: Hazard(s) Identification"}
+
+7: What is the signal word used for the product?
+{"answer": None, "source": Section 2: Hazard(s) Identification}
+
