@@ -78,7 +78,7 @@ def main():
             print(response)
             try:
                 j = json.loads(response)
-                Answer = Answer._append({"Question":[question],"Answer":[j["answer"][0]],"Source":[j["source"][0]]},ignore_index=True)
+                Answer = Answer._append({"Question":[question],"Answer":[j["answer"]],"Source":[j["source"]]},ignore_index=True)
             except Exception as err:
                 print(err)
                 Answer = Answer._append({"Question":[question],"Answer":[response],"Source":[err]},ignore_index=True)
