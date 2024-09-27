@@ -75,11 +75,15 @@ def main():
             file.write(f"{cnt}: {question}\n")
             file.write(f"{response}\n")
             print(str(cnt) + ": " + question)  # Convert cnt to string
-            print(response)
+            print(response)   
             try:
                 j = json.loads(response.lstrip('\n')[:response.find('}')+1])
                 print(j)
                 Answer = Answer._append({"Question":[question],"Answer":[j["answer"]],"Source":[j["source"]]},ignore_index=True)
+            except json.JSONDecodeError:
+                response = response.lstrip('\n')[:response.find('}')+1]
+                Answer = Answer._append({"Question":[question],"Answer":[[i.split('answer') for i in response.split('source')][0][1][3:-3]],
+                                         "Source":[[i.split('answer') for i in response.split('source')][1][0][3:-1]]},ignore_index=True)
             except Exception as err:
                 print(err)
                 Answer = Answer._append({"Question":[question],"Answer":[response],"Source":[err]},ignore_index=True)

@@ -1,0 +1,129 @@
+1: What is the product identifier?
+{"answer": "3M™ Hi-Strength Spray Adhesive 90", "source": "SECTION 1: Identification"}
+
+2: When was the Safety Data Sheet issued?
+{"answer": "01/05/17", "source": "SECTION 3M MAKES NO WARRANTIES, EXPRESSED OR IMPLIED, INCLUDING, BUT NOT LIMITED TO, ANY IMPLIED WARRANTY OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR PURPOSE OR COURSE OF PERFORMANCE OR USAGE OF TRADE. User is responsible for determining whether the 3M product is fit for a particular purpose and suitable for user's method of use or application."}
+
+3: What is the product description?
+{"answer": "Adhesive, Hi-Strength Aerosol Adhesive", "source": "SECTION 1: Identification"}
+
+4: Who is the manufacturer of the product?
+{"answer": "3M", "source": "SECTION 1: Identification, SECTION 1: Identification"}
+
+5: What is the emergency telephone number for the product?
+{"answer": "1-800-364-3577 or (651) 737-6501", "source": "SECTION 1: Identification, SECTION 2: Hazard identification, SECTION 4: First aid measures"}
+
+6: What are the hazard classifications associated with the product?
+{"answer": "Flammable Aerosol: Category 1. Gas Under Pressure: Liquefied gas. Serious Eye Damage/Irritation: Category 2B. Simple Asphyxiant. Specific Target Organ Toxicity (single exposure): Category 1 and Category 3", "source": "SECTION 2: Hazard identification, SECTION 2: Hazard identification"}
+
+7: What is the signal word used for the product?
+{"answer": "Danger", "source": "2.2. Label elements"}
+
+8: What are the hazard statements related to the product?
+{"answer": "Extremely flammable aerosol. Contains gas under pressure; may explode if heated. Causes eye irritation. May cause respiratory irritation. May cause drowsiness or dizziness. May displace oxygen and cause rapid suffocation. Causes damage to organs: cardiovascular system", "source": "2.1. Hazard classification"}
+
+9: What precautions should be taken while handling the product?
+{"answer": "Do not use in a confined area with minimal air exchange. Keep out of reach of children. Keep away from heat/sparks/open flames/hot surfaces. - No smoking. Do not spray on an open flame or other ignition source. Do not pierce or burn, even after use. Do not breathe dust/fume/gas/mist/vapors/spray. Do not get in eyes, on skin, or on clothing. Do not eat, drink or smoke when using this product. Wash thoroughly after handling. Avoid release to the environment. Avoid contact with oxidizing agents (eg. chlorine, chromic acid etc.)", "source": "7.1. Precautions for safe handling"}
+
+10: What are the first aid measures in case of inhalation?
+{"answer": "Remove person to fresh air. Get medical attention.", "source": "SECTION 4: First aid measures"}
+
+11: What are the first aid measures in case of skin contact?
+{"answer": "Wash with soap and water. If signs/symptoms develop, get medical attention.", "source": "SECTION 4: First aid measures"}
+
+12: What are the first aid measures in case of eye contact?
+{"answer": "Flush with large amounts of water. Remove contact lenses if easy to do. Continue rinsing. If signs/symptoms persist, get medical attention.", "source": "SECTION 4: First aid measures, Eye Contact"}
+
+13: What are the first aid measures in case of ingestion?
+{"answer": "Rinse mouth. If you feel unwell, get medical attention.", "source": "4.1. Description of first aid measures, 4.1. If Swallowed:"}
+
+14: What are the suitable extinguishing media for a fire involving the product?
+{"answer": "Water fog, foam, dry chemical, carbon dioxide", "source": "Section 5: Fire-fighting measures"}
+
+15: What are the special hazards arising from the substance during a fire?
+{"answer": "Closed containers exposed to heat from fire may build pressure and explode. Carbon monoxide During Combustion Carbon dioxide During Combustion Irritant Vapors or Gases During Combustion", "source": "5.2. Special hazards arising from the substance or mixture"}
+
+16: Are there any special fire handling procedures required for the product?
+{"answer": "Use a fire fighting agent suitable for the surrounding fire. Closed containers exposed to heat from fire may build pressure and explode.", "source": "SECTION 5: Fire-fighting measures, SECTION 5: Fire-fighting measures"}
+
+17: How should accidental releases, spill, or leak of the product be handled?
+{"answer": "If possible, seal leaking container. Place leaking containers in a well-ventilated area, preferably an operating exhaust hood, or if necessary outdoors on an impermeable surface until appropriate packaging for the leaking container or its contents is available. Close cylinder. Collect as much of the spilled material as possible using non-sparking tools. Place in a metal container approved for transportation by appropriate authorities. Dispose of collected material as soon as possible.", "source": "SECTION 6: Accidental release measures"}
+
+18: What precautions should be taken for safe handling and storage of the product?
+{"answer": "Do not use in a confined area with minimal air exchange. Keep out of reach of children. Keep away from heat/sparks/open flames/hot surfaces. - No smoking. Do not spray on an open flame or other ignition source. Do not pierce or burn, even after use. Do not breathe dust/fume/gas/mist/vapors/spray. Do not get in eyes, on skin, or on clothing. Do not eat, drink or smoke when using this product. Wash thoroughly after handling. Avoid release to the environment. Avoid contact with oxidizing agents (eg. chlorine, chromic acid etc.). Store in a well-ventilated place. Keep container tightly closed. Protect from sunlight. Do not expose to temperatures exceeding 50C/122F.", "source": "SECTION 7: Handling and storage, SECTION 8: Exposure controls/personal protection"}
+
+19: What are the exposure controls and personal protection measures recommended for the product?
+{"answer": "Use general dilution ventilation and/or local exhaust ventilation to control airborne exposures to below relevant Exposure Limits and/or control dust/fume/gas/mist/vapors/spray. If ventilation is not adequate, use respiratory protection equipment. Select and use eye/face protection to prevent contact based on the results of an exposure assessment. Select and use gloves and/or protective clothing approved to relevant local standards to prevent skin contact based on the results of an exposure assessment.", "source": "SECTION 8: Exposure controls/personal protection, SECTION 9: Physical and chemical properties"}
+
+20: What are the physical and chemical properties of the product?
+{"answer": "Clear sweet fruity odor, Gas, Specific Physical Form: Aerosol, Odor threshold No Data Available pH No Data Available Melting point Not Applicable Boiling Point Not Applicable Flash Point -42.00 ºF Evaporation rate 1.9 Flammable Aerosol: Category 1 Vapor Pressure No Data Available Vapor Density 2.97 Density 0.726 g/ml Specific Gravity 0.726 Solubility in Water Nil Solubility- non-water No Data Available Partition coefficient: n-octanol/ water No Data Available Autoignition temperature No Data Available Decomposition temperature Not Applicable Viscosity Not Applicable Average particle size No Data Available Bulk density No Data Available Hazardous Air Pollutants 0 % weight Molecular weight No Data Available Volatile Organic Compounds <=55 % Softening point No Data Available VOC Less H2O & Exempt Solvents 398 g/l", "source": "SECTION 9: Physical and chemical properties"}
+
+21: Is the product stable or reactive? Are there any hazardous reactions to be aware of?
+{"answer": "Stable, Hazardous polymerization will not occur.", "source": "Section 10.2. Chemical stability, Section 10.3. Possibility of hazardous reactions"}
+
+22: What are the possible hazardous decomposition products of the product?
+{"answer": "None known", "source": "SECTION 10: Stability and reactivity, SECTION 5.2 for hazardous decomposition products during combustion."}
+
+23: What is the toxicological information available for the product?
+{"answer": "May be harmful if inhaled. Intentional concentration and inhalation may be harmful or fatal. Simple Asphyxiation: Signs/symptoms may include increased heart rate, rapid respirations, drowsiness, headache, incoordination, altered judgement, nausea, vomiting, lethargy, seizures, coma, and may be fatal. Respiratory Tract Irritation: Signs/symptoms may include cough, sneezing, nasal discharge, headache, hoarseness, and nose and throat pain. May cause additional health effects (see below). Skin Contact: Mild Skin Irritation: Signs/symptoms may include localized redness, swelling, itching, and dryness. Eye Contact: Moderate Eye Irritation: Signs/symptoms may include redness, swelling, pain, tearing, and blurred or hazy vision. Ingestion: Gastrointestinal Irritation: Signs/symptoms may include abdominal pain, stomach upset, nausea, vomiting and diarrhea. May cause additional health effects (see below). Additional Health Effects: Single exposure may cause target organ effects: Central Nervous System (CNS) Depression: Signs/symptoms may include headache, dizziness, drowsiness, incoordination, nausea, slowed reaction time, slurred speech, giddiness, and unconsciousness. Cardiac Sensitization: Signs/symptoms may include irregular heartbeat (arrhythmia), faintness, chest pain, and may be fatal.", "source": "SECTION 11: Toxicological information"}
+
+24: What are the safety precautions and handling instructions for using the product?
+{"answer": "Do not use in a confined area with minimal air exchange. Keep out of reach of children. Keep away from heat/sparks/open flames/hot surfaces. - No smoking. Do not spray on an open flame or other ignition source. Do not pierce or burn, even after use. Do not breathe dust/fume/gas/mist/vapors/spray. Do not get in eyes, on skin, or on clothing. Do not eat, drink or smoke when using this product. Wash thoroughly after handling. Avoid release to the environment. Avoid contact with oxidizing agents (eg. chlorine, chromic acid etc.)", "source": "7.1. Precautions for safe handling"}
+
+25: What are the potential hazards associated with the product?
+{"answer": "Extremely flammable aerosol. Contains gas under pressure; may explode if heated. Causes eye irritation. May cause respiratory irritation. May cause drowsiness or dizziness. May displace oxygen and cause rapid suffocation. Causes damage to organs: cardiovascular system", "source": "Hazard Statements, 2.1 Hazard classification"}
+
+26: What are the specific health effects or risks associated with exposure to the product?
+{"answer": "Simple Asphyxiation: increased heart rate, rapid respirations, drowsiness, headache, incoordination, altered judgement, nausea, vomiting; Respiratory Tract Irritation: cough, sneezing, nasal discharge, headache, hoarseness, and nose and throat pain; Central Nervous System (CNS) Depression: headache, dizziness, drowsiness, incoordination, nausea, slowed reaction time, slurred speech, giddiness; Gastrointestinal Irritation: abdominal pain, stomach upset, nausea, vomiting and diarrhea", "source": "Signs and Symptoms of Exposure"}
+
+27: What are the emergency procedures in case of inhalation of the product?
+{"answer": "Remove person to fresh air and keep comfortable for breathing.", "source": "Section 4: First aid measures"}
+
+28: What are the emergency procedures in case of skin contact with the product?
+{"answer": "Wash with soap and water. If signs/symptoms develop, get medical attention.", "source": "SECTION 4: First aid measures"}
+
+29: What are the emergency procedures in case of eye contact with the product?
+{"answer": "Flush with large amounts of water. Remove contact lenses if easy to do. Continue rinsing. If signs/symptoms persist, get medical attention.", "source": "4. Eye Contact: Flush with large amounts of water. Remove contact lenses if easy to do. Continue rinsing. If signs/symptoms persist, get medical attention. SECTION 4: First aid measures"}
+
+30: What are the emergency procedures in case of ingestion of the product?
+{"answer": "Rinse mouth. If you feel unwell, get medical attention.", "source": "SECTION 4: First aid measures"}
+
+31: What is the waste disposal method for the product?
+{"answer": "Dispose of contents/ container in accordance with the local/regional/national/international regulations. Incinerate uncured product in a permitted waste incineration facility. Dispose of completely cured (or polymerized) material in a permitted industrial waste facility. Facility must be capable of handling aerosol cans. If no other disposal options are available, waste product that has been completely cured or polymerized may be placed in a landfill properly designed for industrial waste.", "source": "SECTION 13: Disposal considerations"}
+
+32: Are there any specific storage requirements or conditions for safely storing the product?
+{"answer": "Store in a well-ventilated place. Keep container tightly closed. Protect from sunlight. Do not expose to temperatures exceeding 50C/122F. Protect from sunlight. Store in a well-ventilated place. Store away from heat. Store away from acids. Store away from oxidizing agents.", "source": "SECTION 7: Handling and storage, SECTION 8: Exposure controls/personal protection"}
+
+33: What is the shelf life of the product?
+{"answer": "Store away from heat. Protect from sunlight. Store in a well-ventilated place. Do not expose to temperatures exceeding 50C/122F.", "source": "7.2. Conditions for safe storage including any incompatibilities, SECTION 7: Handling and storage"}
+
+34: What are the composition and ingredients of the product?
+{"answer": "Dimethyl Ether (35-45%), Methyl Acetate (25-35%), Trade Secret * (10-20), Cyclohexane (7-13%), 1,1-Difluoroethane (1-5%), Pentane (1-5%)", "source": "SECTION 3: Composition/information on ingredients"}
+
+35: Are there any known hazardous reactions or incompatibilities with other substances or materials?
+{"answer": "Hazardous polymerization will not occur. Heat, Strong oxidizing agents, Strong acids", "source": "SECTION 10: Stability and reactivity"}
+
+36: What is the odor of the product?
+{"answer": "Clear sweet fruity odor", "source": "SECTION 9: Physical and chemical properties"}
+
+37: What is the boiling point of the product?
+{"answer": "No Data Available", "source": "SECTION 4: Physical and chemical properties"}
+
+38: Is the product flammable?
+{"answer": "Yes", "source": "SECTION 5: Firefighting measures, SECTION 7: Handling and storage"}
+
+39: What is the solubility of the product?
+{"answer": "Nil Solubility in Water No Data Available Solubility- non-water No Data Available", "source": "SECTION 9: Physical and chemical properties"}
+
+40: Is the product stable under certain conditions, and are there any potential decomposition products?
+{"answer": "Yes, stable; None known", "source": "SECTION 10: Stability and reactivity"}
+
+41: What are the recommended engineering controls, personal protective equipment (PPE), and respiratory protection for handling the product?
+{"answer": "General dilution ventilation and/or local exhaust ventilation to control airborne exposures to below relevant Exposure Limits and/or control dust/fume/gas/mist/vapors/spray, Half facepiece or full facepiece supplied-air respirator, Organic vapor respirators", "source": "SECTION 8: Exposure controls/personal protection, SECTION 9: Physical and chemical properties"}
+
+42: Are there any specific environmental precautions or considerations for the disposal of the product or its containers?
+{"answer": "Avoid release to the environment, Dispose of contents/ container in accordance with the local/regional/national/international regulations.", "source": "Section 6.2 Environmental precautions, SECTION 10: Disposal considerations"}
+
+43: Can the specific chemical identity or exact percentage of the composition be disclosed for the product?
+{"answer": "No", "source": "SECTION 3: Composition/information on ingredients"}
+
