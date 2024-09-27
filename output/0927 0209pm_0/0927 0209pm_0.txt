@@ -1,0 +1,136 @@
+1: What is the product identifier?
+{"answer": "Product Name: NAPA DUTY DOT 3 BRAKE FLUID","source": "SECTION 1: PRODUCT AND COMPANY IDENTIFICATION"}
+
+2: When was the Safety Data Sheet issued?
+{"answer": "March 5, 2014", "source": "Issue Date: March 5, 2014"}
+
+3: What is the product description?
+{"answer": "Brake Fluid","source": "General Use"}
+
+4: Who is the manufacturer of the product?
+{"answer": "Warren Unilube, Inc.", "source": "SECTION 1: PRODUCT AND COMPANY IDENTIFICATION"}
+
+5: What is the emergency telephone number for the product?
+{"answer": "1-800-424-9300", "source": "24-HOUR EMERGENCY NUMBER – CHEMTREC"}
+
+6: What are the hazard classifications associated with the product?
+{"answer": "Acute toxicity, dermal (Category 5) Acute toxicity, oral (Category 4) Skin Irritation (Category 3) Serious eye damage (Category 1) Reproductive toxicity (Category 2)", "source": "GHS Classification and Hazard Statements"}
+
+7: What is the signal word used for the product?
+{"answer": "WARNING", "source": "Signal Word"}
+
+8: What are the hazard statements related to the product?
+{"answer": "H302 Harmful if swallowed H313 May be harmful in contact with skin H316 Causes mild skin irritation H318 Causes serious eye damage H361 Suspected of damaging fertility or the unborn child", "source": "Hazard Statements"}
+
+9: What precautions should be taken while handling the product?
+{"answer": "Wear protective eyeglasses or chemical safety goggles, and wear chemically protective gloves, boots, aprons, and gauntlets to prevent prolonged or repeated skin contact.", "source": "EYE PROTECTION, SKIN PROTECTION"}
+
+10: What are the first aid measures in case of inhalation?
+{"answer": "If inhalation occurs, remove victim to fresh air. If not breathing, give artificial respiration. If breathing is difficult, give oxygen. Consult a physician.", "source": "INHALATION"}
+
+11: What are the first aid measures in case of skin contact?
+{"answer": "Wash with plenty of soap and water. If skin irritation occurs, get medical advice / attention.", "source": "SKIN: Wash with plenty of soap and water. If skin irritation occurs, get medical advice / attention."}
+
+12: What are the first aid measures in case of eye contact?
+{"answer": "Wear protective eyeglasses or chemical safety goggles, per OSHA eye-and face-protection regulations (29 CFR 1910.133).", "source": "EYE PROTECTION"}
+
+13: What are the first aid measures in case of ingestion?
+{"answer": "Never give anything by mouth to an unconscious person. Rinse mouth with water. Consult a physician.", "source": "INGESTION"}
+
+14: What are the suitable extinguishing media for a fire involving the product?
+{"answer": "Dry chemical, foam, and carbon dioxide.", "source": "FIRE-FIGHTING MEASURES, SUITABLE EXTINGUISHING MEDIA"}
+
+15: What are the special hazards arising from the substance during a fire?
+{"answer": "Carbon monoxide, carbon dioxide, and unidentified organic compounds.", "source": "HAZARDOUS COMBUSTION PRODUCTS"}
+
+16: Are there any special fire handling procedures required for the product?
+{"answer": "Evacuate area. Do not use direct water stream to extinguish fires. Do not release runoff from fire control methods to sewers or waterways.", "source": "FIGHTING PROCEDURES: Evacuate area. Do not use direct water stream to extinguish fires. Do not release runoff from fire control methods to sewers or waterways."}
+
+17: How should accidental releases, spill, or leak of the product be handled?
+{"answer": "Contain and recover liquid when possible. Collect liquid in appropriate container or absorb with an inert material (such as vermiculite or dry sand) and place in chemical waste container. Do not use combustible materials such as sawdust for the cleanup.", "source": "EMERGENCY PROCEDURES: SMALL SPILLS, LARGE SPILLS"}
+
+18: What precautions should be taken for safe handling and storage of the product?
+{"answer": "Store in a cool dry, ventilated area. Follow OSHA respirator regulations (29 CFR 1910.134) and, if necessary, wear a MSHA / NIOSH approved respirator.", "source": "SECTION 7: HANDLING AND STORAGE; SECTION 8: EXPOSURE CONTROLS / PERSONAL PROTECTION"}
+
+19: What are the exposure controls and personal protection measures recommended for the product?
+{"answer": "Ventilation should be provided by general or local exhaust ventilation systems to maintain airborne concentrations below OSHA PELs. Controls should be such that adequate ventilation is provided and provide general or local exhaust ventilation systems. Respiratory protection should be used, including MSHA/NIOSH-approved respirators, and a written respirator protection program should include medical certification, training, fit testing, periodic environmental monitoring, maintenance, inspection, cleaning, and convenient, sanitary storage areas.", "source": "SECTION 8: EXPOSURE CONTROLS / PERSONAL PROTECTION ENGINEERING CONTROLS, SECTION 9: RESPIRATORY PROTECTION"}
+
+20: What are the physical and chemical properties of the product?
+{"answer": "Physical state: Liquid. Appearance and color: Yellow to amber. Odor: Mild. Flash point: >275°F (>135°C). Upper/lower flammbility or explosive limits: not available. Auto ignition temperature: not available. Decomposition temperature: not available. Vapor pressure: not available. Odor threshold: not available.", "source": "SECTION 9: PHYSICAL AND CHEMICAL PROPERTIES"}
+
+21: Is the product stable or reactive? Are there any hazardous reactions to be aware of?
+{"answer": "The product is stable under normal storage and handling conditions at room temperature in closed containers.", "source": "SECTION 10: STABILITY AND REACTIVITY"}
+
+22: What are the possible hazardous decomposition products of the product?
+{"answer": "Carbon monoxide, carbon dioxide and unknown organic compounds.", "source": "SECTION 10: STABILITY AND REACTIVITY"}
+
+23: What is the toxicological information available for the product?
+{"answer": "Triethylene Glycol Monomethyl Ether ORAL LD50 (rat): 11,842 mg/kg DERMAL LD50 (rabbit): 7,441 mg/kg; Tetraethylene Glycol Monobutyl Ether ORAL LD50 (rat): 5,300 mg/kg DERMAL LD50 (rabbit): 3,505 mg/kg; Diethylene Glycol Monobutyl Ether ORAL LD50 (rat): 5,660", "source": "ACUTE TOXICITY VALUES"}
+
+24: What are the safety precautions and handling instructions for using the product?
+{"answer": "Wear protective eyeglasses or chemical safety goggles, follow OSHA eye-and face-protection regulations (29 CFR 1910.133), and avoid contact with spilled material.", "source": "EYE PROTECTION"}
+
+{"answer": "Use appropriate personal protective equipment, avoid breathing vapors, mist, or gas, and remove all sources of ignition.", "source": "PERSONAL PRECAUTIONS"}
+
+{"answer": "Store in a cool dry, ventilated area, provide general or local exhaust ventilation systems to maintain airborne concentrations below OSHA PELs, and select respirator based on its suitability for given working conditions and level of airborne contamination.", "source": "HANDLING AND STORAGE"}
+
+{"answer": "Wear chemically protective gloves, boots, aprons, and gauntlets to prevent prolonged or repeated skin contact.", "source": "SKIN PROTECTION"}
+
+25: What are the potential hazards associated with the product?
+{"answer": "The product may cause nausea and vomiting, abdominal discomfort, diarrhea, dizziness, and drowsiness if swallowed. It may also cause mild to serious eye irritation, skin irritation, respiratory tract irritation, and can be toxic to kidneys, liver, central nervous system, heart, and reproductive organs.", "source": "Acute Effects, Inhalation, Ingestion, Skin Contact, Eye Contact"}
+
+26: What are the specific health effects or risks associated with exposure to the product?
+{"answer": "Target Organ Effect: Product is toxic to kidneys, liver, central nervous system and heart. Metabolic products of diethylene glycol produce acidosis and organ toxicity effects; Acute Toxicity Values indicate harm from ingestion, inhalation, or dermal exposure.", "source": "TOXICOLOGICAL INFORMATION, ACUTE TOXICITY VALUES, TARGET ORGAN EFFECTS"}
+
+27: What are the emergency procedures in case of inhalation of the product?
+{"answer": "Remove victim to fresh air. If not breathing, give artificial respirations. If breathing is difficult, give oxygen. Consult a physician.", "source": "INHALATION"}
+
+28: What are the emergency procedures in case of skin contact with the product?
+{"answer": "Wash with plenty of soap and water. If skin irritation occurs, get medical advice / attention.", "source": "SKIN"}
+
+29: What are the emergency procedures in case of eye contact with the product?
+{"answer": "Wear protective eyeglasses or chemical safety goggles. If skin irritation occurs, get medical advice / attention.", "source": "EYE PROTECTION"}
+
+30: What are the emergency procedures in case of ingestion of the product?
+{"answer": "Contain and recover liquid when possible. Collect liquid in appropriate container or absorb with an inert material (such as vermiculite or dry sand) and place in chemical waste container. DO NOT wait for symptoms to develop before getting treatment.", "source": "EMERGENCY PROCEDURES : SMALL SPILLS, INGESTION"}
+
+31: What is the waste disposal method for the product?
+{"answer": "Dispose of whatever cannot be saved for recovery or recycling in an approved waste facility in accordance with Federal, State/Provincial and Local requirements.", "source": "SECTION 13: DISPOSAL CONSIDERATIONS"}
+
+32: Are there any specific storage requirements or conditions for safely storing the product?
+{"answer": "Store in a cool dry, ventilated area.", "source": "STORAGE REQUIREMENTS: Store in a cool dry, ventilated area."}
+
+33: What is the shelf life of the product?
+{"answer": "not available","source": "MELTING POINT / FREEZING POINT: not available"}
+
+34: What are the composition and ingredients of the product?
+{"answer": "Triethylene Glycol Monomethyl Ether 112-77-3, Triethylene Glycol Monoethyl Ether 112-50-5, Triethylene Glycol Monobutyl Ether 143-22-6, Tetrathylene Glycol Monobutyl Ether 1559-34-8, Polyethylene Glycol 25322-68-3, Diethylene Glycol 111-46-6, Diethylene Glycol Monobutyl Ether 112-34-5.", "source": "SECTION 3: COMPOSITION / INFORMATION ON INGREDIENTS"}
+
+35: Are there any known hazardous reactions or incompatibilities with other substances or materials?
+{"answer": "Hazardous polymerization will not occur. Hazardous polymerization by-products: Hazardous polymerization will not occur.", "source": "SECTION 10: STABILITY AND REACTIVITY"}
+
+36: What is the odor of the product?
+{"answer": "Mild","source": "SECTION 9: PHYSICAL AND CHEMICAL PROPERTIES"}
+
+37: What is the boiling point of the product?
+{"answer": "480°F (248.9°C)", "source": "SECTION 9: PHYSICAL AND CHEMICAL PROPERTIES"}
+
+38: Is the product flammable?
+{"answer": "The product has an initial boiling point and a boiling range of 480°F (248.9°C), with no specified lower or upper flammability limits.", "source": "SECTION 9: PHYSICAL AND CHEMICAL PROPERTIES"}
+
+39: What is the solubility of the product?
+{"answer": "soluble", "source": "SECTION 9: PHYSICAL AND CHEMICAL PROPERTIES"}
+
+40: Is the product stable under certain conditions, and are there any potential decomposition products?
+{"answer": "Stable at room temperature in closed containers under normal storage and handling conditions.", 
+"source": "SECTION 10: STABILITY AND REACTIVITY"}
+
+41: What are the recommended engineering controls, personal protective equipment (PPE), and respiratory protection for handling the product?
+{"answer": "Provide general or local exhaust ventilation systems to maintain airborne concentrations below OSHA PELs, and wear a MSHA/NIOSH approved respirator based on its suitability for given working conditions and level of airborne contamination.", "source": "SECTION 8: EXPOSURE CONTROLS / PERSONAL PROTECTION ENGINEERING CONTROLS, SECTION 9: RESPIRATORY PROTECTION"}
+
+42: Are there any specific environmental precautions or considerations for the disposal of the product or its containers?
+{"answer": "Whatever cannot be saved for recovery or recycling should be disposed of in an approved waste facility in accordance with Federal, State/Provincial and Local requirements.", "source": "SECTION 13: DISPOSAL CONSIDERATIONS"}
+
+43: Can the specific chemical identity or exact percentage of the composition be disclosed for the product?
+{"answer": "3% of the composition of this material has been withheld as a trade secret.", "source": "SECTION 4: FIRST AID MEASURE"}
+

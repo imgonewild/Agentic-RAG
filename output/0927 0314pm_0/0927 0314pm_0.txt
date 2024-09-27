@@ -1,0 +1,131 @@
+1: What is the product identifier?
+{"answer": "Product Name: NAPA DOT 3 BRAKE FLUID; Product Identification Number: Mixture, see Section 3.", "source": "SECTION 1: PRODUCT AND COMPANY IDENTIFICATION"}
+
+2: When was the Safety Data Sheet issued?
+{"answer": "March 5, 2014", "source": "SECTION 1: PRODUCT AND COMPANY IDENTIFICATION"}
+
+3: What is the product description?
+{"answer": "NAPA DOT 3 Brake Fluid", "source": "SECTION 1: PRODUCT AND COMPANY IDENTIFICATION"}
+
+4: Who is the manufacturer of the product?
+{"answer": Warren Unilube, Inc., 915 E. Jefferson, West Memphis, AR 72301", "source": SECTION 1: PRODUCT AND COMPANY IDENTIFICATION}
+
+5: What is the emergency telephone number for the product?
+{"answer": "1-800-424-9300", "source": "SECTION 1: PRODUCT A ND COMPANY IDENTIFICATION"}
+
+6: What are the hazard classifications associated with the product?
+{"answer": "OSHA Hazards: Target Organ Effect, Harmful by ingestion, Irritant, Teratogen, Reproductive hazard. GHS Classification: Acute toxicity, dermal (Category 5) Acute toxicity, oral (Category 4) Skin Irritation (Category 3) Serious eye damage (Category 1) Reproductive toxicity (Category 2)", "source": "SECTION 2: HAZARD(S) IDENTIFICATION, GHS Classification"}
+
+7: What is the signal word used for the product?
+{"answer": "WARNING", "source": "SECTION 2: HAZARD(S) IDENTIFICATION, SECTION 9: PHYSICAL AND CHEMICAL PROPERTIES"}
+
+8: What are the hazard statements related to the product?
+{"answer": "H302, H313, H316, H318, H361", "source": "GHS Classification: Acute toxicity, dermal (Category 5) Acute toxicity, oral (Category 4) Skin Irritation (Category 3) Serious eye damage (Category 1) Reproductive toxicity (Category 2), Signal Word: WARNING Hazard Statements:"}
+
+9: What precautions should be taken while handling the product?
+{"answer": "May be harmful or fatal if swallowed. Wear protective eyeglasses or chemical safety goggles, per OSHA eye-and face-protection regulations (29 CFR 1910.133). Wear chemically protective gloves, boots, aprons and gauntlets to prevent prolonged or repeated skin contact. Never eat, drink or smoke in work areas. Practice good personal hygiene after using this material especially before eating, drinking or smoking, using the toilet, or applying cosmetics. Separate contaminate work clothes from street clothes. Launder before reuse. Remove this material from your shoes and clean personal protective equipment. Discard belts and shoes that cannot be cleaned.", "source": "SECTION 7: HANDLING AND STORAGE, SECTION 8: EXPOSURE CONTROLS / PERSONAL PROTECTION"}
+
+10: What are the first aid measures in case of inhalation?
+{"answer": "Remove victim to fresh air. If not breathing, give artificial respiration. If breathing is difficult, give oxygen.", "source": "INHALATION: SECTION 4"}
+
+11: What are the first aid measures in case of skin contact?
+{"answer": "Wash with plenty of soap and water. If skin irritation occurs, get medical advice / attention.", "source": "SKIN: Wash with plenty of soap and water. If skin irritation occurs, get medical advice / attention."}
+
+12: What are the first aid measures in case of eye contact?
+{"answer": "Wear protective eyeglasses or chemical safety goggles.", "source": "SECTION 8: EXPOSURE CONTROLS / PERSONAL PROTECTION"}
+
+13: What are the first aid measures in case of ingestion?
+{"answer": "Rinse mouth with water. Consult a physician.", "source": "SECTION 8: EXPOSURE CONTROLS / PERSONAL PROTECTION INGESTION"}
+
+14: What are the suitable extinguishing media for a fire involving the product?
+{"answer": "Dry chemical, foam or carbon dioxide. Water spray may be used to keep fire exposed containers cool, dilute spills to nonflammable mixtures, protect personnel attempting to stop leak, and disperse vapors.", "source": "FIRE-FIGHTING MEASURES"}
+
+15: What are the special hazards arising from the substance during a fire?
+{"answer": "Carbon monoxide, carbon dioxide, and unidentified organic compounds.", "source": "HAZARDOUS COMBUSTION PRODUCTS"}
+
+16: Are there any special fire handling procedures required for the product?
+{"answer": "Evacuate area. Do not use direct water stream to extinguish fires. Do not release runoff from fire control methods to sewers or waterways.", "source": "FIGHTING PROCEDURES, SPECIAL FIRE FIGHTING PROCEDURES"}
+
+17: How should accidental releases, spill, or leak of the product be handled?
+{"answer": "Contain and recover liquid when possible. Collect liquid in appropriate container or absorb with an inert material (such as vermiculite or dry sand) and place in chemical waste container. Do not use combustible materials such as sawdust for the cleanup. Containment: Shut off source of leak if safe to do so. Dike far ahead of liquid spill for later disposal. Do not allow material to enter sewers or waterways.", "source": "EMERGENCY PROCEDURES : SMALL SPILLS, LARGE SPILLS, SECTION 6: ACCIDENTAL RELEASE MEASURES"}
+
+18: What precautions should be taken for safe handling and storage of the product?
+{"answer": "Store in a cool dry, ventilated area.", "source": "SECTION 7: HANDLING AND STORAGE"}
+
+19: What are the exposure controls and personal protection measures recommended for the product?
+{"answer": "Provide general or local exhaust ventilation systems to maintain airborne concentrations below OSHA PELs. Wear protective eyeglasses or chemical safety goggles, wear chemically protective gloves, boots, aprons and gauntlets, make emergency eyewash stations, safety/quick drench showers and washing facilities available in work areas, practice good personal hygiene after using this material especially before eating, drinking or smoking, separate contaminate work clothes from street clothes, launder before reuse, remove this material from your shoes and clean personal protective equipment.", "source": "SECTION 8: EXPOSURE CONTROLS / PERSONAL PROTECTION ENGINEERING CONTROLS, EYE PROTECTION, SKIN PROTECTION, OTHER PROTECTIVE CLOTHING OR EQUIPMENT, WORK HYGIENIC PRACTICES"}
+
+20: What are the physical and chemical properties of the product?
+{"answer": "Liquid, Yellow to amber, >275°F (>135°C), soluble, 480°F (248.9°C), <0.01, stable at room temperature in closed containers under normal storage and handling conditions.", "source": "SECTION 9: PHYSICAL A ND CHEMICAL PROPERTIES"}
+
+21: Is the product stable or reactive? Are there any hazardous reactions to be aware of?
+{"answer": "stable, none under normal handling.", "source": "SECTION 10: STABILITY AND REACTIVITY"}
+
+22: What are the possible hazardous decomposition products of the product?
+{"answer": "carbon monoxide, carbon dioxide and unknown organic compounds", "source": "SECTION 10: STABILITY AND REACTIVITY"}
+
+23: What is the toxicological information available for the product?
+{"answer": "Symptoms of diethylene glycol poisoning include severe abdominal cramping, diarrhea, vomiting, sweating, confusion, cardiac abnormalities, neurological abnormalities, infrequent urination, intoxication or CNS depression. If left untreated, product will metabolize to cause metabolic acidosis, renal failure, hyperkalemia, hyponatremia, paralysis, cardiac failure or death.", "source": "SIGNS AND SYMPTOMS OF OVEREXPOSURE, INGESTION"}
+
+24: What are the safety precautions and handling instructions for using the product?
+{"answer": "Use appropriate personal protective equipment. Avoid breathing vapors, mist or gas. Avoid contact with spilled material. Insure adequate ventilation. Remove all sources of ignition. Use non-sparking tools and equipment.", "source": "SECTION 6: ACCIDENTAL RELEASE MEASURES"}
+
+25: What are the potential hazards associated with the product?
+{"answer": "Harmful if swallowed, May be harmful in contact with skin, Causes mild skin irritation, Causes serious eye damage, Suspected of damaging fertility or the unborn child, toxic to kidneys, liver, central nervous system and heart.", "source": "Hazard Statements, Target Organ Effects"}
+
+26: What are the specific health effects or risks associated with exposure to the product?
+{"answer": "Severe abdominal cramping, diarrhea, vomiting, sweating, confusion, cardiac abnormalities, neurological abnormalities, infrequent urination, intoxication or CNS depression. Metabolic acidosis, renal failure, hyperkalemia, hyponatremia, paralysis, cardiac failure or death. Kidney, liver, central nervous system and heart toxicity.", "source": "SECTION 11: TOXICOLOGICAL INFORMATION, SECTION 2: HAZARD(S) IDENTIFICATION"}
+
+27: What are the emergency procedures in case of inhalation of the product?
+{"answer": "Remove victim to fresh air. If not breathing, give artificial respiration. If breathing is difficult, give oxygen. Consult a physician.", "source": "SECTION 9: SPECIAL PROTECTIVE MEASURES/RECOMMENDATIONS" }
+
+28: What are the emergency procedures in case of skin contact with the product?
+{"answer": "Wash with plenty of soap and water. If skin irritation occurs, get medical advice / attention.", "source": "SECTION 8: EXPOSURE CONTROLS / PERSONAL PROTECTION"}
+
+29: What are the emergency procedures in case of eye contact with the product?
+{"answer": "Wear protective eyeglasses or chemical safety goggles, per OSHA eye-and face-protection regulations (29 CFR 1910.133). If in eyes: Rinse cautiously with water for several minutes. Remove contact lenses if present and easy to do. Continue rinsing. Immediately call a POISON CENTER or doctor / physician.", "source": "SECTION 8: EXPOSURE CONTROLS / PERSONAL PROTECTION, P305 + P351 + P338 IF IN EYES:"}
+
+30: What are the emergency procedures in case of ingestion of the product?
+{"answer": "DO NOT wait for symptoms to develop before getting treatment. Seek medical attention immediately for poisoning.", "source": "ACUTE TOXICITY VALUES, SIGNS AND SYMPTOMS OF OVEREXPOSURE, P330 IF SWALLOWED: Rinse mouth, P312 IF ON SKIN: Call a POISON CENTER or doctor / physician if you feel unwell."}
+
+31: What is the waste disposal method for the product?
+{"answer": "Whatever cannot be saved for recovery or recycling should be disposed of in an approved waste facility in accordance with Federal, State/Provincial and Local requirements.", "source": "SECTION 13: DISPOSAL CONSIDERATIONS"}
+
+32: Are there any specific storage requirements or conditions for safely storing the product?
+{"answer": "Store in a cool dry, ventilated area.", "source": "SECTION 7: HANDLING AND STORAGE, SECTION 8: EXPOSURE CONTROLS / PERSONAL PROTECTION"}
+
+33: What is the shelf life of the product?
+{"answer": "stable at room temperature in closed containers under normal storage and handling conditions.", "source": "SECTION 10: STABILITY AND REACTIVITY"}
+
+34: What are the composition and ingredients of the product?
+{"answer": "Triethylene Glycol Monomethyl Ether (5-50%), Triethylene Glycol Monoethyl Ether (5-50%), Triethylene Glycol Monobutyl Ether (5-50%), Tetrathylene Glycol Monobutyl Ether (5-20%), Polyethylene Glycol (5-20%), Diethylene Glycol Monobutyl Ether (5-20%), Diethylene Glycol (5-15%), Diethylene Glycol Monomethyl Ether (<5%), Diethylene Glycol Monoethyl Ether (<5%), Polyalkylene Glycol Monobutyl Ethe r (5-20%), Polyalkylene Glycol Monomethyl Ether (5-20%), Polyalkylene Glycols (5-20%), Trade Secret Inhibitor", "source": "SECTION 3: COMPOSITION / INFORMATION ON INGREDIENTS"}
+
+35: Are there any known hazardous reactions or incompatibilities with other substances or materials?
+{"answer": "none known", "source": "SECTION 10: STABILITY AND REACTIVITY, SECTION 3: COMPOSITION / INFORMATION ON INGREDIENTS"}
+
+36: What is the odor of the product?
+{"answer": "Mild", "source": "SECTION 9: PHYSICAL AND CHEMICAL PROPERTIES"}
+
+37: What is the boiling point of the product?
+{"answer": "480°F (248.9°C)", "source": "INITIAL BOILING POINT AND BOILING RANGE"}
+
+38: Is the product flammable?
+{"answer": "Yes", "source": "SECTION 5: FIRE-FIGHTING MEASURES"}
+
+39: What is the solubility of the product?
+{"answer": "soluble", "source": "SECTION 9: PHYSICAL AND CHEMICAL PROPERTIES"}
+
+40: Is the product stable under certain conditions, and are there any potential decomposition products?
+{"answer": "Yes, it is stable at room temperature in closed containers under normal storage and handling conditions.", "source": "STABILITY AND REACTIVITY"} 
+
+{"answer": "Thermal oxidative decomposition can produce carbon monoxide, carbon dioxide and unknown organic compounds.", "source": "HAZARDOUS DECOMPOSITION BY-PRODUCTS"}
+
+41: What are the recommended engineering controls, personal protective equipment (PPE), and respiratory protection for handling the product?
+{"answer": "Provide general or local exhaust ventilation systems to maintain airborne concentrations below OSHA PELs. Wear chemically protective gloves, boots, aprons and gauntlets to prevent prolonged or repeated skin contact. Wear a MSHA/NIOSH approved respirator. For emergency or non-routine operations, wear an SCBA. Wear protective eyeglasses or chemical safety goggles.", "source": "SECTION 8: EXPOSURE CONTROLS / PERSONAL PROTECTION ENGINEERING CONTROLS, SKIN PROTECTION, RESPIRATORY PROTECTION, EYE PROTECTION"}
+
+42: Are there any specific environmental precautions or considerations for the disposal of the product or its containers?
+{"answer": "Whatever cannot be saved for recovery or recycling should be disposed of in an approved waste facility in accordance with Federal, State/Provincial and Local requirements. Do not allow material to enter sewages systems.", "source": "SECTION 13: DISPOSAL CONSIDERATIONS"}
+
+43: Can the specific chemical identity or exact percentage of the composition be disclosed for the product?
+{"answer": "Yes, but only partially disclosed for certain components.", "source": "SECTION 3: COMPOSITION / INFORMATION ON INGREDIENTS, SECTION 4: FIRST AID MEASURE"}
+

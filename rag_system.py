@@ -16,13 +16,39 @@ class RAGSystem:
         self.data_directory = data_dir_path
         self.db_path = db_path
         self.model_name = "nomic-embed-text"
-        self.llm_model = "llama3.1"
+        self.llm_model = "llama3.2"
 
         self.method = method
         self.filename = filename
 
         self._setup_collection() 
         self.model = Ollama(model=self.llm_model)
+
+        # self.prompt_template =  """
+        #     Instruction: 
+        #     Answer the question using only the provided context from a Safety Data Sheet. Follow these specific guidelines:
+
+        #     Context: {context}
+
+        #     Question: {question}
+
+        #     Answer Structure:
+        #     Identify and include the relevant section title(s) before the answer.
+        #     Provide a clear, concise answer based solely on the context without adding information from external sources.
+        #     Formatting:
+        #     If there is one answer, respond in this format: {{"answer": "The answer.","source": "Section title"}}.
+
+        #     If there are multiple relevant sections contributing to the answer, combine them into a single response and use this format: 
+        #     {{"answer": "Answer part 1, Answer part 2, etc.", "source": "Section title 1, Section title 2, etc."}}.
+
+        #     If the answer is not found in the context or unclear, reply:
+        #     {{"answer": "I don’t know", "source": "N/A"}}
+
+        #     Requirements:
+        #     Do not invent answers or use external knowledge.
+        #     Use only the information found in the provided context.
+        #     """
+
         self.prompt_template = """
             Answer the question based on the following context: {context}. 
             ---
