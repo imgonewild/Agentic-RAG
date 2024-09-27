@@ -3,6 +3,7 @@ import time
 from datetime import datetime
 import pandas as pd
 import json
+import os
 
 start_time = time.time()
 current_time = datetime.now().strftime('%m%d %I%M%p').lower()
@@ -78,7 +79,6 @@ def main():
             print(response)   
             try:
                 j = json.loads(response.lstrip('\n')[:response.find('}')+1])
-                print(j)
                 Answer = Answer._append({"Question":[question],"Answer":[j["answer"]],"Source":[j["source"]]},ignore_index=True)
             except json.JSONDecodeError:
                 response = response.lstrip('\n')[:response.find('}')+1]
@@ -88,7 +88,7 @@ def main():
                 print(err)
                 Answer = Answer._append({"Question":[question],"Answer":[response],"Source":[err]},ignore_index=True)
             cnt+=1
-        Answer.to_csv("output/" + filename + "/" + "Answer" + filename + ".csv",encoding='utf-8-sig')
+        Answer.to_csv("output/" + filename + "/" + "Answer_" + os.listdir('pdf')[0] + "_" + str(method) +".csv",encoding='utf-8-sig')
     print("\n--- Total %s seconds ---" % (time.time() - start_time))
 
 if __name__ == "__main__":

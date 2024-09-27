@@ -193,7 +193,7 @@ class RAGSystem:
         #current_time = datetime.now().strftime('%m%d %I%M%p').lower()
         # filename = f'{current_time}_chunks.txt'
         os.makedirs("output/" + self.filename )
-        with open("output/" + self.filename + "/" + self.data_directory  + "_" + self.filename + "_chunks.txt", 'a', encoding="utf-8") as file:
+        with open("output/" + self.filename + "/" + chunks[0].metadata["source"][4:-4] + "_chunks.txt", 'a', encoding="utf-8") as file:
             for idx, chunk in enumerate(chunks):
                 file.write(f"Chunk {idx + 1}:\n")
                 file.write(f"Content: {chunk.page_content}\n")
