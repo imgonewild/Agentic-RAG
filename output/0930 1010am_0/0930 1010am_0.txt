@@ -1,0 +1,141 @@
+1: What is the product identifier?
+{"answer": "BioRem-2000 Surface Cleaner", "source": "1. Product and Company Identification"}
+
+{"answer": "Product Identifier: ", "source": "1. Product and Company Identification"} 
+
+{"answer": "BioRem-2000", "source": "1. Product and Company Identification Product Identifier:"}
+
+2: When was the Safety Data Sheet issued?
+{"answer": "5/1/2015", "source": "Approval Date of Issue: 5/1/2015 Approval Date:"}
+
+3: What is the product description?
+{"answer": "Amber liquid", "source": "2. Hazards Identification Classification"}
+
+4: Who is the manufacturer of the product?
+{"answer": "Emergency Telephone Clift Industries, Inc.", "source": "2. Hazards Identification Classification"}
+
+5: What is the emergency telephone number for the product?
+{"answer": "800-424-9300", "source": "CHEMTREC PO Box 471578"}
+
+6: What are the hazard classifications associated with the product?
+{"answer": "Acute toxicity (Category 5), Eye Irritation (Category 2B) and Signal Word: Warning!", "source": "Hazards Identification, Precautionary Statements, 3. Composition/Information on Ingredients"}
+
+7: What is the signal word used for the product?
+{"answer": "Warning!", "source": "Hazards Identification Classification"}
+
+8: What are the hazard statements related to the product?
+{"answer": "H303+H313 +H333", "source": "Hazards Identification Classification"}
+
+9: What precautions should be taken while handling the product?
+{"answer": "Avoid contact with skin and eyes. Do not swallow. Wash hands thoroughly after handling.", "source": "7. Handling and Storage"}
+
+10: What are the first aid measures in case of inhalation?
+{"answer": "Move to fresh air. If symptoms persist, get medical attention.", "source": "4. First Aid Measures Inhalation : Not normally required. Move to fresh air. If symptoms persist, get medical attention."}
+
+11: What are the first aid measures in case of skin contact?
+{"answer": "Wash with soap and water. If irritation persists, contact a physician.", "source": "4. First Aid Measures Skin Contact"}
+
+12: What are the first aid measures in case of eye contact?
+{"answer": "Flush eyes for fifteen minutes with water. If irritation persists, contact a physician.", "source": "4. First Aid Measures, Eye Contact"}
+
+13: What are the first aid measures in case of ingestion?
+{"answer": "Contact a physician if ingested.", "source": "4. First Aid Measures, Ingestion"}
+
+14: What are the suitable extinguishing media for a fire involving the product?
+{"answer": "Water spray, dry chemical or carbon dioxide", "source": "5. Fire Fighting Measures"}
+
+15: What are the special hazards arising from the substance during a fire?
+{"answer": "Carbon monoxide and/or carbon dioxide", "source": "Special Fire Fighting Procedures: None required. Hazardous Combustion Products : Carbon monoxide and/or carbon dioxide."}
+
+16: Are there any special fire handling procedures required for the product?
+{"answer": "Special Fire Fighting Procedures: None required.", "source": "5. Fire Fighting Measures"}
+
+17: How should accidental releases, spill, or leak of the product be handled?
+{"answer": "If material is unused, collect and recover for reuse. Wear protective equipment. Not a listed hazardous waste.", "source": "Accidental Release Measures Spill or Leak Procedures 6."}
+
+18: What precautions should be taken for safe handling and storage of the product?
+{"answer": "Avoid contact with skin and eyes. Store in cool, dry area. Prevent product from freezing. Keep out of reach of children.", "source": "Handling and Storage Handling Precautions"}
+
+19: What are the exposure controls and personal protection measures recommended for the product?
+{"answer": "Engineering Controls: Use adequate ventilation to keep airborne concentrations low. PERSONAL PROTECTION Eyes: Safety goggles or glass with side shields Respirator: NIOSH/MSHA approved respirator when ventilation is inadequate. Gloves: Impervious gloves.", "source": "8. Exposure Controls/Personal Protection"}
+
+20: What are the physical and chemical properties of the product?
+{"answer": "Appearance: Amber liquid, Odor: Bland, pH: 7, Melting Point/Freezing Point: 32º F (0º C), Initial Boiling Point and Range: 212º F (100º C) Flash Point: None Method: Not available. Evaporation Rate: Not established. Flammable Limits: Not applicable.", "source": "Physical/Chemical Characteristics"}
+
+21: Is the product stable or reactive? Are there any hazardous reactions to be aware of?
+{"answer": "This is a stable material. Reacts with sodium hypochlorite or calcium hypochlorite. Incompatible Materials: Strong oxidants Conditions to Avoid: Excessive heat or flame.", "source": "11. Stability and Reactivity Data"}
+
+22: What are the possible hazardous decomposition products of the product?
+{"answer": "Carbon monoxide and/or carbon dioxide", "source": "6. Fire Fighting Measures, 7. Accidental Release Measures Spill or Leak Procedures"}
+
+23: What is the toxicological information available for the product?
+{"answer": "LD50: Not established. LC50: Not established. Carcinogenicity: IRAC: None National Toxicology Program: None OSHA: None California Prop 65: No listed ingredient Reproduction Toxicity: Not available Teratogenicity: Not available Mutagenicity: Not available Synergistic Products: Not available", "source": "11. Toxicological Data"}
+
+24: What are the safety precautions and handling instructions for using the product?
+{"answer": "Avoid contact with skin and eyes. Do not swallow. Wash hands thoroughly after handling.", "source": "Handling Precautions"}
+{"answer": "Use adequate ventilation to keep airborne concentrations low. PERSONAL PROTECTION Eyes : Safety goggles or glass with side shields Respirator : NIOSH/MSHA approved respirator when ventilation is inadequate. Gloves : Impervious gloves.", "source": "Exposure Controls/Personal Protection"}
+{"answer": "Avoid contact with skin and eyes. Do not swallow. Wash hands thoroughly after handling. Wear protective equipment.", "source": "Accidental Release Measures Spill or Leak Procedures"}
+
+25: What are the potential hazards associated with the product?
+{"answer": "Acute toxicity, Oral, Dermal, Inhalation; Eye Irritation, Category 2B; Skin Contact; Ingestion", "source": "Hazards Identification Classification and First Aid Measures sections"}
+
+26: What are the specific health effects or risks associated with exposure to the product?
+{"answer": "Acute toxicity, Eye Irritation", "source": "Hazards Identification Classification"}
+{"answer": "Causes eye irritation . Precautionary Statements Prevention:P264 Wash hands thoroughly after handling.", "source": "Hazard Statement"}
+{"answer": "Flush eyes for fifteen minutes with water. If irritation persists, contact a physician. Skin Contact :Wash with soap and water. If irritation persists,", "source": "First Aid Measures Eye Contact"}
+{"answer": "IF SWALLOWED : Rinse mouth. Do NOT induce vomiting . IF ON SKIN : Wash with plenty of soap and water.", "source": "First Aid Measures Eye Contact"}
+
+27: What are the emergency procedures in case of inhalation of the product?
+{"answer": "IF INHALED : Remove victim to fresh air and keep at rest in a position comfortable for breathing", "source": "4. First Aid Measures"}
+
+28: What are the emergency procedures in case of skin contact with the product?
+{"answer": "Wash with soap and water. If irritation persists, contact a physician.", "source": "4. First Aid Measures / Skin Contact"}
+
+29: What are the emergency procedures in case of eye contact with the product?
+{"answer": "Flush eyes for fifteen minutes with water. If irritation persists, contact a physician.", "source": "4. First Aid Measures -> Eye Contact "}
+
+30: What are the emergency procedures in case of ingestion of the product?
+{"answer": "IF INGESTED : Contact a physician.", "source": "5. First Aid Measures"}
+
+31: What is the waste disposal method for the product?
+{"answer": "Observe all federal, state and local regulations", "source": "Disposal Considerations"}
+
+32: Are there any specific storage requirements or conditions for safely storing the product?
+{"answer": "Store in cool, dry area. Prevent product from freezing. Keep out of reach of children.", "source": "7. Handling and Storage"}
+
+33: What is the shelf life of the product?
+{"answer": "3 years as long as the product is kept in a clean, dry environment away from direct sunlight and/or excessive heat", "source": "General Handling Precautions"}
+
+34: What are the composition and ingredients of the product?
+{"answer": "Ingredients CAS No. Weight % Aqua 7732-18-5 70-90 Microbes Proprietary 1-5 Enzymes Proprietary 1-5 Cleaning Aid Proprietary 10-20 Nutrients Proprietary 1-5", "source": "Composition/Information on Ingredients"}
+
+35: Are there any known hazardous reactions or incompatibilities with other substances or materials?
+{"answer": "Reacts with sodium hypochlorite or calcium hypochlorite. Incompatible Materials: Strong oxidants", "source": "Stability and Reactivity Data, 11. Toxicological Data"}
+
+36: What is the odor of the product?
+{"answer": "Bland", "source": "Physical/Chemical Characteristics Appearance"}
+
+37: What is the boiling point of the product?
+{"answer": "212º F (100º C)", "source": "[11. Physical/Chemical Characteristics]"}
+
+38: Is the product flammable?
+{"answer": "Non-flammable", "source": "9. Physical/Chemical Characteristics, Flammable Limits: Not applicable, Conditions of Flammability: Non-flammable"}
+
+39: What is the solubility of the product?
+{"answer": "Soluble VOC (g/L) : 0-10", "source": "10. Stability and Reactivity Data"}
+
+40: Is the product stable under certain conditions, and are there any potential decomposition products?
+{"answer": "This is a stable material, Hazardous Decomposition: Not established.", "source": "10. Stability and Reactivity Data"}
+
+41: What are the recommended engineering controls, personal protective equipment (PPE), and respiratory protection for handling the product?
+{"answer": "Use adequate ventilation to keep airborne concentrations low. PERSONAL PROTECTION Eyes: Safety goggles or glass with side shields Respirator: NIOSH/MSHA approved respirator when ventilation is inadequate.", "source": "Exposure Controls/Personal Protection Engineering Controls"}
+
+42: Are there any specific environmental precautions or considerations for the disposal of the product or its containers?
+{"answer": "Observe all federal, state and local regulations", "source": "Disposal Considerations"}
+
+43: Can the specific chemical identity or exact percentage of the composition be disclosed for the product?
+{"answer": "No, the exact percentage of the composition cannot be disclosed", 
+"source": "Composition/Information on Ingredients (Section 3)"}
+
+The specific information under Section 3 regarding CAS No. Weight % for Aqua states "70-90", which suggests that the exact percentage range can't be confirmed or specified exactly with high precision, but not a full disclosure of the composition is being denied.
+

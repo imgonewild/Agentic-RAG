@@ -1,0 +1,141 @@
+1: What is the product identifier?
+{"answer": "Trade name / Article No: KLEIBERIT 826.0", "source": "1.1. Product identifier"}
+
+2: When was the Safety Data Sheet issued?
+{"answer": "Printing date 08/15/2016", "source": "2.1. Classification of the substance or mixture"}
+
+3: What is the product description?
+{"answer": "Fluid with a colorless appearance, mild odor.", "source": "9.1. Information on basic physical and chemical properties"}
+
+4: Who is the manufacturer of the product?
+{"answer": "M.G.Becker GmbH + Co. KG 109-B Howie Mine Road, PO Box 1319 Max Becker Str. 4 D - 76356 Weingarten / Baden Waxhaw, NC 28173 . Germany USA", "source": "1.1 Product identifier Trade name / Article No: KLEIBERIT 826.0"}
+
+5: What is the emergency telephone number for the product?
+{"answer": "1-800-424-9300 (CHEMTREC), 1-800-451-1403 (SARA-HOTLINE)", "source": "1.4. Emergency telephone number"}
+
+6: What are the hazard classifications associated with the product?
+{"answer": "Void, Hazardous Material (US), NFPA-ratings (scale 0 - 4), HMIS-ratings (scale 0 - 4)", "source": "2.2. Label elements"}
+
+7: What is the signal word used for the product?
+{"answer": "Void", "source": "2.2. Label elements"}
+
+8: What are the hazard statements related to the product?
+{"answer": "Void", "source": "2.2 Label elements"}
+{"answer": "None", "source": "2.2 Label elements"}
+
+9: What precautions should be taken while handling the product?
+{"answer": "No special measures required for safe handling.", "source": "7.1. Precautions for safe handling"}
+
+10: What are the first aid measures in case of inhalation?
+{"answer": "Supply fresh air; consult doctor in case of complaints", "source": "4.1. Description of first aid measures"}
+
+11: What are the first aid measures in case of skin contact?
+{"answer": "Generally the product does not irritate the skin.", "source": "4.1. Description of first aid measures"}
+
+12: What are the first aid measures in case of eye contact?
+{"answer": "Rinse opened eye for several minutes under running water. Seek medical treatment.", "source": "4.1. Description of first aid measures"}
+
+13: What are the first aid measures in case of ingestion?
+{"answer": "Rinse out mouth with plenty of water. Rinse out mouth and then drink plenty of water. Seek medical treatment.", "source": "4.1. Description of first aid measures"}
+
+14: What are the suitable extinguishing media for a fire involving the product?
+{"answer": "CO2, extinguishing powder or water spray", "source": "5.1. Extinguishing media"}
+{"answer": "Fight lar ger fires with water spray or alcohol resistant foam", "source": "5.1. Extinguishing media"}
+
+15: What are the special hazards arising from the substance during a fire?
+{"answer": "No further relevant information available", "source": "5.2. Special hazards arising from the substance or mixture"}
+
+16: Are there any special fire handling procedures required for the product?
+{"answer": "Fight lar ger fires with water spray or alcohol resistant foam, Wear self-contained respiratory protective device.", "source": "5.1 Extinguishing media and 5.3 Advice for firefighters"}
+
+17: How should accidental releases, spill, or leak of the product be handled?
+{"answer": "Absorb with liquid-binding material (sand, diatomite, acid binders, universal binders, sawdust), see Section 6.3 for methods and material for containment and cleaning up", "source": "6.3. Methods and material for containment and cleaning up"}
+
+18: What precautions should be taken for safe handling and storage of the product?
+{"answer": "No special measures required for safe handling, keep container tightly closed for storage, observe national regulations in one common storage facility", "source": "7.1 Precautions for safe handling, 7.2 Conditions for safe storage including any incompatibilities, and 7.3 Specific end use(s)"}
+
+19: What are the exposure controls and personal protection measures recommended for the product?
+{"answer": "General protective and hygienic measures should be followed, breathing equipment is not required, protective gloves are recommended for protection of hands.", "source": "8.2 Exposure controls and Personal protective equipment"}
+
+20: What are the physical and chemical properties of the product?
+{"answer": "Appearance: Form: Fluid Color: Colorless Odor: Mild Odor threshold: Not determined pH-value at 20 °C (68 °F): 6-7.5 (100g/L) Melting point/Melting range: -20 °C (-4 °F) Boiling point/Boiling range: 229 °C (444 °F) Setting temperature / range: 4 - 8 °C (39 - 46 °F) Flash Point: >200 °C (>392 °F) Vapour Pressure at 20 °C (68 °F): <0.1 hPa (<0 mm Hg) Density at 20 °C (68 °F): 1.13 g/cm³ (9.43 lbs/gal)", "source": "9.1. Information on basic physical and chemical properties"}
+
+21: Is the product stable or reactive? Are there any hazardous reactions to be aware of?
+{"answer": "Stable when stored and used properly. No dangerous reactions known.", "source": "10.2. Chemical stability"}
+{"answer": "No hazardous reactions to be aware of.", "source": "10.3. Possibility of hazardous reactions "}
+
+22: What are the possible hazardous decomposition products of the product?
+{"answer": I dont know, "source": N/A"}
+
+23: What is the toxicological information available for the product?
+{"answer": "Acute toxicity: Based on available data, the classification criteria are not met. LD/LC50 values that are relevant for classification: 25322-68-3polyethylene glycol Oral LD 50>15000 mg/kg (rat) DermalLD 50>20000 mg/kg (rabbit) >2000 mg/kg (rat). Primary irritant effect: on the skin: Based on available data, the classification criteria are not met. on the eye: Based on available data, the classification criteria are not met. Sensitization: Based on available data, the classification criteria are not met.", "source": "11.1. Information on toxicological effects"}
+
+24: What are the safety precautions and handling instructions for using the product?
+{"answer": "No special measures required for handling, general protective and hygienic measures should be followed; wear self-contained respiratory protective device as a precaution; keep container tightly closed during storage; observe national regulations for common storage facilities.", "source": "7.1 Handling, 6.3 Methods and material for containment and cleaning up, 7.2 Conditions for safe storage, including any incompatibilities"}
+
+25: What are the potential hazards associated with the product?
+{"answer": "The product does not contain any organic halogen compounds (AOX), nitrates, heavy metal compounds or formaldehydes. The substance is classified according to Regulation (EC) No 1272 /2008 - GHS/CLP as being non-hazardous but the OSHA Hazard Communication Standard (29 CFR 1910.1200) classifies it as not hazardous.", "source": "2.3 Other hazards, 2.1 Classification of the substance or mixture"}
+
+26: What are the specific health effects or risks associated with exposure to the product?
+{"answer": "No further relevant information available for most important symptoms and effects, both acute and delayed", 
+"source": "4.2. Most important symptoms and effects, both acut e and delayed"}
+{"answer": "May cause long-term adverse effects in the aquatic environment", 
+"source": "12.1. Toxicity"}
+
+27: What are the emergency procedures in case of inhalation of the product?
+{"answer": "Supply fresh air; consult doctor in case of complaints", "source": "4.1. Description of first aid measures"}
+
+28: What are the emergency procedures in case of skin contact with the product?
+{"answer": "After skin contact: Generally the product does not irritate the skin.", "source": "6.1. Personal precautions, protective equipment and emergency procedures"}
+
+29: What are the emergency procedures in case of eye contact with the product?
+{"answer": "Rinse opened eye for several minutes under running water.", "source": "4.1. Description of first aid measures"}
+
+30: What are the emergency procedures in case of ingestion of the product?
+{"answer": "Rinse out mouth with plenty of water. Rinse out mouth and then drink plenty of water. Seek medical treatment.", "source": "6.1 Personal precautions, protective equipment and emergency procedures"}
+
+31: What is the waste disposal method for the product?
+{"answer": "Can be burned with household garbage after consulting with the waste disposal facility operator and the pertinent authorities and adhering to the necessary technical regulations.", "source": "Disposal considerations 13.1. Waste treatment methods"}
+
+32: Are there any specific storage requirements or conditions for safely storing the product?
+{"answer": "Keep container tightly closed. Observe national regulations.", "source": "7.2. Conditions for safe storage, including any incompatibilities"}
+
+33: What is the shelf life of the product?
+{"answer": "No further relevant information available.", "source": "12.2. Persistence and degradability"}
+
+However, it seems that the product's stability and reactivity are stable when stored and used properly (Section 10.2), but there is no specific information on shelf life.
+
+{"answer": I dont know", "source": N/A}
+
+34: What are the composition and ingredients of the product?
+{"answer": ">99% polyethylene glycol", "source": "Composition/information on ingredients"}
+
+35: Are there any known hazardous reactions or incompatibilities with other substances or materials?
+{"answer": "No further relevant information available. · Reactivity see item 10.1 · 10.2. Chemical stability Stable when stored and used properly.", "source": "Reactivity and Other Hazards / Stability and reactivity"}
+
+36: What is the odor of the product?
+{"answer": I don't know, "source": N/A}
+
+37: What is the boiling point of the product?
+{"answer": "229 °C (444 °F)", "source": "9.1 Information on basic physical and chemical properties"}
+
+38: Is the product flammable?
+{"answer": "Not flammable", "source": "5.1. Extinguishing media and 5.2. Special hazards arising from the substance or mixture"}
+
+39: What is the solubility of the product?
+{"answer": "Not miscible or difficult to mix.", "source": "12.1. Solubility in / Miscibility with Water"}
+
+40: Is the product stable under certain conditions, and are there any potential decomposition products?
+{"answer": "Stable when stored and used properly. No dangerous reactions known. No decomposition products known.", "source": "10.2 Chemical stability 10.3 Possibility of hazardous reactions 10.6 Hazardous decomposition products"}
+
+41: What are the recommended engineering controls, personal protective equipment (PPE), and respiratory protection for handling the product?
+{"answer": "No further relevant information available. Exposure controls/personal protection", "source": "8.1. Control parameters"}
+{"answer": "The usual precautionary measures for handling chemicals should be followed. Personal protective equipment: Protective gloves (Material of gloves A Nitrile rubber - NBR)", "source": "8.2. Exposure controls"}
+{"answer": "Wear self-contained respiratory protective device", "source": "5.3. Advice for firefighters"}
+
+42: Are there any specific environmental precautions or considerations for the disposal of the product or its containers?
+{"answer": "Do not allow undiluted product or large quantities of it to reach ground water, water course or sewage system.", "source": "12.5 Additional ecological information"}
+
+43: Can the specific chemical identity or exact percentage of the composition be disclosed for the product?
+{"answer": "No specific chemical identity or exact percentage of the composition can be disclosed", "source": "10.3. Possibility of hazardous about design of technical systems: No further data; see item 7."}
+

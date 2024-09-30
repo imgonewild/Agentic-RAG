@@ -16,7 +16,7 @@ class RAGSystem:
         self.data_directory = data_dir_path
         self.db_path = db_path
         self.model_name = "nomic-embed-text"
-        self.llm_model = "llama3.2"
+        self.llm_model = "llama3.1"
 
         self.method = method
         self.filename = filename
@@ -147,9 +147,17 @@ class RAGSystem:
 
     def answer_query(self, query_text):
         prompt = self._get_prompt(query_text)
-        response_text = self.model.invoke(prompt)
+        response_text = self.model.stream(prompt)
         formatted_response = f"{response_text}\n"
         return formatted_response
+    
+    ##########testing ollama streaming##############
+    def answer_query_streaming(self, query_text):
+        prompt = self._get_prompt(query_text)
+        response_text = self.model.stream(prompt)
+        return response_text
+    ####################################################
+
 
     def _load_documents(self):
         loader = PyPDFDirectoryLoader(self.data_directory)
@@ -165,7 +173,7 @@ class RAGSystem:
 
     def _document_splitter(self, documents):
         if self.method == 0:
-            print("overlap")
+            # print("overlap")
             splitter = RecursiveCharacterTextSplitter(
                 chunk_size=1500,
                 chunk_overlap=600,
@@ -192,6 +200,7 @@ class RAGSystem:
         #from datetime import datetime
         #current_time = datetime.now().strftime('%m%d %I%M%p').lower()
         # filename = f'{current_time}_chunks.txt'
+        
         os.makedirs("output/" + self.filename )
         with open("output/" + self.filename + "/" + chunks[0].metadata["source"][4:-4] + "_chunks.txt", 'a', encoding="utf-8") as file:
             for idx, chunk in enumerate(chunks):

@@ -1,0 +1,61 @@
+Question	Answer
+What is the Logix5000 controller used for	"The Logix5000 controller is used for managing industrial control systems, including I/O modules, communication networks, and more."
+What is a connection in the context of Logix5000 controllers?	"A connection is a communication link between two devices, such as a controller and an I/O module."
+How is memory managed in Logix5000 controllers?	"Memory is divided into different areas for I/O tags, logic routines, and produced/consumed tags depending on the controller type."
+What does the Requested Packet Interval (RPI) specify?	"The RPI specifies the period at which data updates over a connection, typically configured in milliseconds."
+How do you inhibit a connection in Logix5000 controllers?	"You can inhibit a connection through the I/O Configuration folder, which disables communication with the module."
+What happens when a connection fails in a Logix5000 controller?	"The controller continues operating based on old data from the device, and you may configure it to generate a major fault."
+How do you monitor the health of a module?	Use the Get System Value (GSV) instruction to monitor module status and connection health.
+What are the different types of faults in Logix5000 controllers?	"Major and minor faults occur, such as when a connection is dropped or due to configuration issues."
+What is the function of the Controller Log?	"The Controller Log stores entries related to interactions, faults, or changes made to the controller."
+What kind of changes are logged by the Controller Log?	"Changes such as project downloads, online edits, firmware updates, and mode changes are logged."
+What does the GSV instruction do?	The GSV retrieves specific system information from the controller and places it in a destination tag.
+What does the SSV instruction do?	The SSV sets a specific system value in the controller using data from a source tag.
+What are the key components of a controller log entry?	"Each log entry includes a timestamp, user information, a description of the event, and the workstation name."
+What is the role of the AuditValue in Logix5000 controllers?	The AuditValue is a unique identifier generated when a project is downloaded or a change is detected in the controller.
+What is the purpose of the CompactFlash card in Logix5000 controllers?	It is used to store log files and other data for later review and backup.
+What is a major fault in the controller and how is it triggered?	"A major fault is a critical error that stops the controller・s operation, often triggered by loss of connection to a critical module."
+How do you configure a major fault to occur in the controller?	You can set modules to generate a major fault if they lose connection to the controller.
+What is an SFC (Sequential Function Chart) in Logix5000 controllers?	"It is a graphical language used for programming control sequences, especially useful for managing complex operations."
+How are controller logs stored?	Logs are stored as plain text files in Tab Separated Value (TSV) format on removable media like a CompactFlash card.
+What kind of media can Logix5000 controllers write logs to?	Logs can be written to a CompactFlash card or other supported removable media depending on the controller model.
+How does the controller handle a loss of communication with a module?	"If communication is lost, the controller operates based on the last received data from the module, unless configured otherwise."
+What is the Change Detection feature in Logix5000 controllers?	"Change Detection monitors changes made to the controller, such as configuration edits, and updates the AuditValue accordingly."
+What is the role of the GSV instruction in Change Detection?	"The GSV retrieves the current Change Detection settings or values, such as the AuditValue."
+How do you inhibit a module using logic?	"By using GSV and SSV instructions to manipulate the Mode attribute, you can inhibit or uninhibit a module from logic."
+What does the attribute ．FaultCode・ indicate?	"It indicates a fault code related to a specific module, showing whether communication or operation issues have occurred."
+What does ．Total Entry Count・ indicate in the Controller Log?	It tracks the total number of log entries added since the last firmware update.
+How can you reset the Execution Modification Count?	The Execution Modification Count can be reset using the Set System Value (SSV) instruction.
+What does the 'LEDStatus' attribute monitor?	"It monitors the state of the I/O status indicator on the front of the controller, indicating module communication status."
+What happens when you enable automatic log writes?	Buffered entries are automatically written to the removable media when the internal buffer reaches 80% capacity.
+How can you convert memory information from INTs to DINT?	You use the Copy (COP) instruction to convert the lower and upper 16 bits into a 32-bit DINT value.
+What is the purpose of the ．Modify Execution Count・?	"It tracks modifications that affect the controller・s execution, such as online edits or changes to force settings."
+What does the ．System Overhead Time Slice・ modify?	It adjusts the percentage of controller time allocated to communication and system tasks.
+What happens if you remove the CompactFlash card during logging?	"The controller stops writing to removable media, but log entries continue to buffer internally."
+How is memory usage viewed in real-time?	The Logix Designer application provides a Memory tab in the Controller Properties that shows actual memory usage.
+What is the maximum size of a log file?	Log files can grow up to 1 MB before the controller creates a new file.
+What is the ChangesToDetect attribute?	This attribute specifies which events are monitored by the controller for change detection.
+How do you write a custom log entry?	A custom log entry can be written using a Message instruction with a user-defined data type for the log description and extended information.
+What does a flashing green status indicator on the controller signify?	It signifies that at least one module object is not running.
+What type of faults does the Logix5000 controller log?	"It logs major faults, major fault clear events, mode changes, and other significant controller operations."
+What kind of changes trigger the AuditValue update?	"Changes such as project downloads, online edits, mode changes, and certain configuration changes trigger an update."
+What is the default value of the ChangesToDetect mask?	"The default value is 0xFFFFFFFFFFFFFFFF, which indicates that all events are monitored."
+What events always trigger an AuditValue update?	Events like project downloads or changes to the ChangesToDetect configuration always trigger an update.
+How do you retrieve system data from a controller?	System data is retrieved using the Get System Value (GSV) instruction.
+How can you estimate controller memory offline?	You can estimate memory usage by viewing the Memory tab in the Controller Properties of the Logix Designer application.
+What does the 'Program properties modified' log entry record?	"It records changes to a program・s properties, such as the main routine or fault routine."
+How do you monitor communication health for a specific device?	The GSV instruction can retrieve the 'FaultCode' for the specific device to check its communication status.
+How are buffered log entries written to removable media?	Buffered entries are written when the buffer reaches 80% capacity or when triggered by a Message instruction.
+What is the role of the Major Fault Handler?	It handles faults that interrupt the execution of logic and can either clear the fault or shut down the controller.
+How can you estimate the largest contiguous block of memory?	Use a Message (MSG) instruction configured to retrieve memory information and identify the largest free memory block.
+What happens if the controller buffer is full?	The controller overwrites the oldest log entries in a circular fashion unless the entries are written to removable media.
+What does the attribute ．Free I/O Memory・ indicate?	It indicates the amount of available memory dedicated to I/O tags in the controller.
+What does a major fault code 3/16 signify?	It indicates that a required I/O module connection failed while the controller was in Run mode.
+How do you configure the controller to save logs automatically?	Automatic log saving is configured via a Message instruction with the ：Controller Log Automatic Write Set； service.
+What happens if the CompactFlash card is full?	The controller stops writing logs to the card and behaves as if the card is not present.
+What are produced and consumed tags used for?	"They are used for communication between controllers, allowing them to share real-time data."
+What does a ．Correlation Affected・ event mean?	It indicates that changes occurred in the controller that affect the synchronization between the controller and the downloaded project file.
+What is the purpose of the ．Execute Modification Count・?	
+How do you configure change detection programmatically?	
+What are removable media used for in Logix5000 controllers?	
+"What is a DINT data type, and how is it used?"	
