@@ -24,30 +24,41 @@ class RAGSystem:
         self._setup_collection() 
         self.model = Ollama(model=self.llm_model)
 
-        # self.prompt_template =  """
-        #     Instruction: 
-        #     Answer the question using only the provided context from a Safety Data Sheet. Follow these specific guidelines:
+#         self.prompt_template = """
+# Instruction: Act as an expert safety advisor analyzing a Safety Data Sheet to address the given question. Use only the provided context, but approach the task with a proactive, problem-solving mindset. Follow these guidelines:
+# Context: {context}
+# Question: {question}
 
-        #     Context: {context}
+# Approach:
+# Analyze the safety data sheet thoroughly, focusing on the most relevant sections for the question.
+# Identify potential hazards, safety concerns, or key information related to the query.
+# Formulate a comprehensive response that not only answers the question but also provides actionable advice and recommendations.
+# If applicable, suggest preventive measures, best practices, or alternative solutions to mitigate risks.
+# Prioritize user safety and regulatory compliance in your recommendations.
 
-        #     Question: {question}
+# Response Structure:
+# Compile your analysis into a concise, actionable response that includes:
 
-        #     Answer Structure:
-        #     Identify and include the relevant section title(s) before the answer.
-        #     Provide a clear, concise answer based solely on the context without adding information from external sources.
-        #     Formatting:
-        #     If there is one answer, respond in this format: {{"answer": "The answer.","source": "Section title"}}.
+# Direct answer to the question
+# Key safety considerations
+# Practical recommendations or solutions
+# Any critical warnings or precautions
 
-        #     If there are multiple relevant sections contributing to the answer, combine them into a single response and use this format: 
-        #     {{"answer": "Answer part 1, Answer part 2, etc.", "source": "Section title 1, Section title 2, etc."}}.
+# Formatting:
+# Provide your response in the following JSON format:
+# {{
+#   "answer": "Your comprehensive response",
+#   "source": "Relevant section title(s) from the Safety Data Sheet"
+# }}
 
-        #     If the answer is not found in the context or unclear, reply:
-        #     {{"answer": "I don’t know", "source": "N/A"}}
-
-        #     Requirements:
-        #     Do not invent answers or use external knowledge.
-        #     Use only the information found in the provided context.
-        #     """
+# Requirements:
+# Maintain the persona of an expert safety advisor throughout your response.
+# Use only the information provided in the context, but apply critical thinking and expertise to derive insights and recommendations.
+# Prioritize user safety and practical, actionable advice in your recommendations.
+# Ensure all key information, analysis, and recommendations are included within the single "answer" field of the response.
+# When relevant, mention the importance of following local regulations and consulting with appropriate authorities or experts for complex situations.
+# Keep the response concise yet comprehensive, focusing on the most crucial information and advice.
+# """
 
         self.prompt_template = """
             Answer the question based on the following context: {context}. 
@@ -63,20 +74,6 @@ class RAGSystem:
             {{"answer": "I dont know", "source": "N/A"}}.
         """
 
-        # self.prompt_template = """
-        #     Based on the following context: {context} and answer the question: {question}
-
-        #     Reply in the format: 
-        #     {{"answer": "your_answer_here", "source": "your_section_title_here"}}
-
-        #     If the answer contains multiple parts, combine them into a single answer and reply in the format:
-        #     {{"answer": "answer1, answer2, answer3, etc.", "source": "source1, source2, source3, etc."}}
-
-        #     If you cannot find the answer, reply:
-        #     {{"answer": "The document doesnt have anything about it", "source": "N/A"}}
-
-        #     Moreover, do not provide any additional notes or suggestions.
-        # """
 
     def _clean_text(self, text):
         """ Clean the document text by removing unnecessary headers, footers, and formatting characters. """
@@ -147,17 +144,33 @@ class RAGSystem:
 
     def answer_query(self, query_text):
         prompt = self._get_prompt(query_text)
-        response_text = self.model.stream(prompt)
+        response_text = self.model.invoke(prompt)
         formatted_response = f"{response_text}\n"
         return formatted_response
     
-    ##########testing ollama streaming##############
+    ############ testing ollama streaming ##############
     def answer_query_streaming(self, query_text):
         prompt = self._get_prompt(query_text)
         response_text = self.model.stream(prompt)
         return response_text
     ####################################################
 
+    #經過測試新的prompt若不指定輸出格式較容易造成輸出格式錯誤的問題
+    ########### testing ollama json output #############
+    def answer_query_json(self, query_text):
+        prompt = self._get_prompt(query_text)
+        response_text = self.model.invoke(prompt,format='json')
+        formatted_response = f"{response_text}\n"
+        return formatted_response
+    ####################################################
+
+    #測試Ollama內的Chat功能看看能不能實現LLM的記憶功能
+    ######## testing ollama chat function ##############
+
+    # def answer_query_json(self,query_text,pervious_message):
+    #     Ollama.
+
+    ####################################################
 
     def _load_documents(self):
         loader = PyPDFDirectoryLoader(self.data_directory)
