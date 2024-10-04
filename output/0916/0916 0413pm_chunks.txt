@@ -1,5 +1,5 @@
 Chunk 1:
-Content: 3M™ Hi-Strength Spray Adhesive 90 01/05/17
+Content: 3Mï¿½ Hi-Strength Spray Adhesive 90 01/05/17
  
  
 __________________________________________________________________________________________
@@ -14,7 +14,7 @@ Document Group: 22-4028-1 Version Number: 11.03
 Issue Date: 01/05/17 Supercedes Date: 10/26/16
 SECTION 1: Identification
 1.1. Product identifier
-3M™ Hi-Strength Spray Adhesive 90 
+3Mï¿½ Hi-Strength Spray Adhesive 90 
  
  
 Product Identification Numbers
@@ -22,7 +22,7 @@ LN-A100-1898-9, 70-0050-2398-4, 70-0050-2407-3, 70-0069-6895-5, 70-0069-6896-3, 
 1.2. Recommended use and restrictions on use
 Recommended use
 Adhesive, Hi-Strength Aerosol Adhesive
-1.3. Supplier’s details
+1.3. Supplierï¿½s details
 MANUFACTURER: 3M
 DIVISION: Construction and Home Improvement Markets
 ADDRESS: 3M Center, St. Paul, MN 55144-1000, USA
@@ -46,7 +46,7 @@ Metadata: {'source': 'pdf\\Adhesive, 3M Spray adhesive 90 multi purpose SDS (1).
 
 --------------------------------------------------------------------------------
 Chunk 2:
-Content: 3M™ Hi-Strength Spray Adhesive 90 01/05/17
+Content: 3Mï¿½ Hi-Strength Spray Adhesive 90 01/05/17
  
  
 __________________________________________________________________________________________
@@ -94,7 +94,7 @@ Metadata: {'source': 'pdf\\Adhesive, 3M Spray adhesive 90 multi purpose SDS (1).
 
 --------------------------------------------------------------------------------
 Chunk 3:
-Content: 3M™ Hi-Strength Spray Adhesive 90 01/05/17
+Content: 3Mï¿½ Hi-Strength Spray Adhesive 90 01/05/17
  
  
 __________________________________________________________________________________________
@@ -140,7 +140,7 @@ Metadata: {'source': 'pdf\\Adhesive, 3M Spray adhesive 90 multi purpose SDS (1).
 
 --------------------------------------------------------------------------------
 Chunk 4:
-Content: 3M™ Hi-Strength Spray Adhesive 90 01/05/17
+Content: 3Mï¿½ Hi-Strength Spray Adhesive 90 01/05/17
  
  
 __________________________________________________________________________________________
@@ -192,7 +192,7 @@ Metadata: {'source': 'pdf\\Adhesive, 3M Spray adhesive 90 multi purpose SDS (1).
 
 --------------------------------------------------------------------------------
 Chunk 5:
-Content: 3M™ Hi-Strength Spray Adhesive 90 01/05/17
+Content: 3Mï¿½ Hi-Strength Spray Adhesive 90 01/05/17
  
  
 __________________________________________________________________________________________
@@ -238,8 +238,8 @@ Odor threshold No Data Available
 pH No Data Available
 Melting point Not Applicable
 Boiling Point Not Applicable
-Flash Point -42.00 ºF [Test Method: Tagliabue Closed Cup]
-Evaporation rate 1.9 [Ref Std: ETHER=1]
+Flash Point -42.00 ï¿½F Test Method: Tagliabue Closed Cup
+Evaporation rate 1.9 Ref Std: ETHER=1
 Flammability (solid, gas) Flammable Aerosol: Category 1.
 Flammable Limits(LEL) No Data Available
 Flammable Limits(UEL) No Data Available
@@ -247,15 +247,15 @@ Metadata: {'source': 'pdf\\Adhesive, 3M Spray adhesive 90 multi purpose SDS (1).
 
 --------------------------------------------------------------------------------
 Chunk 6:
-Content: 3M™ Hi-Strength Spray Adhesive 90 01/05/17
+Content: 3Mï¿½ Hi-Strength Spray Adhesive 90 01/05/17
  
  
 __________________________________________________________________________________________
  
 Page 6 of 12 Vapor Pressure No Data Available
-Vapor Density 2.97 [Ref Std: AIR=1]
+Vapor Density 2.97 Ref Std: AIR=1
 Density 0.726 g/ml
-Specific Gravity 0.726 [Ref Std: WATER=1]
+Specific Gravity 0.726 Ref Std: WATER=1
 Solubility in Water Nil
 Solubility- non-water No Data Available
 Partition coefficient: n-octanol/ water No Data Available
@@ -264,12 +264,12 @@ Decomposition temperature Not Applicable
 Viscosity Not Applicable
 Average particle size No Data Available
 Bulk density No Data Available
-Hazardous Air Pollutants 0 % weight [Test Method: Calculated]
+Hazardous Air Pollutants 0 % weight Test Method: Calculated
 Molecular weight No Data Available
-Volatile Organic Compounds <=55 % [ Test Method: calculated per CARB title 2]
+Volatile Organic Compounds <=55 %  Test Method: calculated per CARB title 2
 Percent volatile <=75 % weight
 Softening point No Data Available
-VOC Less H2O & Exempt Solvents 398 g/l [Test Method: calculated SCAQMD rule 443.1]
+VOC Less H2O & Exempt Solvents 398 g/l Test Method: calculated SCAQMD rule 443.1
 SECTION 10: Stability and reactivity
 10.1. Reactivity
 This material may be reactive with certain agents under certain conditions - see the remaining headings in this section.
@@ -299,7 +299,7 @@ Metadata: {'source': 'pdf\\Adhesive, 3M Spray adhesive 90 multi purpose SDS (1).
 
 --------------------------------------------------------------------------------
 Chunk 7:
-Content: 3M™ Hi-Strength Spray Adhesive 90 01/05/17
+Content: 3Mï¿½ Hi-Strength Spray Adhesive 90 01/05/17
  
  
 __________________________________________________________________________________________
@@ -348,7 +348,7 @@ Metadata: {'source': 'pdf\\Adhesive, 3M Spray adhesive 90 multi purpose SDS (1).
 
 --------------------------------------------------------------------------------
 Chunk 8:
-Content: 3M™ Hi-Strength Spray Adhesive 90 01/05/17
+Content: 3Mï¿½ Hi-Strength Spray Adhesive 90 01/05/17
  
  
 __________________________________________________________________________________________
@@ -402,7 +402,7 @@ Metadata: {'source': 'pdf\\Adhesive, 3M Spray adhesive 90 multi purpose SDS (1).
 
 --------------------------------------------------------------------------------
 Chunk 9:
-Content: 3M™ Hi-Strength Spray Adhesive 90 01/05/17
+Content: 3Mï¿½ Hi-Strength Spray Adhesive 90 01/05/17
  
  
 __________________________________________________________________________________________
@@ -477,7 +477,7 @@ Metadata: {'source': 'pdf\\Adhesive, 3M Spray adhesive 90 multi purpose SDS (1).
 
 --------------------------------------------------------------------------------
 Chunk 10:
-Content: 3M™ Hi-Strength Spray Adhesive 90 01/05/17
+Content: 3Mï¿½ Hi-Strength Spray Adhesive 90 01/05/17
  
  
 __________________________________________________________________________________________
@@ -556,7 +556,7 @@ Metadata: {'source': 'pdf\\Adhesive, 3M Spray adhesive 90 multi purpose SDS (1).
 
 --------------------------------------------------------------------------------
 Chunk 11:
-Content: 3M™ Hi-Strength Spray Adhesive 90 01/05/17
+Content: 3Mï¿½ Hi-Strength Spray Adhesive 90 01/05/17
  
  
 __________________________________________________________________________________________
@@ -602,7 +602,7 @@ Metadata: {'source': 'pdf\\Adhesive, 3M Spray adhesive 90 multi purpose SDS (1).
 
 --------------------------------------------------------------------------------
 Chunk 12:
-Content: 3M™ Hi-Strength Spray Adhesive 90 01/05/17
+Content: 3Mï¿½ Hi-Strength Spray Adhesive 90 01/05/17
  
  
 __________________________________________________________________________________________

@@ -1,61 +1,41 @@
 Question
-['What is the Logix5000 controller used for?']
-['What is a connection in the context of Logix5000 controllers?']
-['How is memory managed in Logix5000 controllers?']
-['What does the Requested Packet Interval (RPI) specify?']
-['How do you inhibit a connection in Logix5000 controllers?']
-['What happens when a connection fails in a Logix5000 controller?']
-['How do you monitor the health of a module?']
-['What are the different types of faults in Logix5000 controllers?']
-['What is the function of the Controller Log?']
-['What kind of changes are logged by the Controller Log?']
-['What does the GSV instruction do?']
-['What does the SSV instruction do?']
-['What are the key components of a controller log entry?']
-['What is the role of the AuditValue in Logix5000 controllers?']
-['What is the purpose of the CompactFlash card in Logix5000 controllers?']
-['What is a major fault in the controller and how is it triggered?']
-['How do you configure a major fault to occur in the controller?']
-['What is an SFC (Sequential Function Chart) in Logix5000 controllers?']
-['How are controller logs stored?']
-['What kind of media can Logix5000 controllers write logs to?']
-['How does the controller handle a loss of communication with a module?']
-['What is the Change Detection feature in Logix5000 controllers?']
-['What is the role of the GSV instruction in Change Detection?']
-['How do you inhibit a module using logic?']
-['What does the attribute ．FaultCode・ indicate?']
-['What does ．Total Entry Count・ indicate in the Controller Log?']
-['How can you reset the Execution Modification Count?']
-"[""What does the 'LEDStatus' attribute monitor?""]"
-['What happens when you enable automatic log writes?']
-['How can you convert memory information from INTs to DINT?']
-['What is the purpose of the ．Modify Execution Count・?']
-['What does the ．System Overhead Time Slice・ modify?']
-['What happens if you remove the CompactFlash card during logging?']
-['How is memory usage viewed in real-time?']
-['What is the maximum size of a log file?']
-['What is the ChangesToDetect attribute?']
-['How do you write a custom log entry?']
-['What does a flashing green status indicator on the controller signify?']
-['What type of faults does the Logix5000 controller log?']
-['What kind of changes trigger the AuditValue update?']
-['What is the default value of the ChangesToDetect mask?']
-['What events always trigger an AuditValue update?']
-['How do you retrieve system data from a controller?']
-['How can you estimate controller memory offline?']
-"[""What does the 'Program properties modified' log entry record?""]"
-['How do you monitor communication health for a specific device?']
-['How are buffered log entries written to removable media?']
-['What is the role of the Major Fault Handler?']
-['How can you estimate the largest contiguous block of memory?']
-['What happens if the controller buffer is full?']
-['What does the attribute ．Free I/O Memory・ indicate?']
-['What does a major fault code 3/16 signify?']
-['How do you configure the controller to save logs automatically?']
-['What happens if the CompactFlash card is full?']
-['What are produced and consumed tags used for?']
-['What does a ．Correlation Affected・ event mean?']
-['What is the purpose of the ．Execute Modification Count・?']
-['How do you configure change detection programmatically?']
-['What are removable media used for in Logix5000 controllers?']
-"['What is a DINT data type, and how is it used?']"
+What is the maximum motor capacity for model BA0001 in normal duty?
+What is the rated output current for model BA0001 in normal duty?
+What is the maximum motor capacity for model BA0018 in heavy duty?
+What is the rated output current for model BA0018 in heavy duty?
+What is the recommended drive for submersible motors?
+What is the maximum rated frequency for the V1000 drive?
+What is the overload rating for the drive?
+What type of motor is recommended for 100% continuous torque at low speeds?
+What is the recommended cooling method for drives in enclosed panels?
+What is the recommended braking torque in open loop vector control for PM motors?
+What is the precaution when using a drive for lifting applications?
+What is the upper frequency limit setting by default for the drive?
+What is the input power supply voltage for 200 V Class single-phase input models?
+How long should you wait after powering off the drive before servicing it?
+What is the function of a braking resistor?
+What does the S1 DIP switch control?
+How can motor overheat during DC injection braking be prevented?
+What does the MEMOBUS/Modbus communication function allow?
+What is the purpose of Auto-Tuning?
+What does the drive's protection function monitor?
+How many cooling fans does model BA0018 have?
+What is the default control mode for the drive?
+What is the function of the LO/RE LED?
+What should you check before Auto-Tuning the drive?
+What should you do if a fault occurs during power loss?
+What is the recommended motor for low speed continuous operation?
+What is the standard ambient temperature range for the V1000 drive?
+What is the frequency jump function used for?
+How should the drive be transported to avoid damage?
+What is the maximum power supply capacity for which a reactor is required?
+What is the function of the optional 24 VDC power supply?
+What is the function of parameter A1-01?
+How is the cooling fan replaced?
+How should the drive be installed?
+What happens if the drive detects a stall condition?
+What is the drive's carrier frequency setting used for?
+What is the effect of lowering the carrier frequency?
+What is the warning label instruction for capacitor discharge?
+What is the consequence of exceeding 150% peak current frequently?
+What is the general recommendation when using an explosion-proof motor?

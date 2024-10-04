@@ -12,7 +12,7 @@ import os
 # pip install -U langchain-chroma
 class RAGSystem:
     def __init__(self, data_dir_path = "pdf", db_path = "chroma", method=0, filename = 'test') -> None:
-        # print("inside rag system")
+        print("inside rag system")
         self.data_directory = data_dir_path
         self.db_path = db_path
         self.model_name = "nomic-embed-text"
@@ -96,8 +96,17 @@ class RAGSystem:
         print(f"Number of existing ids in db: {len(ids_in_db)}")
         # add chunks to db - check if they already exist
         chunks_to_add = [i for i in chunks if i.metadata.get("chunk_id") not in ids_in_db]
+        print("finish get chunk")
         if len(chunks_to_add) > 0:
-            vectordb.add_documents(chunks_to_add, ids = [i.metadata["chunk_id"] for i in chunks_to_add])
+            data_ids = [i.metadata["chunk_id"] for i in chunks_to_add]
+            tmp = [[i] for i in data_ids]
+            tmp_2 = [[i] for i in chunks_to_add]
+            print("load chunk id")
+            print(f"add to db:{len(chunks_to_add)}")
+            for i in range(len(tmp)):
+                print(tmp[i])
+                vectordb.add_documents(tmp_2[i], ids = tmp[i])
+            # vectordb.add_documents(chunks_to_add, ids = ids)
             print(f"added to db: {len(chunks_to_add)} records")
             # vectordb.persist()
         else:
@@ -134,8 +143,12 @@ class RAGSystem:
         context = vectordb.similarity_search_with_score(query_text, k=4)
         return context
     
-    def _get_prompt(self, query_text):
-        context = self._retrieve_context_from_query(query_text)
+    def _get_prompt(self, query_text, context):
+        with open("output/" + self.filename + "/" + self.filename + '_context.txt', 'a', encoding="utf-8") as file:
+            file.write(context[0][0].page_content + '\n' +
+                       context[1][0].page_content + '\n'+
+                       context[2][0].page_content + '\n'+
+                       context[3][0].page_content + '\n\n')
         # print(f" ***** CONTEXT ******{context} \n")
         context_text = "\n\n---\n\n".join([doc.page_content for doc, _score in context])
         prompt_template = ChatPromptTemplate.from_template(self.prompt_template)
@@ -143,14 +156,16 @@ class RAGSystem:
         return prompt
 
     def answer_query(self, query_text):
-        prompt = self._get_prompt(query_text)
+        context = self._retrieve_context_from_query(query_text)
+        prompt = self._get_prompt(query_text,context)
         response_text = self.model.invoke(prompt)
         formatted_response = f"{response_text}\n"
-        return formatted_response
+        return formatted_response , context
     
     ############ testing ollama streaming ##############
     def answer_query_streaming(self, query_text):
-        prompt = self._get_prompt(query_text)
+        context = self._retrieve_context_from_query(query_text)
+        prompt = self._get_prompt(query_text,context)
         response_text = self.model.stream(prompt)
         return response_text
     ####################################################
@@ -158,10 +173,11 @@ class RAGSystem:
     #經過測試新的prompt若不指定輸出格式較容易造成輸出格式錯誤的問題
     ########### testing ollama json output #############
     def answer_query_json(self, query_text):
-        prompt = self._get_prompt(query_text)
+        context = self._retrieve_context_from_query(query_text)
+        prompt = self._get_prompt(query_text,context)
         response_text = self.model.invoke(prompt,format='json')
         formatted_response = f"{response_text}\n"
-        return formatted_response
+        return formatted_response , context
     ####################################################
 
     #測試Ollama內的Chat功能看看能不能實現LLM的記憶功能
@@ -173,6 +189,7 @@ class RAGSystem:
     ####################################################
 
     def _load_documents(self):
+        print("load document")
         loader = PyPDFDirectoryLoader(self.data_directory)
         pages = loader.load()
         text = [Document("")]
@@ -185,6 +202,7 @@ class RAGSystem:
         return text
 
     def _document_splitter(self, documents):
+        print("document splitter")
         if self.method == 0:
             # print("overlap")
             splitter = RecursiveCharacterTextSplitter(

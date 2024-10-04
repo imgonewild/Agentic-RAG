@@ -1,0 +1,180 @@
+1: 'What is the Logix5000 controller used for?'
+{"answer": "A Logix5000 controller uses connections for many, but not all, of its communication with other devices.", "source": "Chapter 1 Connections Introduction"}
+
+2: 'What is a connection in the context of Logix5000 controllers?'
+{"answer": "A communication link between two devices, such as between a controller and an I/O module, PanelView terminal, or another controller.", "source": "Chapter 1 Connections Introduction"}
+
+3: 'How is memory managed in Logix5000 controllers?'
+{"answer": "The memory of Logix5000 controllers is divided into several areas: I/O tags are stored in one area, produced/consumed tags and communication via Message (MSG) instructions are stored in another area, and data and logic memory, logic routines, and communication with polled (OPC/DDE) tags that use RSLinx software are stored in the third area. This is not true for all Logix5000 controllers as 1769-L2 and 1769-L3 x CompactLogix FlexLogix DriveLogix SoftLogix5800 do not divide their memory, storing all elements in one common memory area. ", "source": "Chapter 2 Determine Controller Memory Information Estimate Memory Information Offline, Chapter 2 Determine Controller Memory Information View Run-time Memory Information"}
+
+4: 'What does the Requested Packet Interval (RPI) specify?'
+{"answer": "The period at which data updates over a connection.", "source": "Requesting Packet Interval (RPI)"}
+
+5: 'How do you inhibit a connection in Logix5000 controllers?'
+{"answer": "Inhibit a module while you are connected to the moduleThe connection to the module is closed. The modu les’ outputs go to the last configured Program mode.", "source": "Chapter 1 Connections Inhibit a Connection"}
+
+6: 'What happens when a connection fails in a Logix5000 controller?'
+{"answer": "If communication with a module times out, the controller produces these warnings: ·The I/O status indicator on the front of the controller flashes green. ·A shows over the I/O configuration folder and over the device that has timed out. ·A module fault code is produced, which you can access through: –Module Properties window for the module. –GSV instruction.", "source": "Monitor the Health of a Module"}
+
+7: 'How do you monitor the health of a module?'
+{"answer": "Use a Get System Value (GSV) instruction to monitor the MODULE object for either the controller or a specific module. If the connection times out, continue operation without invoking a major fault on the controller.", "source": "Monitor the Health of a Module"}
+
+8: 'What are the different types of faults in Logix5000 controllers?'
+{"answer": "3/23 type fault code and 3/16 type fault", "source": "Major Fault On Controller…Run Mode"}
+
+9: 'What is the function of the Controller Log?'
+{"answer": "A record of interactions that have occurred in the controller due to physical conditions like keyswitch and removable media, fault conditions, and programming changes configured in the application.", "source": "Controller Log Chapter 3 Controller Logging, A controller log is a record of interactions..."}
+
+10: 'What kind of changes are logged by the Controller Log?'
+{"answer": "physical conditions like keyswitch and removable media, fault conditions, and programming changes configured in the application", "source": "Controller Log"}
+
+11: 'What does the GSV instruction do?'
+{"answer": "The GSV instruction retrieves the specified information and places it in the destination.", "source": "Get and Set System Data"}
+
+12: 'What does the SSV instruction do?'
+{"answer": "sets the specified attribute with data from the source", "source": "Get or Set a System Value"}
+
+13: 'What are the key components of a controller log entry?'
+{"answer": "Record Number, Time of Occurrence (UTC - 24 hour clock), Entry Description, Windows User Name, Workstation Name, FactoryTalk User ID (if available), Extended Information, Change Detection Audit Value", "source": "Controller Log Entry"}
+
+14: 'What is the role of the AuditValue in Logix5000 controllers?'
+{"answer": "The AuditValue is a unique value that is generated when a project is downloaded to the controller or loaded from removable storage. When a change is detected, this value is updated.", "source": "Attribute Name Description Access"}
+
+15: 'What is the purpose of the CompactFlash card in Logix5000 controllers?'
+{"answer": "The CompactFlash card is used to store controller log entries when its internal buffer becomes 80% full or when commanded to do so by a message instruction, and also as removable media for writing controller logs.", "source": "Writing the Controller Log to the CompactFlash Card"}
+
+16: 'What is a major fault in the controller and how is it triggered?'
+{"answer": "A major fault in the controller is triggered when a required I/O module connection fails or communication times out.", "source": "Configure a Major Fault to Occur, Configure a Major Fault to Occur, Connections Chapter 1"}
+
+17: 'How do you configure a major fault to occur in the controller?'
+{"answer": "Check the 'Major Fault On Controller...Run Mode' box", "source": "Configure a Major Fault to Occur, Connections Chapter 1 Configure a Major Fault to Occur You can configure modules to generate a major fault in the controller if they lose their connection with the controller."}
+
+18: 'What is an SFC (Sequential Function Chart) in Logix5000 controllers?'
+{"answer": "A sequential function chart (SFC) in Logix5000 controllers is a program that can be used to monitor specific events.", "source": "Access Status Information, The controller supports status keywords you can use in your logic to monitor specific events."}
+
+19: 'How are controller logs stored?'
+{"answer": "Controller log files are stored in plain text files in the TSV format.", "source": "Controller Log Files and the Removable Media"}
+
+20: 'What kind of media can Logix5000 controllers write logs to?'
+{"answer": "CompactFlash card, removable media", "source": "Controller Log Files and the Removable Media, Writing the Controller Log to the CompactFlash Card"}
+
+21: 'How does the controller handle a loss of communication with a module?'
+{"answer": "If communication with a device in the I/O configuration of the controller does not occur for 100 ms, the communication times out. If this occurs, you have these options: Configure critical I/O modules to generate a controller major fault when they lose their connections to the controller: or, monitor the status of I/O modules.", "source": "Manage a Connection Failure"}
+
+22: 'What is the Change Detection feature in Logix5000 controllers?'
+{"answer": "The Change Detection feature in Logix5000 controllers allows users to monitor for changes in the controller and update the audit value accordingly. It also provides a way to configure which events to monitor for changes using the Changes To Detect mask.", "source": "Change Detection, Chapter 4"}
+
+23: 'What is the role of the GSV instruction in Change Detection?'
+{"answer": "Used to read the ChangesToDetect attribute programmatically.", "source": "Change Detection Chapter 4"}
+
+24: 'How do you inhibit a module using logic?'
+{"answer": "Use a Get System Value (GSV) instruction to read the Mode attribute for the module. Set or clear bit 2. Use a Set System Value (SSV) instruction to write the Mode attribute back to the module.", "source": "Connections Chapter 1 Follow these steps to inhibit or uninhibit a module from logic."}
+
+25: 'What does the attribute FaultCode indicate?'
+{"answer": "A number that identifies a module fault, if one occurs.", "source": "Determine if communication has timed out with a specific device"}
+
+26: 'What does Total Entry Count indicate in the Controller Log?'
+{"answer": "The number of entries added to the log since the last firmware update.", "source": "Counter Name, Chapter 3 Controller Logging"}
+
+27: 'How can you reset the Execution Modification Count?'
+{"answer": "This counter can be set to a known value by using an SSV instruction.", "source": "Execution Modification Count"}
+
+28: What does the 'LEDStatus' attribute monitor?""
+{"answer": "the status of an LED", "source": "Access Status Information, Accessing Attributes in Logix Designer Application"}
+
+29: 'What happens when you enable automatic log writes?'
+{"answer": "The controller can automatically write buffered log entries to the CompactFlash card when its internal buffer becomes 80% full. Additionally, the buffered entries can be automatically written before a firmware update.", "source": "Controller Logging Chapter 3 Writing the Controller Log to the CompactFlash Card"}
+
+30: 'How can you convert memory information from INTs to DINT?'
+{"answer": "To convert INTs to a DINT, use a Copy (COP) instruction with the first INT as the source, the destination being a DINT tag, and Length of 1 to copy all 32 bits.", "source": "Choose the Memory Information"}
+
+31: 'What is the purpose of the Modify Execution Count?'
+{"answer": "tracks the number of changes that occur that can change the behavior of a running controller.", "source": "Execution Modification Count The Execution Modification Count tracks the number of changes that occur that can change the behavior of a running controller."}
+
+32: 'What does the System Overhead Time Slice modify?'
+{"answer": "System Overhead Time Slice radio buttons Removable media removed •Time Stamp •Entry Description: Removable media removed •UserName: Local •Workstation Name: None •FactoryTalk Login Id: None •Extended Information: None ", "source": "Controller Logging Chapter 3"}
+
+33: 'What happens if you remove the CompactFlash card during logging?'
+{"answer": "The system will behave as if the removable media is not present.", "source": "Controller Log Files and the Removable Media"}
+
+34: 'How is memory usage viewed in real-time?'
+{"answer": "When online with a controller, the Memory tab shows the actual memory usage of the controller.", "source": "Determine Controller Memory Information Chapter 2 View Run-time Memory Information"}
+
+35: 'What is the maximum size of a log file?'
+{"answer": "1 MB", "source": "Controller Log Files and the Removable Media, Logging Chapter 3 Writing the Controller Log to the CompactFlash Card"}
+
+36: 'What is the ChangesToDetect attribute?'
+{"answer": "The ChangesToDetect mask is a 64-bit value used to specify which changes are monitored.", "source": "Controller Change Detection on page 47, Attribute Name Description Access AuditValue The AuditValue is a unique value that is generated when a project is downloaded to the controller or loaded from removable storage. When a chan ge is detected this value is updated. To specify which changes are monitored, use the ChangesToDetect attribute.GSV ChangesToDetect Used to specify which changes are monitored. When a monitored change occurs, the Audit Value is updated."}
+
+37: 'How do you write a custom log entry?'
+{"answer": "You can add custom entries to the controller log by using a message instruction with a message type of “CIP Generic” and a service type of “Controller Log Add Entry”.", "source": "Create Custom Log Entries, Create Custom Log Entries"}
+
+38: 'What does a flashing green status indicator on the controller signify?'
+{"answer": "At least one MODULE object is not Running.", "source": "Determine if communication has timed out with any deviceLEDStatus INT For efficiency, use a DINT as the destination data type.Specifies the current state of the I/O status indicator on the front of the controller."}
+
+39: 'What type of faults does the Logix5000 controller log?'
+{"answer": "A major fault occurred", "source": "Chapter 1 Connections"}
+
+40: 'What kind of changes trigger the AuditValue update?'
+{"answer": "Project stored to removable media, Online edits modified controller program, Transaction committed, SFC forces enabled/disabled/remove, I/O forces enabled/disabled/remove, Firmware update attempted/from removable media, Remote mode change, Keyswitch mode change, A major fault occurred/All major faults cleared through keyswitch/All major faults cleared, Task properties modified, Program properties modified, Controller time slice modified, Removable media removed/inserted, Safety signature delete allowed/inhibited in Run mode", "source": "ChangesToDetect Format"}
+
+41: 'What is the default value of the ChangesToDetect mask?'
+{"answer": "0xFFFFFFFFFFFFFFFF indicates that all events are monitored.", "source": "ChangesToDetect The Changes T oDetect mask is a 64-bit value."}
+
+42: 'What events always trigger an AuditValue update?'
+{"answer": "a project is downloaded to the controller, or when Changes to Detect is reconfigured.", "source": "Changes To Detect mask can be configured programatically using SSV , GSV and MSG instructions.Attribute Name Description Access AuditValue The AuditValue is a unique value that is generated when a project is downloaded to the controller or loaded from removable storage. When a chan ge is detected this value is updated."}
+
+43: 'How do you retrieve system data from a controller?'
+{"answer": "Use the GSV instruction to retrieve system data from a controller.", "source": "Get and Set System Data"}
+
+44: 'How can you estimate controller memory offline?'
+{"answer": "Use the Memory tab of the Controller Properties dialog box", "source": "Estimate Memory Information Offline"}
+
+45: 'What does the 'Program properties modified' log entry record?'
+{"answer": "Property changes logged: -Inhibit checkbox -Main routine changed -Fault routine changed", "source": "Program properties modified •Property changes logged:"}
+
+46: 'How do you monitor communication health for a specific device?'
+{"answer": "Use a Get System Value (GSV) instruction to monitor the MODULE object for either the controller or a specific module. If you want to use this attribute, choose Determine if communication has timed out with a specific deviceFaultCode INT", "source": "Monitor the Health of a Module, Determine if communication has timed out with any device"}
+
+47: 'How are buffered log entries written to removable media?'
+{"answer": "When its internal buffer becomes 80% full, it can automatically write the buffered entries to the removable media. Additionally, buffered entries can be commanded to write the buffered entries to the removable media with a message instruction.", "source": "The Changes T o Detect value has changed, Controller Log Buffer"}
+
+48: 'What is the role of the Major Fault Handler?'
+{"answer": "interrupts the execution of logic and executes the Controller Fault Handler, If the Controller Fault Handler does not clear the fault, then the controller shuts down.", "source": "Configure a Major Fault to Occur, Monitor the Health of a Module"}
+
+49: 'How can you estimate the largest contiguous block of memory?'
+{"answer": "To convert the separate INTs into one usable value, use a Copy (COP) instruction.", "source": "Chapter 2 Determine Controller Memory Information T o convert the separate INTs into one usable value, use a Copy (COP) instruction."}
+
+50: 'What happens if the controller buffer is full?'
+{"answer": "The system will behave as if the removable media is not present. Additionally, entries will continue to be saved in the buffer in a circular fashion. As new entries are stored, the oldest entries will be discarded.", "source": "Writing the Controller Log to the CompactFlash Card"}
+
+51: 'What does the attribute Free I/O Memory indicate?'
+{"answer": "The largest contiguous block of free I/O memory.", "source": "Determine Controller Memory Information"}
+
+52: 'What does a major fault code 3/16 signify?'
+{"answer": "A major fault occurred, All major faults cleared", "source": "Change Detection Chapter 4, Manage a Connection Failure If the controller loses communication with a module..."}
+
+53: 'How do you configure the controller to save logs automatically?'
+{"answer": "Send a message instruction to the controller using a message type of “CIP Generic” and a service type of “Controller Log Automatic Write Set”, with a value of 1 to turn on automatic writes.", "source": "Writing the Controller Log to the CompactFlash Card, Automatic Save When the controller's internal log entry buffer becomes 80% full"}
+
+54: 'What happens if the CompactFlash card is full?'
+{"answer": "The system will behave as if the removable media is not present.", "source": "Controller Log Files and the Removable Media When written to the removable media, controller logs are stored in plain text files in the T ab Separated Value (TSV) format. Each time the controller writes entries to the CompactFlash card, the entries are appended to the text file until the file reaches 1 MB in size."}
+
+55: 'What are produced and consumed tags used for?'
+{"answer": "To store retrieved values for GSV instructions or to be set for SSV instructions.", "source": "G. Get the value of an attribute GSV Set the value of an attribute SSV54 Rockwell Automation Publication 1756-PM015E-EN-P - November 2012Chapter 5 Access Status Information"}
+
+56: 'What does a Correlation Affected event mean?'
+{"answer": "Indicates a change occurred in the controller that affects the synchronization between the controller and the project file that was downloaded to it. Tip: Correlation Affected can include detection of a component being created, deleted, or modified, or logic was modified.", "source": "Correlation Affected"}
+
+57: 'What is the purpose of the Execute Modification Count?'
+{"answer": "tracks the number of changes that occur that can change the behavior of a running controller", "source": "Execution Modification Count The Execution Modification Count tracks the number of changes that occur that can change the behavior of a running controller."}
+
+58: 'How do you configure change detection programmatically?'
+{"answer": "Use SSV, GSV or MSG instructions.", "source": "Change Detection in Logix Designer Application on page 50."}
+
+59: 'What are removable media used for in Logix5000 controllers?'
+{"answer": "Writing the controller log to the CompactFlash card either automatically or on demand.", "source": "Chapter 3 Controller Logging, Chapter 4 Change Detection"}
+
+60: 'What is a DINT data type, and how is it used?'
+{"answer": "A DINT data type is a 32-bit integer that combines two 16-bit integers into one 32-bit value. It can be used to store values for the amount of free I/O memory, and it's recommended to use this data type when working with Logix Controllers.", "source": "Chapter 3 Controller Logging, Chapter 4 Change Detection"}
+
