@@ -17,6 +17,7 @@ class RAGSystem:
         self.db_path = db_path
         self.model_name = "nomic-embed-text"
         self.llm_model = "llama3.1"
+        self.document = ''
 
         self.method = method
         self.filename = filename
@@ -90,6 +91,7 @@ class RAGSystem:
         pages = self._load_documents()
         chunks = self._document_splitter(pages)
         chunks = self._get_chunk_ids(chunks)
+        self.document = chunks
         vectordb = self._initialize_vectorDB()
         present_in_db = vectordb.get()
         ids_in_db = present_in_db["ids"]
@@ -140,6 +142,7 @@ class RAGSystem:
     
     def _retrieve_context_from_query(self, query_text):
         vectordb = self._initialize_vectorDB()
+        vectordb.as_retriever
         context = vectordb.similarity_search_with_score(query_text, k=4)
         return context
     
