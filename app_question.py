@@ -14,7 +14,7 @@ filename = f'{current_time}_{method}'
 rag_system = RAGSystem(method = method, filename = filename)
 
 def main():
-    # questions = pd.read_csv("question/question_1.csv", encoding='UTF-8')["Question"]
+    questions = pd.read_csv("question/question_1.csv", encoding='UTF-8')["Question"]
     # questions = [
     #     "What is the product identifier?",
     #     "When was the Safety Data Sheet issued?",
@@ -61,7 +61,7 @@ def main():
     #     "Can the specific chemical identity or exact percentage of the composition be disclosed for the product?"
     # ]
 
-    questions = ["What are the first aid measures in case of skin contact?"]    
+    # questions = ["What are the first aid measures in case of skin contact?"]    
 
     cnt = 1
     with open("output/" + filename + "/" + filename + '.txt', 'w', encoding="utf-8") as file:
@@ -84,21 +84,21 @@ def main():
             try:
                 j = json.loads(response.lstrip('\n')[:response.find('}')+1])
                 print(context[0])
-                Answer = Answer._append({"Question":[question],"Answer":[j["answer"]],"Source":[j["source"]]
-                                         ,"Context_1":[context[0][0].page_content],"Context_2":[context[1][0].page_content]
-                                         ,"Context_3":[context[2][0].page_content],"Context_4":[context[3][0].page_content]},ignore_index=True)
+                Answer = Answer._append({"Question":question,"Answer":j["answer"],"Source":j["source"]
+                                         ,"Context_1":context[0][0].page_content,"Context_2":context[1][0].page_content
+                                         ,"Context_3":context[2][0].page_content,"Context_4":context[3][0].page_content},ignore_index=True)
             except json.JSONDecodeError:
                 try:
                     response = response.lstrip('\n')[:response.find('}')+1]
-                    Answer = Answer._append({"Question":[question],"Answer":[[i.split('answer') for i in response.split('source')][0][1][3:-3]],
-                                         "Source":[[i.split('answer') for i in response.split('source')][1][0][3:-1]]
-                                         ,"Context_1":[context[0][0].page_content],"Context_2":[context[1][0].page_content]
-                                         ,"Context_3":[context[2][0].page_content],"Context_4":[context[3][0].page_content]},ignore_index=True)
+                    Answer = Answer._append({"Question":question,"Answer":[i.split('answer') for i in response.split('source')][0][1][3:-3],
+                                         "Source":[i.split('answer') for i in response.split('source')][1][0][3:-1]
+                                         ,"Context_1":context[0][0].page_content,"Context_2":context[1][0].page_content
+                                         ,"Context_3":context[2][0].page_content,"Context_4":context[3][0].page_content},ignore_index=True)
                 except Exception as err:
                     print(err)
-                    Answer = Answer._append({"Question":[question],"Answer":[response],"Source":[err]                                         
-                                            ,"Context_1":[context[0][0].page_content],"Context_2":[context[1][0].page_content]
-                                            ,"Context_3":[context[2][0].page_content],"Context_4":[context[3][0].page_content]},ignore_index=True)
+                    Answer = Answer._append({"Question":question,"Answer":response,"Source":err                                         
+                                            ,"Context_1":context[0][0].page_content,"Context_2":context[1][0].page_content
+                                            ,"Context_3":context[2][0].page_content,"Context_4":context[3][0].page_content},ignore_index=True)
             cnt+=1
         Answer.to_csv("output/" + filename + "/" + "Answer_" + os.listdir('pdf')[0] + "_" + str(method) +".csv",encoding='utf-8-sig')
     print("\n--- Total %s seconds ---" % (time.time() - start_time))
