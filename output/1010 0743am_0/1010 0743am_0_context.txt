@@ -1,0 +1,513 @@
+ADR (Europe)
+(Pictograms)Not evaluated.
+NOT EVALUATED FOR
+EUROPEAN TRANSPORT
+NON ÉVALUÉ POUR LE
+TRANSPORT EUROPÉEN.WHMIS (Canada) D-2A
+TDG (Canada)
+(Pictograms)
+References Available upon request.
+* Marque de commerce de Petro-Canada - TrademarkSection XVI. Other Information
+Glossary
+ACGIH - American Conference of Governmental Industrial Hygienists
+ADR - Agreement on Dangerous goods by Road (Europe)
+ASTM - American Society for Testing and Materials (
+BOD5 - Biological Oxygen Demand in 5 days
+CEPA-DSL (Domestic Substances List).
+All components of this formulation are listed on the US EPA-TSCA Inventory.
+This product has been classified in accordance with the hazard criteria of the Controlled Products Regulations (CPR) and the
+MSDS contains all of the information required by the CPR.
+Please contact Product Safety for more information.
+ADR (Europe)
+(Pictograms)Not evaluated.
+NOT EVALUATED FOR
+EUROPEAN TRANSPORT
+NON ÉVALUÉ POUR LE
+TRANSPORT EUROPÉEN.WHMIS (Canada) D-2A
+TDG (Canada)
+Section XIV. Transport Information
+DOT Classification Special Provisions
+for TransportNot a DOT controlled material (United States). Not applicable.
+Section XV. Regulatory Information
+Other
+Regulations
+DSD/DPD (EEC)This product is acceptable for use under the provisions of WHMIS-CPR. All components of this formulation are listed on the
+CEPA-DSL (Domestic Substances List).
+All components of this formulation are listed on the US EPA-TSCA Inventory.
+(Europe)
+DSL - Domestic Substance List
+EEC/EU - European Economic Community/European Union
+EINECS - European Inventory of Existing Commercial Chemical Substances
+EPCRA - Emergency Planning and Community Right to Know ActIRIS - Integrated Risk Information System
+LD50/LC50 - Lethal Dose/Concentration kill 50%
+LDLo/LCLo - Lowest Published Lethal Dose/Concentration
+NAERG'96 - North American Emergency Response Guide Book (1996)
+NFPA - National Fire Prevention Association
+
+(aerosol)
+2) Sodium tetraborate pentahydrate 1330-43-4 <5 1 mg/m³ Not established Not established
+Manufacturer
+RecommendationNot applicable
+Consult local, state, provincial or territory authorities for acceptable exposure limits. Other Exposure Limits
+Section III. Hazards Identification.
+Contact can cause slight irritation of skin, eyes and respiratory tract.  Extremely dangerous in case of ingestion.  For more
+information, refer to Section 11.Potential Health
+Effects
+Manufacturer
+Material Uses1
+2 0HealthFire Hazard
+Reactivity
+Specific hazardHMIS (U.S.A.) Rating
+0Insignificant
+1
+2
+3
+4Slight
+Moderate
+High
+Extreme
+Section II. Composition and Information on Ingredients
+Name CAS #Exposure Limits (ACGIH)
+CEILING % (V/V) TLV-TWA(8 h) STEL
+1) Ethylene glycol 107-21-1 >55 Not established Not established 100 mg/m³
+(aerosol)
+2) Sodium tetraborate pentahydrate 1330-43-4 <5 1 mg/m³ Not established Not established
+Manufacturer
+RecommendationNot applicable
+PEL - Permissible Exposure Limit
+RCRA - Resource Conservation and Recovery Act
+SARA - Superfund Amendments and Reorganization Act
+SD - Single Dose
+STEL - Short Term Exposure Limit (15 minutes)
+TDG - Transportation Dangerous Goods (Canada)
+TDLo/TCLo - Lowest Published Toxic Dose/Concentration
+TLm - Median Tolerance Limit
+TLV-TWA - Threshold Limit Value-Time Weighted Average
+TSCA - Toxic Substances Control Act
+USEPA - United States Environmental Protection Agency
+product is used in an application where splashing may occur, the use of safety goggles and/or a face shield should be
+considered.
+Section IX. Physical and Chemical Properties
+Physical State and
+Appearance
+VolatilityBoiling Point
+Vapour PressureOdour Threshold
+Density
+Vapour DensityOil / Water Dist. Coeff.
+SolubilityClear viscous liquid.
+0% (w/w)1.115 to 1.145 (Water = 1)
+2.1 (Air=1).
+0.06 mmHg @ 20°C (68ºF).
+
+Vapour DensityOil / Water Dist. Coeff.
+SolubilityClear viscous liquid.
+0% (w/w)1.115 to 1.145 (Water = 1)
+2.1 (Air=1).
+0.06 mmHg @ 20°C (68ºF).
+Soluble in water, methanol and diethyl ether.Not availableOdourless. OdourNot available Green. Colour
+Dropping Point
+PenetrationNot applicable.
+Not applicable.Viscosity Not available
+Pour Point
+Softening Point
+129 to 197°C (264 to 387°F)
+Ionicity (in water)
+Dispersion PropertiesNot available
+Not availableNot applicable.
+Not available
+product is used in an application where splashing may occur, the use of safety goggles and/or a face shield should be
+considered.
+Section IX. Physical and Chemical Properties
+Physical State and
+Appearance
+VolatilityBoiling Point
+Vapour PressureOdour Threshold
+Density
+Vapour DensityOil / Water Dist. Coeff.
+SolubilityClear viscous liquid.
+0% (w/w)1.115 to 1.145 (Water = 1)
+2.1 (Air=1).
+0.06 mmHg @ 20°C (68ºF).
+Softening Point
+129 to 197°C (264 to 387°F)
+Ionicity (in water)
+Dispersion PropertiesNot available
+Not availableNot applicable.
+Not available
+StabilityCorrosivity
+The product is stable.Not available
+Reactive with oxidizing agents, acids and
+alkalis.Section X. Stability and Reactivity
+Incompatible
+Substances /
+Conditions to AvoidDecomposition
+ProductsMay release COx, smoke and irritating vapours when
+heated to decomposition.Hazardous
+PolymerizationWill not occur under normal working conditions.
+Continued on Next Page Available in FrenchANTIFREEZE Page Number: 2
+Section VI. Accidental Release Measures
+Material Release
+or SpillSmall spill or leak:  Dilute with water and mop up or absorb with an inert DRY material and place in an appropriate waste
+disposal container.
+Large spill or leak:  Absorb with an inert material and put the spilled material in an appropriate waste disposal.  Dispose of in
+accordance with regional regulations.
+
+Waste Disposal Preferred waste management priorities are: (1) recycle or reprocess; (2) incineration with energy recovery; (3) disposal at
+licensed waste disposal facility.  Ensure that disposal or reprocessing is in compliance with government requirements and
+local disposal regulations.  Consult your local or regional authorities.
+Section XIV. Transport Information
+DOT Classification Special Provisions
+for TransportNot a DOT controlled material (United States). Not applicable.
+Section XII. Ecological Information
+Environmental Fate Not available
+BOD5 and COD Products of
+BiodegradationPersistance/
+Bioaccumulation
+Potential
+Additional RemarksNot available Not availableNot available
+No additional remark.
+Section XIII. Disposal Considerations
+Waste Disposal Preferred waste management priorities are: (1) recycle or reprocess; (2) incineration with energy recovery; (3) disposal at
+Continued on Next Page Available in FrenchANTIFREEZE Page Number: 2
+Section VI. Accidental Release Measures
+Material Release
+or SpillSmall spill or leak:  Dilute with water and mop up or absorb with an inert DRY material and place in an appropriate waste
+disposal container.
+Large spill or leak:  Absorb with an inert material and put the spilled material in an appropriate waste disposal.  Dispose of in
+accordance with regional regulations.
+accordance with regional regulations.
+Storage Keep container dry.  Keep container tightly closed.  Keep in a cool, well-ventilated place.Avoid contamination with reactive substances.  After handling, always wash hands thoroughly with soap and water. HandlingSection VII. Handling and Storage
+Engineering Controls
+
+CFR - Code of Federal Regulations
+CHIP - Chemicals Hazard Information and Packaging Approved Supply List
+COD5 - Chemical Oxygen Demand in 5 days
+CPR - Controlled Products Regulations
+DOT - Department of Transport
+DSCL - Dangerous Substances Classification and Labeling (Europe)
+DSD/DPD - Dangerous Substances or Dangerous Preparations Directives
+(Europe)
+DSL - Domestic Substance List
+EEC/EU - European Economic Community/European Union
+(Europe)
+DSL - Domestic Substance List
+EEC/EU - European Economic Community/European Union
+EINECS - European Inventory of Existing Commercial Chemical Substances
+EPCRA - Emergency Planning and Community Right to Know ActIRIS - Integrated Risk Information System
+LD50/LC50 - Lethal Dose/Concentration kill 50%
+LDLo/LCLo - Lowest Published Lethal Dose/Concentration
+NAERG'96 - North American Emergency Response Guide Book (1996)
+NFPA - National Fire Prevention Association
+Section XIV. Transport Information
+DOT Classification Special Provisions
+for TransportNot a DOT controlled material (United States). Not applicable.
+Section XV. Regulatory Information
+Other
+Regulations
+DSD/DPD (EEC)This product is acceptable for use under the provisions of WHMIS-CPR. All components of this formulation are listed on the
+CEPA-DSL (Domestic Substances List).
+All components of this formulation are listed on the US EPA-TSCA Inventory.
+CEPA-DSL (Domestic Substances List).
+All components of this formulation are listed on the US EPA-TSCA Inventory.
+This product has been classified in accordance with the hazard criteria of the Controlled Products Regulations (CPR) and the
+MSDS contains all of the information required by the CPR.
+Please contact Product Safety for more information.
+ADR (Europe)
+(Pictograms)Not evaluated.
+NOT EVALUATED FOR
+EUROPEAN TRANSPORT
+NON ÉVALUÉ POUR LE
+TRANSPORT EUROPÉEN.WHMIS (Canada) D-2A
+TDG (Canada)
+
+Continued on Next Page Available in FrenchANTIFREEZE Page Number: 2
+Section VI. Accidental Release Measures
+Material Release
+or SpillSmall spill or leak:  Dilute with water and mop up or absorb with an inert DRY material and place in an appropriate waste
+disposal container.
+Large spill or leak:  Absorb with an inert material and put the spilled material in an appropriate waste disposal.  Dispose of in
+accordance with regional regulations.
+Softening Point
+129 to 197°C (264 to 387°F)
+Ionicity (in water)
+Dispersion PropertiesNot available
+Not availableNot applicable.
+Not available
+StabilityCorrosivity
+The product is stable.Not available
+Reactive with oxidizing agents, acids and
+alkalis.Section X. Stability and Reactivity
+Incompatible
+Substances /
+Conditions to AvoidDecomposition
+ProductsMay release COx, smoke and irritating vapours when
+heated to decomposition.Hazardous
+PolymerizationWill not occur under normal working conditions.
+Section XII. Ecological Information
+Environmental Fate Not available
+BOD5 and COD Products of
+BiodegradationPersistance/
+Bioaccumulation
+Potential
+Additional RemarksNot available Not availableNot available
+No additional remark.
+Section XIII. Disposal Considerations
+Waste Disposal Preferred waste management priorities are: (1) recycle or reprocess; (2) incineration with energy recovery; (3) disposal at
+heated to decomposition.Hazardous
+PolymerizationWill not occur under normal working conditions.
+Acute LethalityRoutes of Entry Eye contact and ingestion.
+LD50: 4700 mg/kg (oral/rat). [Ethylene Glycol]
+LD50: 9530 mg/kg (dermal/rabbit). [Ethylene Glycol]Section XI. Toxicological Information
+Chronic or Other Toxic EffectsChronic or Other Toxic Effects
+Dermal Route:
+Inhalation Route:
+Oral Route:
+Eye Irritation/Inflammation:
+Immunotoxicity:
+Skin Sensitization:
+Respiratory Tract Sensitization:
+
+Products of
+CombustionFlash Points
+Fire Fighting
+Media and
+InstructionsFlammable Limits
+Fire Hazards in
+Presence of
+Various Substances413ºC
+Carbon oxides (CO, CO2), smoke and irritating vapours as products of incomplete combustion.Closed Cup: 116ºC (Tagliabue)
+Open Cup: 116ºC (Cleveland)Lower: 3.2%, Upper: 15.3%
+SMALL FIRE:  Use DRY chemicals, CO2, water spray or foam.
+LARGE FIRE:  Use water spray, fog or foam.  DO NOT use water jet.Combustible in presence of  open flames and
+LARGE FIRE:  Use water spray, fog or foam.  DO NOT use water jet.Combustible in presence of  open flames and
+sparks.Explosion Hazards
+in Presence of
+Various SubstancesNot a product presenting risks of explosion.Flammability May be combustible at high temperature.Section V. Fire-fighting Measures
+Continued on Next Page Available in FrenchANTIFREEZE Page Number: 2
+Section VI. Accidental Release Measures
+Material Release
+and non-abrasive soap.  Seek medical attention.
+Evacuate the victim to a safe area as soon as possible.  If the victim is not breathing, perform artificial respiration.  Allow the
+victim to rest in a well ventilated area.  Seek medical attention.Section IV. First Aid Measures
+Note to Physician Not available
+Auto-Ignition
+Temperature
+Products of
+CombustionFlash Points
+Fire Fighting
+Media and
+InstructionsFlammable Limits
+Fire Hazards in
+Presence of
+Various Substances413ºC
+Softening Point
+129 to 197°C (264 to 387°F)
+Ionicity (in water)
+Dispersion PropertiesNot available
+Not availableNot applicable.
+Not available
+StabilityCorrosivity
+The product is stable.Not available
+Reactive with oxidizing agents, acids and
+alkalis.Section X. Stability and Reactivity
+Incompatible
+Substances /
+Conditions to AvoidDecomposition
+ProductsMay release COx, smoke and irritating vapours when
+heated to decomposition.Hazardous
+PolymerizationWill not occur under normal working conditions.
+
+Ontario & Central Canada, telephone: 1-800-668-0220; fax: 1-800-837-1228
+Quebec & Eastern Canada, telephone: 514-640-8308; fax: 514-640-8385
+For Product Safety Information: (905) 804-4752For Copy of MSDS
+To the best of our knowledge, the information contained herein is accurate.  However, neither the above named supplier nor any of its
+subsidiaries assumes any liability whatsoever for the accuracy or completeness of the information contained herein.  Final
+subsidiaries assumes any liability whatsoever for the accuracy or completeness of the information contained herein.  Final
+determination of suitability of any material is the sole responsibility of the user. All materials may present unknown hazards and should
+be used with caution.  Although certain hazards are described herein, we cannot guarantee that these are the only hazards that exist.FDA - Food and Drug Administration
+FIFRA - Federal Insecticide, Fungicide and Rodenticide Act
+Continued on Next Page Available in FrenchANTIFREEZE Page Number: 2
+Section VI. Accidental Release Measures
+Material Release
+or SpillSmall spill or leak:  Dilute with water and mop up or absorb with an inert DRY material and place in an appropriate waste
+disposal container.
+Large spill or leak:  Absorb with an inert material and put the spilled material in an appropriate waste disposal.  Dispose of in
+accordance with regional regulations.
+Manufacturer
+Material Uses1
+2 0HealthFire Hazard
+Reactivity
+Specific hazardHMIS (U.S.A.) Rating
+0Insignificant
+1
+2
+3
+4Slight
+Moderate
+High
+Extreme
+Section II. Composition and Information on Ingredients
+Name CAS #Exposure Limits (ACGIH)
+CEILING % (V/V) TLV-TWA(8 h) STEL
+1) Ethylene glycol 107-21-1 >55 Not established Not established 100 mg/m³
+(aerosol)
+2) Sodium tetraborate pentahydrate 1330-43-4 <5 1 mg/m³ Not established Not established
+Manufacturer
+RecommendationNot applicable
+
+area) and where engineering, work practices or other means of exposure reduction are not adequate, NIOSH approved
+respirators may be necessary to prevent overexposure by inhalation.Wear appropriate clothing to prevent skin contact.  As a minimum long sleeves and trousers should be worn.Eye protection (i.e., safety glasses, safety goggles and/or face shield) should be determined based on conditions of use.  If
+(aerosol)
+2) Sodium tetraborate pentahydrate 1330-43-4 <5 1 mg/m³ Not established Not established
+Manufacturer
+RecommendationNot applicable
+Consult local, state, provincial or territory authorities for acceptable exposure limits. Other Exposure Limits
+Section III. Hazards Identification.
+Contact can cause slight irritation of skin, eyes and respiratory tract.  Extremely dangerous in case of ingestion.  For more
+information, refer to Section 11.Potential Health
+Effects
+Engineering Controls
+Personal Protection  -  The selection of personal protective equipment varies, depending upon conditions of use.For normal application, special ventilation is not necessary. If user's operations generate vapours or mist, use ventilation to
+keep exposure to airborne contaminants below the exposure limit. Make-up air should always be supplied to balance air
+removed by exhaust ventilation. Ensure that eyewash station and safety shower are close to work-station.
+PEL - Permissible Exposure Limit
+RCRA - Resource Conservation and Recovery Act
+SARA - Superfund Amendments and Reorganization Act
+SD - Single Dose
+STEL - Short Term Exposure Limit (15 minutes)
+TDG - Transportation Dangerous Goods (Canada)
+TDLo/TCLo - Lowest Published Toxic Dose/Concentration
+TLm - Median Tolerance Limit
+TLV-TWA - Threshold Limit Value-Time Weighted Average
+TSCA - Toxic Substances Control Act
+USEPA - United States Environmental Protection Agency
+
+Engineering Controls
+Personal Protection  -  The selection of personal protective equipment varies, depending upon conditions of use.For normal application, special ventilation is not necessary. If user's operations generate vapours or mist, use ventilation to
+keep exposure to airborne contaminants below the exposure limit. Make-up air should always be supplied to balance air
+removed by exhaust ventilation. Ensure that eyewash station and safety shower are close to work-station.
+area) and where engineering, work practices or other means of exposure reduction are not adequate, NIOSH approved
+respirators may be necessary to prevent overexposure by inhalation.Wear appropriate clothing to prevent skin contact.  As a minimum long sleeves and trousers should be worn.Eye protection (i.e., safety glasses, safety goggles and/or face shield) should be determined based on conditions of use.  If
+removed by exhaust ventilation. Ensure that eyewash station and safety shower are close to work-station.
+Wear appropriate footwear to prevent product from coming in contact with feet and skin.Section VIII. Exposure Controls/Personal Protection
+Eyes
+Body
+Respiratory
+Hands
+Eyes
+Body
+Respiratory
+Hands
+FeetWear appropriate chemically protective gloves.  When handling hot product ensure gloves are heat resistant and insulated.Where concentrations in air may exceed the occupational exposure limits given in Section 2 (and those applicable to your
+area) and where engineering, work practices or other means of exposure reduction are not adequate, NIOSH approved
+
+Waste Disposal Preferred waste management priorities are: (1) recycle or reprocess; (2) incineration with energy recovery; (3) disposal at
+licensed waste disposal facility.  Ensure that disposal or reprocessing is in compliance with government requirements and
+local disposal regulations.  Consult your local or regional authorities.
+Section XIV. Transport Information
+DOT Classification Special Provisions
+for TransportNot a DOT controlled material (United States). Not applicable.
+Continued on Next Page Available in FrenchANTIFREEZE Page Number: 2
+Section VI. Accidental Release Measures
+Material Release
+or SpillSmall spill or leak:  Dilute with water and mop up or absorb with an inert DRY material and place in an appropriate waste
+disposal container.
+Large spill or leak:  Absorb with an inert material and put the spilled material in an appropriate waste disposal.  Dispose of in
+accordance with regional regulations.
+Section XIV. Transport Information
+DOT Classification Special Provisions
+for TransportNot a DOT controlled material (United States). Not applicable.
+Section XV. Regulatory Information
+Other
+Regulations
+DSD/DPD (EEC)This product is acceptable for use under the provisions of WHMIS-CPR. All components of this formulation are listed on the
+CEPA-DSL (Domestic Substances List).
+All components of this formulation are listed on the US EPA-TSCA Inventory.
+CEPA-DSL (Domestic Substances List).
+All components of this formulation are listed on the US EPA-TSCA Inventory.
+This product has been classified in accordance with the hazard criteria of the Controlled Products Regulations (CPR) and the
+MSDS contains all of the information required by the CPR.
+Please contact Product Safety for more information.
+ADR (Europe)
+(Pictograms)Not evaluated.
+NOT EVALUATED FOR
+EUROPEAN TRANSPORT
+NON ÉVALUÉ POUR LE
+TRANSPORT EUROPÉEN.WHMIS (Canada) D-2A
+TDG (Canada)
+
+Vapour DensityOil / Water Dist. Coeff.
+SolubilityClear viscous liquid.
+0% (w/w)1.115 to 1.145 (Water = 1)
+2.1 (Air=1).
+0.06 mmHg @ 20°C (68ºF).
+Soluble in water, methanol and diethyl ether.Not availableOdourless. OdourNot available Green. Colour
+Dropping Point
+PenetrationNot applicable.
+Not applicable.Viscosity Not available
+Pour Point
+Softening Point
+129 to 197°C (264 to 387°F)
+Ionicity (in water)
+Dispersion PropertiesNot available
+Not availableNot applicable.
+Not available
+Dermal Route:
+Inhalation Route:
+Oral Route:
+Eye Irritation/Inflammation:
+Immunotoxicity:
+Skin Sensitization:
+Respiratory Tract Sensitization:
+Mutagenic: Not availableNot availableNot availableNot availableSlightly hazardous in case of eye contact (irritant).Extremely dangerous in case of ingestion.Slightly hazardous in case of inhalation (lung irritant).  Can cause nausea, headaches and vomiting.Slightly hazardous in case of skin contact (irritant).
+heated to decomposition.Hazardous
+PolymerizationWill not occur under normal working conditions.
+Acute LethalityRoutes of Entry Eye contact and ingestion.
+LD50: 4700 mg/kg (oral/rat). [Ethylene Glycol]
+LD50: 9530 mg/kg (dermal/rabbit). [Ethylene Glycol]Section XI. Toxicological Information
+Chronic or Other Toxic EffectsChronic or Other Toxic Effects
+Dermal Route:
+Inhalation Route:
+Oral Route:
+Eye Irritation/Inflammation:
+Immunotoxicity:
+Skin Sensitization:
+Respiratory Tract Sensitization:
+(aerosol)
+2) Sodium tetraborate pentahydrate 1330-43-4 <5 1 mg/m³ Not established Not established
+Manufacturer
+RecommendationNot applicable
+Consult local, state, provincial or territory authorities for acceptable exposure limits. Other Exposure Limits
+Section III. Hazards Identification.
+Contact can cause slight irritation of skin, eyes and respiratory tract.  Extremely dangerous in case of ingestion.  For more
+information, refer to Section 11.Potential Health
+Effects
+
+subsidiaries assumes any liability whatsoever for the accuracy or completeness of the information contained herein.  Final
+determination of suitability of any material is the sole responsibility of the user. All materials may present unknown hazards and should
+be used with caution.  Although certain hazards are described herein, we cannot guarantee that these are the only hazards that exist.FDA - Food and Drug Administration
+FIFRA - Federal Insecticide, Fungicide and Rodenticide Act
+(aerosol)
+2) Sodium tetraborate pentahydrate 1330-43-4 <5 1 mg/m³ Not established Not established
+Manufacturer
+RecommendationNot applicable
+Consult local, state, provincial or territory authorities for acceptable exposure limits. Other Exposure Limits
+Section III. Hazards Identification.
+Contact can cause slight irritation of skin, eyes and respiratory tract.  Extremely dangerous in case of ingestion.  For more
+information, refer to Section 11.Potential Health
+Effects
+CEPA-DSL (Domestic Substances List).
+All components of this formulation are listed on the US EPA-TSCA Inventory.
+This product has been classified in accordance with the hazard criteria of the Controlled Products Regulations (CPR) and the
+MSDS contains all of the information required by the CPR.
+Please contact Product Safety for more information.
+ADR (Europe)
+(Pictograms)Not evaluated.
+NOT EVALUATED FOR
+EUROPEAN TRANSPORT
+NON ÉVALUÉ POUR LE
+TRANSPORT EUROPÉEN.WHMIS (Canada) D-2A
+TDG (Canada)
+area) and where engineering, work practices or other means of exposure reduction are not adequate, NIOSH approved
+respirators may be necessary to prevent overexposure by inhalation.Wear appropriate clothing to prevent skin contact.  As a minimum long sleeves and trousers should be worn.Eye protection (i.e., safety glasses, safety goggles and/or face shield) should be determined based on conditions of use.  If
+
