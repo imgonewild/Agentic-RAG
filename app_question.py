@@ -65,7 +65,6 @@ def main():
 
     cnt = 1
     with open("output/" + filename + "/" + filename + '.txt', 'w', encoding="utf-8") as file:
-
         Answer = pd.DataFrame({"Question":[],"Answer":[],"Source":[],"Context_1":[],"Context_2":[],"Context_3":[],"Context_4":[]})
 
         for question in questions:
@@ -96,7 +95,7 @@ def main():
                                             ,"Context_1":context[0][0].page_content,"Context_2":context[1][0].page_content
                                             ,"Context_3":context[2][0].page_content,"Context_4":context[3][0].page_content},ignore_index=True)
             cnt+=1
-        Answer.to_csv("output/" + filename + "/" + "Answer_" + os.listdir('pdf')[0] + "_" + str(method) +".csv",encoding='utf-8-sig')
+        Answer.to_csv("output/" + filename + "/" + os.listdir('pdf')[0] + "_" + filename +".csv",encoding='utf-8-sig')
     print("\n--- Total %s seconds ---" % (time.time() - start_time))
 
 if __name__ == "__main__":

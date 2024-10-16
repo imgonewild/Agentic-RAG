@@ -1,0 +1,258 @@
+1: What is the product identifier?
+{
+  "answer": "Trade name: H1",
+  "source": "1 Identification"
+}
+
+2: When was the Safety Data Sheet issued?
+{
+  "answer": "06/04/2015",
+  "source": "Printing date, Page 1/7"
+}
+
+3: What is the product description?
+{
+  "answer": "Cyanoacrylate Adhesive",
+  "source": "1.1 Identification"
+}
+
+4: Who is the manufacturer of the product?
+{
+  "answer": "Cyberbond LLC",
+  "source": "1. Identification · Details of the supplier of the safety data sheet"
+}
+
+5: What is the emergency telephone number for the product?
+{
+  "answer": "International-1-(352)-323-3500 US & Canada-1-(800)-535-5053",
+  "source": "Section 1 Identification, Section 7 Handling and Storage"
+}
+
+6: What are the hazard classifications associated with the product?
+{
+  "answer": "Skin Irrit. 2, Eye Irrit. 2A, STOT SE 3, Combustible liquid",
+  "source": "*Hazard(s) identification, *Classification according to Directive 67/548/EEC or Directive 1999/45/EC"
+}
+
+7: What is the signal word used for the product?
+{
+  "answer": "Warning",
+  "source": "Section titled 'Hazard pictograms ~ GHS07', Signal word"
+}
+
+8: What are the hazard statements related to the product?
+{
+  "answer": "Combustible liquid. Causes skin irritation. Causes serious eye irritation. May cause respiratory irritation.",
+  "source": "Hazard statements, Section 2 Hazard(s) identification"
+}
+
+9: What precautions should be taken while handling the product?
+{
+  "answer": "While handling the product, precautions include keeping out of reach of children, reading label before use, avoiding breathing dust/fume/gas/mist/vapors/spray, wearing protective gloves/eye protection/face protection, washing thoroughly after handling, and using only outdoors or in a well-ventilated area.",
+  "source": "Precautionary statements"
+}
+
+10: What are the first aid measures in case of inhalation?
+{
+  "answer": "Remove victim to fresh air and keep at rest in a position comfortable for breathing. Call a poison center/doctor if you feel unwell.",
+  "source": "Section 4 First-aid measures, Section 10 Precautionary statements"
+}
+
+11: What are the first aid measures in case of skin contact?
+{
+  "answer": "Wash with plenty of water. Take off contaminated clothing and wash it before reuse.",
+  "source": "Section 4 First-aid measures"
+}
+
+12: What are the first aid measures in case of eye contact?
+{
+  "answer": "Rinse opened eye for several minutes under running water. Then consult a doctor.",
+  "source": "4 First-aid measures"
+}
+
+13: What are the first aid measures in case of ingestion?
+{
+  "answer": "Call a doctor immediately.",
+  "source": "Section 4 First-aid measures"
+}
+
+14: What are the suitable extinguishing media for a fire involving the product?
+{
+  "answer": "CO2, extinguishing powder or water spray. Fight larger fires with water spray or alcohol resistant foam.",
+  "source": "Section 5 Fire-fighting measures"
+}
+
+15: What are the special hazards arising from the substance during a fire?
+{
+  "answer": "Nitrogen oxides (NOx)",
+  "source": "Section 5 Fire-fighting measures"
+}
+
+16: Are there any special fire handling procedures required for the product?
+{
+  "answer": "For safety reasons, unsuitable extinguishing agents are water with full jet. Suitable extinguishing agents include CO2, powder, or water spray.",
+  "source": "5 Fire-fighting measures"
+}
+
+17: How should accidental releases, spill, or leak of the product be handled?
+{
+  "answer": "Ensure adequate ventilation. Allow to solidify. Pick up mechanically. Do not use cotton or natural fiber cloths for clean up.",
+  "source": "40.1.3 Accidental release measures"
+}
+
+18: What precautions should be taken for safe handling and storage of the product?
+{
+  "answer": "Store in a cool, dry place in tightly closed receptacles. Keep away from heat and direct sunlight. Ensure good ventilation/exhaustion at the workplace. Store in a cool location. Store only in the original receptacle. Store away from oxidizing agents. Keep receptacle tightly sealed.",
+  "source": "7 Handling and storage"
+}
+
+19: What are the exposure controls and personal protection measures recommended for the product?
+{
+  "answer": "The usual precautionary measures for handling chemicals should be followed. Keep away from foodstuffs, beverages and feed. Immediately remove all soiled and contaminated clothing. Avoid contact with the eyes and skin. Wear protective gloves (impervious) made of nitrile rubber or NBR material. Eye protection: safety glasses or tightly sealed goggles are recommended. If in eyes, rinse cautiously with water for several minutes. If inhaled, supply fresh air; consult a doctor if necessary. For skin contact, wash with soap and water. After swallowing, call a doctor immediately. For fire extinguishing, use CO2, extinguishing powder, or water spray.",
+  "source": "8 Exposure controls/personal protection, 9 Physical and chemical properties, 3 Composition/information on ingredients"
+}
+
+20: What are the physical and chemical properties of the product?
+{
+  "answer": "The product has a characteristic appearance, form, color, and odor. It has a melting point of > 150 °C (> 302 °F), a boiling point of 87 °C (189 °F), and is not self-igniting. The vapor pressure at 20 °C (68 °F) is 0.27 hPa, density at 20 °C (68 °F) is 1.05 g/cm³ (8.762 lbs/gal), and it is not miscible or difficult to mix with water.",
+  "source": "9 Physical and chemical properties"
+}
+
+21: Is the product stable or reactive? Are there any hazardous reactions to be aware of?
+{
+  "answer": "The product is stable if used according to specifications, but it reacts with alcohols, amines, aqueous acids and alkalis, water, and acids. Hazardous reactions are possible.",
+  "source": "Reactivity, Chemical stability, Possibility of hazardous reactions, Conditions to avoid"
+}
+
+22: What are the possible hazardous decomposition products of the product?
+{
+  "answer": "No dangerous decomposition products known",
+  "source": "10 Stability and reactivity, Hazardous decomposition products"
+}
+
+23: What is the toxicological information available for the product?
+{
+  "answer": "The product is an irritant to skin and mucous membranes, can cause serious eye irritation, may cause respiratory irritation. It has a primary irritant effect on the skin and eye. Sensitization through skin contact is possible.",
+  "source": "Section 11 - Toxicological information"
+}
+
+24: What are the safety precautions and handling instructions for using the product?
+{
+  "answer": "To use the product safely, follow these precautions: Store in a cool, dry place in tightly closed receptacles. Keep away from heat and direct sunlight. Ensure good ventilation/exhaustion at the workplace. Wear protective gloves/eye protection/face protection. Wash thoroughly after handling. Use only outdoors or in a well-ventilated area. If in eyes, rinse cautiously with water for several minutes and remove contact lenses if present. In case of fire, use CO2, powder, or water spray for extinction.",
+  "source": "Section 7 (Handling and storage), Section 8 (Exposure), and the Precautionary statements on page 3 and 5"
+}
+
+25: What are the potential hazards associated with the product?
+{
+  "answer": "The potential hazards associated with the product are: Combustible liquid, Causes skin irritation, Causes serious eye irritation, May cause respiratory irritation.",
+  "source": "Hazard statements, Precautionary statements"
+}
+
+26: What are the specific health effects or risks associated with exposure to the product?
+{
+  "answer": "According to the Safety Data Sheet, exposure to the product can cause skin irritation, serious eye irritation, respiratory irritation, and may also cause sensitization through skin contact. Additionally, it is a combustible liquid.",
+  "source": "Hazard statements: Combustible liquid. Causes skin irritation. Causes serious eye irritation. May cause respiratory irritation. Sensitization possible through skin contact."
+}
+
+27: What are the emergency procedures in case of inhalation of the product?
+{
+  "answer": "In case of inhalation, remove victim to fresh air and keep at rest in a position comfortable for breathing. Call a poison center/doctor if you feel unwell.",
+  "source": "Section 4 First-aid measures"
+}
+
+28: What are the emergency procedures in case of skin contact with the product?
+{
+  "answer": "In case of skin contact, wash with plenty of water. Take off contaminated clothing and wash it before reuse.",
+  "source": "4 First-aid measures"
+}
+
+29: What are the emergency procedures in case of eye contact with the product?
+{
+  "answer": "Rinse opened eye for several minutes under running water. Then consult a doctor.",
+  "source": "Section 4 First-aid measures"
+}
+
+30: What are the emergency procedures in case of ingestion of the product?
+{
+  "answer": "In case of ingestion, call a doctor immediately. If symptoms occur, get medical advice/attention.",
+  "source": "Section 4 First-aid measures"
+}
+
+31: What is the waste disposal method for the product?
+{
+  "answer": "Must not be disposed of together with household garbage. Do not allow product to reach sewage system. Disposal must be made according to official regulations.",
+  "source": "13 Disposal considerations, 40.1.3 Printing date"
+}
+
+32: Are there any specific storage requirements or conditions for safely storing the product?
+{
+  "answer": "Store in a cool location, store only in the original receptacle, keep receptacle tightly sealed, store away from oxidizing agents, and ensure good ventilation.",
+  "source": "Section 7: Handling and Storage, Section 5: Specific Storage Requirements (original receptacle), Section 10: Further Information about Storage Conditions (cool location, tight seal)"
+}
+
+33: What is the shelf life of the product?
+{
+  "answer": "The product should be stored in a cool location, and it is recommended to store away from oxidizing agents. However, there is no explicit information regarding shelf life in the provided context.",
+  "source": "Storage"
+}
+
+34: What are the composition and ingredients of the product?
+{
+  "answer": "The product is a mixture of ethyl 2-cyanoacrylate (7085-85-0), Bis(2-ethylhexyl)maleate (142-16-5), and 1,4-dihydroxybenzene (123-31-9) with nonhazardous additions.",
+  "source": "Composition/information on ingredients, *3"
+}
+
+35: Are there any known hazardous reactions or incompatibilities with other substances or materials?
+{
+  "answer": "The product reacts with alcohols, amines, aqueous acids and alkalis, and water, resulting in hazardous reactions. No further specific incompatible materials are listed.",
+  "source": "Section: Reactivity, Conditions to avoid"
+}
+
+36: What is the odor of the product?
+{
+  "answer": "Information not available in the provided context",
+  "source": "N/A"
+}
+
+37: What is the boiling point of the product?
+{
+  "answer": "87 °C (189 °F)",
+  "source": "9 Physical and chemical properties, Flash point"
+}
+
+38: Is the product flammable?
+{
+  "answer": "Yes, according to hazard statement Combustible liquid.",
+  "source": "GHS label elements, Hazard statements"
+}
+
+39: What is the solubility of the product?
+{
+  "answer": "Not miscible or difficult to mix with water.",
+  "source": "Solubility in / Miscibility with Water"
+}
+
+40: Is the product stable under certain conditions, and are there any potential decomposition products?
+{
+  "answer": "The product is stable under certain conditions if used according to specifications. There are potential decomposition products when it reacts with alcohols, amines, aqueous acids, and alkalis, as well as water and acids.",
+  "source": "Reactivity, Chemical stability"
+}
+
+41: What are the recommended engineering controls, personal protective equipment (PPE), and respiratory protection for handling the product?
+{
+  "answer": "Ensure adequate ventilation; personal protective equipment (PPE) including protective gloves, safety glasses with tightly sealed goggles, and protective work clothing; respiratory protection not necessary if room is well-ventilated.",
+  "source": "Section 8: Exposure controls/personal protection"
+}
+
+42: Are there any specific environmental precautions or considerations for the disposal of the product or its containers?
+{
+  "answer": "Do not allow product to reach sewage system or any water course. Dispose of contents/container in accordance with local/regional/national/international regulations.",
+  "source": "13 Disposal considerations, Page 3 and Section 12 Ecological information"
+}
+
+43: Can the specific chemical identity or exact percentage of the composition be disclosed for the product?
+{
+  "answer": "No, specific chemical identity cannot be disclosed for the product; only the percentage of ethyl 2-cyanoacrylate is mentioned.",
+  "source": "Trade name: H1 Page 4/7 Reviewed on 06/04/2015 (Contd. of page 3), section on 'Hazardous decomposition products'"
+}
+

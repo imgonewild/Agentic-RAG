@@ -1,6 +1,5 @@
 from ragas.testset.generator import TestsetGenerator
 from langchain_community.llms.ollama import Ollama
-from langchain_chroma import Chroma
 from langchain_community.embeddings import OllamaEmbeddings
 from ragas.testset.evolutions import simple, reasoning, multi_context
 from rag_system import RAGSystem

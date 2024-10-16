@@ -1,4 +1,5 @@
-from langchain_community.document_loaders import PyPDFDirectoryLoader
+# from langchain_community.document_loaders import PyPDFDirectoryLoader
+from langchain_community.document_loaders import PDFMinerLoader
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 from langchain.schema.document import Document
 from langchain_community.embeddings import OllamaEmbeddings
@@ -8,6 +9,7 @@ from langchain_community.llms.ollama import Ollama
 from langchain_chroma import Chroma
 import re
 import os
+import openparse
 
 # pip install -U langchain-chroma
 class RAGSystem:
@@ -24,56 +26,61 @@ class RAGSystem:
 
         self._setup_collection() 
         self.model = Ollama(model=self.llm_model)
+        # self.prompt_template = """
+        #     第一，先將以下文件仔細讀過一遍
+        #     {context}
+        #     第二，將文件的內容整理好
+        #     第三，將以下問題讀過一遍
+        #     {question}
+        #     第四，理解問題的語意
+        #     第五，在文件中尋找解答以回答問題
+        #     第六，將問題的解答以及來源使用英文輸出成以下JSON格式
+        #     {{"answer":"解答","source":"來源"}}
+        #     若是文件中並未有問題所需的資料回答
+        #     {{"answer": "Information not available in the provided context","source": "N/A"}}
 
-#         self.prompt_template = """
-# Instruction: Act as an expert safety advisor analyzing a Safety Data Sheet to address the given question. Use only the provided context, but approach the task with a proactive, problem-solving mindset. Follow these guidelines:
-# Context: {context}
-# Question: {question}
+        #     請確保回覆的答案及來源皆來源於文件中
+            
+        # """
 
-# Approach:
-# Analyze the safety data sheet thoroughly, focusing on the most relevant sections for the question.
-# Identify potential hazards, safety concerns, or key information related to the query.
-# Formulate a comprehensive response that not only answers the question but also provides actionable advice and recommendations.
-# If applicable, suggest preventive measures, best practices, or alternative solutions to mitigate risks.
-# Prioritize user safety and regulatory compliance in your recommendations.
-
-# Response Structure:
-# Compile your analysis into a concise, actionable response that includes:
-
-# Direct answer to the question
-# Key safety considerations
-# Practical recommendations or solutions
-# Any critical warnings or precautions
-
-# Formatting:
-# Provide your response in the following JSON format:
-# {{
-#   "answer": "Your comprehensive response",
-#   "source": "Relevant section title(s) from the Safety Data Sheet"
-# }}
-
-# Requirements:
-# Maintain the persona of an expert safety advisor throughout your response.
-# Use only the information provided in the context, but apply critical thinking and expertise to derive insights and recommendations.
-# Prioritize user safety and practical, actionable advice in your recommendations.
-# Ensure all key information, analysis, and recommendations are included within the single "answer" field of the response.
-# When relevant, mention the importance of following local regulations and consulting with appropriate authorities or experts for complex situations.
-# Keep the response concise yet comprehensive, focusing on the most crucial information and advice.
-# """
+        self.prompt_template = '''
+Instruction:
+You are an ass
+'''
 
         self.prompt_template = """
-            Answer the question based on the following context: {context}. 
-            ---
-            Answer the question based on the above context: {question}. 
-            Identify and include the relevant section title(s) that occur before the information used in your answer.
-            Section title should be before the answer.
-            Reply in the format: {{"answer": "answer", "source": "section title"}} do not reply other text
-            and if the answer contain multiple answers, then combine to one single answer
-            and reply in the format:
-            {{"answer": "answer 1, answer 2, answer 3, etc", "source": "section title 1, section title 2, section title 3, etc"}}.
-            Do not make up answers or use outside information, and if you dont know the answer then reply
-            {{"answer": "I dont know", "source": "N/A"}}.
+            Instruction:
+            You are an expert safety advisor analyzing a Safety Data Sheet (SDS) to answer the given question. Use only the information provided in the SDS and the context for each chunk. Focus on the facts within the SDS to deliver a complete and precise answer.
+
+            Answer the question based on the following context:
+            Context: {context}
+            Question: {question}
+
+Important Requirements:
+Provide a Complete Answer: When the question requires listing items (e.g., ingredients), provide all items without skipping.
+Use Information from Context: Use only the SDS and provided context. Do not invent or assume details that aren't explicitly present.
+If Unsure, Admit It: If the information is not available in the SDS or context, clearly state this in the response.
+
+Response Format:
+Respond in the following JSON format:
+{{
+  "answer": "Your comprehensive response here",
+  "source": "Relevant section titles from the SDS, separated by commas if multiple"
+}}
+
+If the answer cannot be determined based on the provided context, respond with:
+{{
+  "answer": "Information not available in the provided context",
+  "source": "N/A"
+}}
+
+Requirements Recap:
+Focus on Completeness: Answer questions fully, especially when listing items like ingredients—do not stop at just the first few items.
+Stay Fact-Based: Do not introduce any external knowledge or assumptions beyond the provided SDS.
+Concise and Direct: Keep the response straightforward and avoid unnecessary elaboration.
+Always Use JSON Format.
         """
+
 
 
     def _clean_text(self, text):
@@ -88,7 +95,8 @@ class RAGSystem:
         return text
 
     def _setup_collection(self):
-        pages = self._load_documents()
+        # pages = self._load_documents()
+        pages = self._load_documents_openparse()
         chunks = self._document_splitter(pages)
         chunks = self._get_chunk_ids(chunks)
         self.document = chunks
@@ -193,7 +201,8 @@ class RAGSystem:
 
     def _load_documents(self):
         print("load document")
-        loader = PyPDFDirectoryLoader(self.data_directory)
+        loader = PDFMinerLoader(self.data_directory + "/" + os.listdir(self.data_directory)[0])
+        # loader = PyPDFDirectoryLoader(self.data_directory)
         pages = loader.load()
         text = [Document("")]
         # Clean the content of each page
@@ -203,6 +212,24 @@ class RAGSystem:
             text[0].metadata = page.metadata
         
         return text
+
+    def _load_documents_openparse(self):
+
+        text = [Document("")]
+        parser = openparse.DocumentParser(
+        table_args={
+            "parsing_algorithm": "pymupdf",
+            "table_output_format": "markdown"
+        }
+        )
+        parsed_doc = parser.parse(self.data_directory + "/" + os.listdir(self.data_directory)[0])
+
+        for node in parsed_doc.nodes:
+            text[0].page_content += node.text
+            text[0].metadata["source"] = parsed_doc.filename
+        
+        return text
+
 
     def _document_splitter(self, documents):
         print("document splitter")

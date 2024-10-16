@@ -1,0 +1,258 @@
+1: What is the product identifier?
+{
+  "answer": "Product Safety - TAR, Product Safety - JDW",
+  "source": "Context"
+}
+
+2: When was the Safety Data Sheet issued?
+{
+  "answer": "Prepared by Product Safety - TAR on 7/3/2001",
+  "source": "Context"
+}
+
+3: What is the product description?
+{
+  "answer": "This product is acceptable for use under the provisions of WHMIS-CPR, All components of this formulation are listed on the CEPA-DSL (Domestic Substances List), All components of this formulation are listed on the US EPA-TSCA Inventory.",
+  "source": "Section XV. Regulatory Information"
+}
+
+4: Who is the manufacturer of the product?
+{
+  "answer": "The manufacturer of the product is not explicitly mentioned in the Safety Data Sheet (SDS) provided.",
+  "source": "N/A"
+}
+
+5: What is the emergency telephone number for the product?
+{
+  "answer": "Consult local, state, provincial or territory authorities for acceptable exposure limits. Also, call Petro-Canada at 403-296-3000 in Canada, Canutec Transportation at 613-996-6666, and Poison Control Centre as per the local telephone directory.",
+  "source": "Section I. Chemical Product and Company Identification, Section II. Composition and Information on Ingredients"
+}
+
+6: What are the hazard classifications associated with the product?
+{
+  "answer": "The product is classified as: Fire Hazard - 1, Health - 2, Reactivity - 0. It is also associated with the following Personal Protection Ratings: Insignificant (0) to Slight (1), Moderate (2) and High (3) to Extreme (4).",
+  "source": "Section I. Chemical Product and Company Identification, Section III. Hazards Identification, and Section X. Stability and Reactivity"
+}
+
+7: What is the signal word used for the product?
+{
+  "answer": "D-2A (WHMIS, Canada)",
+  "source": "Section XV. Regulatory Information"
+}
+
+8: What are the hazard statements related to the product?
+{
+  "answer": "The product contains the following hazard statements related to health, fire, and reactivity: Slight irritation of skin, eyes, and respiratory tract; Extremely dangerous in case of ingestion.",
+  "source": "Section III. Hazards Identification."
+}
+
+9: What precautions should be taken while handling the product?
+{
+  "answer": "When handling the product, wear appropriate clothing to prevent skin contact (long sleeves and trousers as a minimum). Wear chemically protective gloves that are heat resistant and insulated when handling hot product. Ensure adequate ventilation if user's operations generate vapours or mist. Use make-up air to balance exhaust ventilation. Have an eyewash station and safety shower close to the work-station. When working with the product, consider using safety goggles and/or a face shield in case of splashing. NIOSH approved respirators may be necessary if concentrations exceed occupational exposure limits. Dispose of spills according to regional regulations.",
+  "source": "Section VII (Handling), Section VIII (Exposure Controls/Personal Protection), Section VI (Accidental Release Measures)"
+}
+
+10: What are the first aid measures in case of inhalation?
+{
+  "answer": "Remove victim to a safe area as soon as possible. If victim is not breathing, perform artificial respiration. Allow the victim to rest in a well-ventilated area. Seek medical attention. DO NOT induce vomiting because of danger of aspirating liquid into lungs.",
+  "source": "Section IV. First Aid Measures"
+}
+
+11: What are the first aid measures in case of skin contact?
+{
+  "answer": "Remove contaminated clothing - launder before reuse. Wash gently and thoroughly the contaminated skin with running water and non-abrasive soap. Seek medical attention.",
+  "source": "Section IV. First Aid Measures"
+}
+
+12: What are the first aid measures in case of eye contact?
+{
+  "answer": "IMMEDIATELY flush eyes with running water for at least 15 minutes, keeping eyelids open. Seek medical attention.",
+  "source": "Section IV. First Aid Measures"
+}
+
+13: What are the first aid measures in case of ingestion?
+{
+  "answer": "DO NOT induce vomiting because of danger of aspirating liquid into lungs. Seek medical attention.",
+  "source": "Section IV. First Aid Measures"
+}
+
+14: What are the suitable extinguishing media for a fire involving the product?
+{
+  "answer": "SMALL FIRE: Use DRY chemicals, CO2, water spray or foam. LARGE FIRE: Use water spray, fog or foam. DO NOT use water jet.",
+  "source": "Section V. Fire-fighting Measures"
+}
+
+15: What are the special hazards arising from the substance during a fire?
+{
+  "answer": "Carbon oxides (CO, CO2), smoke and irritating vapours as products of incomplete combustion",
+  "source": "Section V. Fire-fighting Measures"
+}
+
+16: Are there any special fire handling procedures required for the product?
+{
+  "answer": "SMALL FIRE: Use DRY chemicals, CO2, water spray or foam. LARGE FIRE: Use water spray, fog or foam. DO NOT use water jet.",
+  "source": "Section V. Fire-fighting Measures"
+}
+
+17: How should accidental releases, spill, or leak of the product be handled?
+{
+  "answer": "For a small spill or leak, dilute with water and mop up or absorb with an inert dry material and place in an appropriate waste disposal container. For a large spill or leak, absorb with an inert material and put the spilled material in an appropriate waste disposal container. Dispose of in accordance with regional regulations.",
+  "source": "Section VI. Accidental Release Measures"
+}
+
+18: What precautions should be taken for safe handling and storage of the product?
+{
+  "answer": "To handle safely, keep container tightly closed. Avoid contamination with reactive substances. After handling, wash hands thoroughly with soap and water. To store safely, keep container dry and in a cool, well-ventilated place.",
+  "source": "Section VII. Handling and Storage, Section VIII. Exposure Controls/Personal Protection Engineering Controls"
+}
+
+19: What are the exposure controls and personal protection measures recommended for the product?
+{
+  "answer": "For normal application, special ventilation is not necessary. If user's operations generate vapours or mist, use ventilation to keep exposure to airborne contaminants below the exposure limit. Make-up air should always be supplied to balance air removed by exhaust ventilation. Ensure that eyewash station and safety shower are close to work-station. Personal protection varies depending upon conditions of use: eyes - use eye protection (safety glasses, goggles, face shield) based on application; body - wear appropriate clothing (long sleeves, trousers) to prevent skin contact; respiratory - use NIOSH approved respirators if concentrations exceed occupational exposure limits and engineering or work practices are not adequate; hands - wear chemically protective gloves; feet - wear appropriate footwear to prevent product from coming in contact with feet and skin.",
+  "source": "Section VIII. Exposure Controls/Personal Protection Engineering Controls, Personal Protection - The selection of personal protective equipment varies, depending upon conditions of use."
+}
+
+20: What are the physical and chemical properties of the product?
+{
+  "answer": "Clear viscous liquid, Viscosity Not available, Physical State and Appearance Colour, Odour Green, Odourless, Odour Threshold Not available, Pour Point Not available, Softening Point Not applicable, Dropping Point Not applicable, Boiling Point 129 to 197°C (264 to 387°F), Penetration Not applicable, Density 1.115 to 1.145 (Water = 1), Oil / Water Dist. Coeff. Not available, Vapour Density 2.1 (Air=1), Ionicity (in water) Not available, Vapour Pressure 0.06 mmHg @ 20°C (68ºF), Solubility Soluble in water, methanol and diethyl ether.",
+  "source": "Section IX. Physical and Chemical Properties"
+}
+
+21: Is the product stable or reactive? Are there any hazardous reactions to be aware of?
+{
+  "answer": "The product is stable. It will not undergo hazardous polymerization under normal working conditions. However, it may release COx, smoke, and irritating vapours when heated to decomposition. Additionally, it is reactive with oxidizing agents, acids, and alkalis.",
+  "source": "Section X. Stability and Reactivity, Section XI. Toxicological Information"
+}
+
+22: What are the possible hazardous decomposition products of the product?
+{
+  "answer": "May release COx, smoke and irritating vapours when heated to decomposition.",
+  "source": "Section X. Stability and Reactivity"
+}
+
+23: What is the toxicological information available for the product?
+{
+  "answer": "The substance is slightly hazardous in case of skin contact (irritant), slightly hazardous in case of inhalation (lung irritant), can cause nausea, headaches, and vomiting, extremely dangerous in case of ingestion. It may be toxic to kidneys and liver, and repeated exposure can produce target organs damage.",
+  "source": "Section XI. Toxicological Information"
+}
+
+24: What are the safety precautions and handling instructions for using the product?
+{
+  "answer": "To use this product safely, keep the container tightly closed and store it in a cool, well-ventilated place. If your operations generate vapors or mist, use ventilation to keep exposure below the exposure limit. Make-up air should be supplied to balance air removed by exhaust ventilation. Ensure an eyewash station and safety shower are close to the work-station. Wear protective gear: eye protection (safety glasses, goggles, face shield) based on conditions of use; long sleeves and trousers to prevent skin contact; heat-resistant and insulated gloves for handling hot product; and footwear preventing product from coming into contact with feet and skin. Respirators may be necessary if concentrations exceed occupational exposure limits. Handle contaminated skin gently and thoroughly before reuse, and seek medical attention in case of accidents.",
+  "source": "Section VII (Handling and Storage), Section VIII (Exposure Controls/Personal Protection Engineering Controls)"
+}
+
+25: What are the potential hazards associated with the product?
+{
+  "answer": "The potential hazards associated with this product include slight irritation of skin, eyes, and respiratory tract upon contact. Ingestion is extremely dangerous, and inhalation can be slightly hazardous. Decomposition products may release COx, smoke, and irritating vapours when heated to decomposition. Additionally, the product is reactive with oxidizing agents, acids, and alkalis.",
+  "source": "Section III. Hazards Identification, Section X. Stability and Reactivity, Section XI. Toxicological Information"
+}
+
+26: What are the specific health effects or risks associated with exposure to the product?
+{
+  "answer": "Skin irritation, eye irritation, respiratory tract irritation, nausea, headaches, vomiting, kidney damage, liver damage, target organs damage upon repeated exposure, general deterioration of health by accumulation in human organs.",
+  "source": "Section XI. Toxicological Information"
+}
+
+27: What are the emergency procedures in case of inhalation of the product?
+{
+  "answer": "In case of inhalation, evacuate the victim to a safe area as soon as possible. If the victim is not breathing, perform artificial respiration. Allow the victim to rest in a well-ventilated area. Seek medical attention. Respirators may be necessary if concentrations in air exceed occupational exposure limits and engineering controls are inadequate.",
+  "source": "Section IV. First Aid Measures, Section VIII. Exposure Controls/Personal Protection"
+}
+
+28: What are the emergency procedures in case of skin contact with the product?
+{
+  "answer": "Wash gently and thoroughly the contaminated skin with running water and non-abrasive soap. Remove contaminated clothing - launder before reuse. Seek medical attention.",
+  "source": "Section IV. First Aid Measures"
+}
+
+29: What are the emergency procedures in case of eye contact with the product?
+{
+  "answer": "IMMEDIATELY flush eyes with running water for at least 15 minutes, keeping eyelids open. Seek medical attention.",
+  "source": "Section IV. First Aid Measures"
+}
+
+30: What are the emergency procedures in case of ingestion of the product?
+{
+  "answer": "DO NOT induce vomiting because of danger of aspirating liquid into lungs. Seek medical attention.",
+  "source": "Section IV. First Aid Measures"
+}
+
+31: What is the waste disposal method for the product?
+{
+  "answer": "Recycle or reprocess, incineration with energy recovery, disposal at licensed waste disposal facility. Ensure that disposal or reprocessing is in compliance with government requirements and local disposal regulations.",
+  "source": "Section XIII. Disposal Considerations"
+}
+
+32: Are there any specific storage requirements or conditions for safely storing the product?
+{
+  "answer": "Keep container dry, keep container tightly closed, and keep in a cool, well-ventilated place.",
+  "source": "Section VII. Handling and Storage"
+}
+
+33: What is the shelf life of the product?
+{
+  "answer": "The product is stable. Shelf life information is not available in the provided context.",
+  "source": "Section X. Stability and Reactivity"
+}
+
+34: What are the composition and ingredients of the product?
+{
+  "answer": "Ethylene Glycol (the primary ingredient is not specified in the SDS, but it's mentioned as a component in Section XV, 'Regulatory Information')",
+  "source": "Section X. Stability and Reactivity, Corrosivity; Section XI. Toxicological Information, Routes of Entry"
+}
+
+35: Are there any known hazardous reactions or incompatibilities with other substances or materials?
+{
+  "answer": "The substance is reactive with oxidizing agents, acids, and alkalis. It will not polymerize under normal working conditions. When heated to decomposition, it may release COx, smoke, and irritating vapours.",
+  "source": "Section X. Stability and Reactivity"
+}
+
+36: What is the odor of the product?
+{
+  "answer": "The product has an odourless characteristic.",
+  "source": "Section IX. Physical and Chemical Properties"
+}
+
+37: What is the boiling point of the product?
+{
+  "answer": "129 to 197°C (264 to 387°F)",
+  "source": "Section IX. Physical and Chemical Properties"
+}
+
+38: Is the product flammable?
+{
+  "answer": "Yes, the product is flammable. May be combustible at high temperature. Flammable Limits Lower: 3.2%, Upper: 15.3% Closed Cup: 116ºC (Tagliabue) Open Cup: 116ºC (Cleveland)",
+  "source": "Section V. Fire-fighting Measures"
+}
+
+39: What is the solubility of the product?
+{
+  "answer": "The product is soluble in water, methanol, and diethyl ether.",
+  "source": "Section IX. Physical and Chemical Properties, Solubility"
+}
+
+40: Is the product stable under certain conditions, and are there any potential decomposition products?
+{
+  "answer": "The product is stable under normal working conditions, but may release COx, smoke, and irritating vapours when heated to decomposition. Decomposition products include carbon oxides (CO, CO2), smoke, and irritating vapours.",
+  "source": "Section X. Stability and Reactivity"
+}
+
+41: What are the recommended engineering controls, personal protective equipment (PPE), and respiratory protection for handling the product?
+{
+  "answer": "For normal application, special ventilation is not necessary. If user's operations generate vapours or mist, use ventilation to keep exposure to airborne contaminants below the exposure limit. Make-up air should always be supplied to balance air removed by exhaust ventilation. Ensure that eyewash station and safety shower are close to work-station. Personal Protection - The selection of personal protective equipment varies, depending upon conditions of use. Eyes: Eye protection (i.e., safety glasses, safety goggles and/or face shield) should be determined based on conditions of use. If product is used in an application where splashing may occur, the use of safety goggles and/or a face shield should be considered. Body: Wear appropriate clothing to prevent skin contact. As a minimum long sleeves and trousers should be worn. Respiratory: Where concentrations in air may exceed the occupational exposure limits given in Section 2 (and those applicable to your area) and where engineering, work practices or other means of exposure reduction are not adequate, NIOSH approved respirators may be necessary to prevent overexposure by inhalation. Hands: Wear appropriate chemically protective gloves. When handling hot product ensure gloves are heat resistant and insulated. Feet: Wear appropriate footwear to prevent product from coming in contact with feet and skin.",
+  "source": "Section VIII. Exposure Controls/Personal Protection Engineering Controls, Section VII. Handling and Storage"
+}
+
+42: Are there any specific environmental precautions or considerations for the disposal of the product or its containers?
+{
+  "answer": "Dispose of in accordance with regional regulations. Preferred waste management priorities are: (1) recycle or reprocess; (2) incineration with energy recovery; (3) disposal at licensed waste disposal facility.",
+  "source": "Section XIII. Disposal Considerations, Section VI. Accidental Release Measures"
+}
+
+43: Can the specific chemical identity or exact percentage of the composition be disclosed for the product?
+{
+  "answer": "No, the specific chemical identity or exact percentage of the composition cannot be disclosed for the product.",
+  "source": "Section VI. Accidental Release Measures, Section VII. Handling and Storage, Section VIII. Exposure Controls/Personal Protection"
+}
+

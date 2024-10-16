@@ -10,7 +10,7 @@ filename = f'{current_time}_{method}'
 rag_system = RAGSystem(method = method, filename = filename)
 
 while True:
-    for i in rag_system.answer_query_streaming(input('prompt:')):
+    for i in rag_system.answer_query_streaming(input('Question:')):
             print(i,end="")
     print()
     print('finish')
