@@ -1,4 +1,4 @@
-Source(T/F),,Question,Answer,Source,Note
+Source(T/F),Answer(T/F),Question,Answer,Source,Note
 T,T,What is the product identifier?,ANTIFREEZE,"Section I. Identification, Section XVI. Other Information",
 T/F,T/F,When was the Safety Data Sheet issued?,Information not available in the provided context,N/A,"沒找到資料， 更改問題為「When is the SDS prepared?」的答案為""The SDS was prepared by Product Safety - TAR on 7/3/2001."""
 T,T,What is the product description?,Antifreeze,"Section XVI. Other Information, Section X. Stability and Reactivity",

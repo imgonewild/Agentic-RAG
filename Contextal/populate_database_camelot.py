@@ -7,7 +7,7 @@ from PIL import Image
 import io
 import camelot 
 from langchain_community.document_loaders import PyPDFDirectoryLoader
-from langchain.text_splitter import RecursiveCharacterTextSplitter
+from langchain.text_splitter import RecursiveCharacterTextSplitter , RecursiveJsonSplitter
 from langchain.schema.document import Document
 from get_embedding_function import get_embedding_function
 from langchain_community.vectorstores import Chroma
@@ -127,7 +127,12 @@ def load_documents():
 
                 # Extract tables using Camelot, if applicable
                 tables = extract_tables_from_pdf(pdf_file)
+
+                for table in tables:
+                    table_content = table.page_content
+                    text = text.replace(table_content, "")
                 documents.extend(tables)
+
 
                 doc = Document(page_content=text, metadata={"source": pdf_file, "document_name": os.path.basename(pdf_file)})
                 documents.append(doc)
@@ -136,12 +141,14 @@ def load_documents():
 # Split the documents into smaller chunks.
 def split_documents(documents: list[Document]) -> List[Document]:
     text_splitter = RecursiveCharacterTextSplitter(
-        chunk_size=1500,
+        chunk_size=1600,
         chunk_overlap=600,
         length_function=len,
         is_separator_regex=False,
     )
+
     chunks = text_splitter.split_documents(documents)
+
     chunks_with_ids = calculate_chunk_ids(chunks)
     return chunks_with_ids
 

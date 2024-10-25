@@ -26,27 +26,7 @@ class RAGSystem:
 
         self._setup_collection() 
         self.model = Ollama(model=self.llm_model)
-        # self.prompt_template = """
-        #     第一，先將以下文件仔細讀過一遍
-        #     {context}
-        #     第二，將文件的內容整理好
-        #     第三，將以下問題讀過一遍
-        #     {question}
-        #     第四，理解問題的語意
-        #     第五，在文件中尋找解答以回答問題
-        #     第六，將問題的解答以及來源使用英文輸出成以下JSON格式
-        #     {{"answer":"解答","source":"來源"}}
-        #     若是文件中並未有問題所需的資料回答
-        #     {{"answer": "Information not available in the provided context","source": "N/A"}}
 
-        #     請確保回覆的答案及來源皆來源於文件中
-            
-        # """
-
-        self.prompt_template = '''
-Instruction:
-You are an ass
-'''
 
         self.prompt_template = """
             Instruction:
@@ -236,8 +216,8 @@ Always Use JSON Format.
         if self.method == 0:
             # print("overlap")
             splitter = RecursiveCharacterTextSplitter(
-                chunk_size=1500,
-                chunk_overlap=600,
+                chunk_size=1600,
+                chunk_overlap=680,
                 length_function=len,
                 is_separator_regex=False,
             )

@@ -1,7 +1,8 @@
 import sys
 import csv
 import os
-from langchain_community.vectorstores import Chroma
+from langchain_community.vectorstores import Chroma 
+from langchain.prompts import ChatPromptTemplate
 from langchain_community.llms.ollama import Ollama
 from get_embedding_function import get_embedding_function
 from langchain.prompts import PromptTemplate
@@ -49,6 +50,19 @@ Concise and Direct: Keep the response straightforward and avoid unnecessary elab
 Always Use JSON Format.
 """
 
+prompt_template_2 = '''
+Context: {context}
+Answer:{question}
+Base on Context to Respond Answer's Source
+
+Response Format:
+Respond in the following JSON format:
+{{
+  "Answer": "The Answer response here",
+  "source": "Answer's Source response here"
+}}
+'''
+
 def main():
     start_time = time.time()
 
@@ -73,7 +87,8 @@ def main():
 
     question = input("Enter question: ")
     
-    process_questions(question, document_name)
+    result = process_questions(question, document_name)
+    j = json.loads(result.lstrip('\n')[:result.find('}')+1])
 
     end_time = time.time()
     response_time = end_time - start_time
@@ -83,7 +98,7 @@ def process_questions(question,document_name):
         response = query_rag(question, document_name)
         print(f"Processed question: {question}")
         print(response)
-
+        return response
 
 def list_document_ids():
     print("Entering list_document_ids function")
@@ -122,6 +137,7 @@ def extract_chunk_number(doc_id):
     return 0
 
 def query_rag(query_text: str, document_name: str):
+    
 
     print(f"Querying for document: {document_name}")
     embedding_function = get_embedding_function()
@@ -136,16 +152,12 @@ def query_rag(query_text: str, document_name: str):
     retriever = db.as_retriever(
         search_kwargs={'filter': {'source': {'$eq': document_name}}},
         search_type="mmr",  # Use Maximum Marginal Relevance for diverse results
-        k=4
+        k=3
     )
 
     try:
-        retrieved_docs = retriever.invoke(query_text)
+        retrieved_docs = retriever.get_relevant_documents(query_text)
         print(f"Retrieved {len(retrieved_docs)} relevant documents")
-        print(retrieved_docs[0].page_content)
-        print(retrieved_docs[1].page_content)
-        print(retrieved_docs[2].page_content)
-        print(retrieved_docs[3].page_content)
         if len(retrieved_docs) == 0:
             return json.dumps({"answer": "No relevant documents found", "source": "N/A"})
     except Exception as e:
@@ -155,8 +167,9 @@ def query_rag(query_text: str, document_name: str):
     # retrieved_docs_sorted = sorted(retrieved_docs, key=lambda doc: extract_chunk_number(doc.metadata['id']))
 
     prompt = PromptTemplate.from_template(PROMPT_TEMPLATE)
+    prompt_2 = PromptTemplate.from_template(prompt_template_2)
 
-    model = Ollama(model="llama3.1",format='json',temperature=0.8)
+    model = Ollama(model="llama3.1",format='json')
 
     def format_docs(docs):
         return "\n\n".join(doc.page_content for doc in docs)
@@ -168,10 +181,19 @@ def query_rag(query_text: str, document_name: str):
         | StrOutputParser()
     )
 
+    rag_chain_2 = (
+        {"context": retriever | format_docs, "question": RunnablePassthrough()}
+        | prompt_2
+        | model
+        | StrOutputParser()
+    )
+
     try:
         response_text = rag_chain.invoke(query_text)   
         print("Response received")
         print(f"Raw response: {response_text}")  # Print raw response for debugging
+        source_text = rag_chain_2.invoke(query_text)
+        print("Source" + source_text)
         
         # Try to parse JSON, if fails, attempt to extract answer and source
         try:
