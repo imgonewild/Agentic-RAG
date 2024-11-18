@@ -142,10 +142,10 @@ def query_rag(query_text: str, document_name: str):
     try:
         retrieved_docs = retriever.invoke(query_text)
         print(f"Retrieved {len(retrieved_docs)} relevant documents")
-        print(retrieved_docs[0].page_content)
-        print(retrieved_docs[1].page_content)
-        print(retrieved_docs[2].page_content)
-        print(retrieved_docs[3].page_content)
+        print(retrieved_docs[0].metadata)
+        print(retrieved_docs[1].metadata)
+        print(retrieved_docs[2].metadata)
+        print(retrieved_docs[3].metadata)
         if len(retrieved_docs) == 0:
             return json.dumps({"answer": "No relevant documents found", "source": "N/A"})
     except Exception as e:

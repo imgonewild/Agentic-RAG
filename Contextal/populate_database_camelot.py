@@ -92,6 +92,15 @@ def main():
     documents = load_documents()
     chunks = split_documents(documents)
 
+    
+    with open("chunk/"+ os.listdir('data2')[0] + "_chunks.txt", 'a', encoding="utf-8") as file:
+        for idx, chunk in enumerate(chunks):
+            file.write(f"Chunk {idx + 1}:\n")
+            file.write(f"Content: {chunk.page_content}\n")
+            file.write(f"Metadata: {chunk.metadata}\n")
+            file.write("\n" + "-" * 80 + "\n")
+    
+
     db = Chroma(persist_directory=CHROMA_PATH, embedding_function=get_embedding_function())
     existing_items = db.get(include=[])  # IDs are always included by default
     existing_ids = set(existing_items["ids"])
@@ -141,8 +150,8 @@ def load_documents():
 # Split the documents into smaller chunks.
 def split_documents(documents: list[Document]) -> List[Document]:
     text_splitter = RecursiveCharacterTextSplitter(
-        chunk_size=1600,
-        chunk_overlap=600,
+        chunk_size=500,
+        chunk_overlap=100,
         length_function=len,
         is_separator_regex=False,
     )

@@ -1,0 +1,362 @@
+Chunk 1:
+Content: {"0":{"0":"REG","1":"Prepared by: Regulatory Affairs Dept.","2":"","3":"","4":"","5":"","6":"","7":"","8":"","9":"","10":"","11":"","12":"","13":"","14":"","15":"","16":"","17":"","18":"","19":"","20":"","21":"","22":"","23":"","24":"","25":"","26":"","27":"","28":"","29":"","30":"","31":"","32":"","33":"","34":"","35":"","36":"","37":"","38":"","39":"","40":"","41":"","42":"","43":"","44":"","45":"","46":"","47":"","48":"","49":"","50":"","51":"","52":"","53":"","54":"","55":"","56":"","57":"","58":"F"},"1":{"0":"MATERIAL SAFETY DATA SHEET\n \n \n       \n N\/A=Not Applicable","1":"(Prepared According to 29 CFR 1910.1200) \n          Effective Date: 1\/09 Revision: n\/a","2":"SECTION 1-PRODUCT IDENTIFICATION AND SUPPLIER INFORMATION","3":"Supplier\u2019s Name: \nManufacturer\u2019s Name: \nProduct Name: Revite (Green)","4":"S\nMisco Products Corporation \nGeneric Name: Heavy Duty Cleaner Degreaser","5":"upplier\u2019s Address: \nManufacturer\u2019s Address: \nChemical Family: Alkaline Detergent","6":"S\n1048 Stinson Drive     Reading, PA    19605 \nFormula: Proprietary","7":"upplier\u2019s Phone #: \nManufacturer\u2019s Phone #:   (610)  926-4106","8":"SECTION 2-INGREDIENT INFORMATION","9":"CHEMICAL NAME \nCAS NO. \nWT. % \nPEL \nTWA-TLV \nSTEL-TLV","10":"Water \n7732-18-5 \nto 100","11":"2-Butoxyethanol \n111-76-2 \n0 to 5 \n25 ppm \n25 ppm \nN\/A","12":"Potassium Alkyl Aryl Sulfonate \n27177-77-1 \n0 to 5","13":"Potassium Tall Oil Soap \n61790-44-1 \n0 to 5","14":"Sodium
+Metadata: {'source': 'data2\\HD Cleaner Degreaser HW MSDS.pdf', 'page': 1, 'type': 'table', 'table_index': 0, 'document_name': 'HD Cleaner Degreaser HW MSDS.pdf', 'id': '7cd945ba-f874-44d3-9eb0-025d32b0040d'}
+
+--------------------------------------------------------------------------------
+Chunk 2:
+Content: Degreaser","5":"upplier\u2019s Address: \nManufacturer\u2019s Address: \nChemical Family: Alkaline Detergent","6":"S\n1048 Stinson Drive     Reading, PA    19605 \nFormula: Proprietary","7":"upplier\u2019s Phone #: \nManufacturer\u2019s Phone #:   (610)  926-4106","8":"SECTION 2-INGREDIENT INFORMATION","9":"CHEMICAL NAME \nCAS NO. \nWT. % \nPEL \nTWA-TLV \nSTEL-TLV","10":"Water \n7732-18-5 \nto 100","11":"2-Butoxyethanol \n111-76-2 \n0 to 5 \n25 ppm \n25 ppm \nN\/A","12":"Potassium Alkyl Aryl Sulfonate \n27177-77-1 \n0 to 5","13":"Potassium Tall Oil Soap \n61790-44-1 \n0 to 5","14":"Sodium Tripolyphosphate \n7758-29-4 \n0 to 5","15":"Dye \nN\/A \n< 1","16":"Fragrance \nN\/A \n< 1","17":"SECTION 3-PHYSICAL DATA \nSECTION 4-FIRE AND EXPLOSION HAZARD DATA","18":"Flash Point (Method Used): None (waterbased) \n \nSpecific Gravity: 1.055 \nBoiling Point (\u00b0F): 212 F.","19":"Lower Explosion Limit: N\/A \nUpper Explosion Limit: N\/A  \nVapor Pressure: 20mm Hg @ 68 F.            Vapor Density (Air=1): >1","20":"Extinguishing Media: N\/A \npH: 12.0 \u2013 13.0 \n% Volatile: 85+","21":"Special Firefighting Procedures: Non Flammable \nSolubility in Water: Complete \n \nEvaporation Rate (Water=1): <1","22":"Unusual Fire and Explosion Hazards: N\/A \nPhysical Description: Thin green liquid with characteristic odor.","23":"VOC Content: 2.93% (wt\/wt), 0.26 lbs\/gal., 30.9 grams\/liter","24":"SECTION 5-REACTIVITY DATA","25":"Stability: Stable \n \n \n \n \n  \nHazardous Polymerization:
+Metadata: {'source': 'data2\\HD Cleaner Degreaser HW MSDS.pdf', 'page': 1, 'type': 'table', 'table_index': 0, 'document_name': 'HD Cleaner Degreaser HW MSDS.pdf', 'id': '83f8daf9-0059-4470-aa9c-6e7d9c0f4fa1'}
+
+--------------------------------------------------------------------------------
+Chunk 3:
+Content: Limit: N\/A \nUpper Explosion Limit: N\/A  \nVapor Pressure: 20mm Hg @ 68 F.            Vapor Density (Air=1): >1","20":"Extinguishing Media: N\/A \npH: 12.0 \u2013 13.0 \n% Volatile: 85+","21":"Special Firefighting Procedures: Non Flammable \nSolubility in Water: Complete \n \nEvaporation Rate (Water=1): <1","22":"Unusual Fire and Explosion Hazards: N\/A \nPhysical Description: Thin green liquid with characteristic odor.","23":"VOC Content: 2.93% (wt\/wt), 0.26 lbs\/gal., 30.9 grams\/liter","24":"SECTION 5-REACTIVITY DATA","25":"Stability: Stable \n \n \n \n \n  \nHazardous Polymerization: None","26":"Hazards Decomposition Products: Alkaline vapors in a fire. \nIncompatibility (Materials to Avoid): Strong acids.","27":"SECTION 6-STORAGE AND HANDLING INFORMATION","28":"WARNING: Eye Irritant. May cause skin irritation with prolong or repeated contact. Avoid contact with eyes, skin and clothing.  Wear rubber gloves, chemical splash","29":"goggles and protective outerwear when handling. Avoid breathing of vapors or mists.  Use in well-ventilated area. Keep out of reach of children.  For use by trained","30":"personnel only.  Keep container closed during storage.  For institutional and industrial use only.","31":"SECTION 7-HEALTH HAZARDS AND FIRST AID \nSECTION 8-SPECIAL PROTECTION INFORMATION","32":"Effects of Overexposure: \nRespiratory Protection: Use in well ventilated area.","33":"Skin: Moderate skin irritant. Prolonged or repeated contact may cause redness, \nVentilation
+Metadata: {'source': 'data2\\HD Cleaner Degreaser HW MSDS.pdf', 'page': 1, 'type': 'table', 'table_index': 0, 'document_name': 'HD Cleaner Degreaser HW MSDS.pdf', 'id': '83df7c12-b7ac-4eee-8b1e-841a2890018e'}
+
+--------------------------------------------------------------------------------
+Chunk 4:
+Content: Wear rubber gloves, chemical splash","29":"goggles and protective outerwear when handling. Avoid breathing of vapors or mists.  Use in well-ventilated area. Keep out of reach of children.  For use by trained","30":"personnel only.  Keep container closed during storage.  For institutional and industrial use only.","31":"SECTION 7-HEALTH HAZARDS AND FIRST AID \nSECTION 8-SPECIAL PROTECTION INFORMATION","32":"Effects of Overexposure: \nRespiratory Protection: Use in well ventilated area.","33":"Skin: Moderate skin irritant. Prolonged or repeated contact may cause redness, \nVentilation Requirements: Provide local exhaust to keep TLV of Section 2 in-","34":"dermatitis. \ngredients below acceptable limit.","35":"Eyes: Eye irritant. Liquid and mists will cause tearing, redness, burning sensation.","36":"Protective Gloves: Chemical resistant rubber or neoprene.","37":"Inhalation: Vapors and mists may be irritating to mucous membranes in the nose,","38":"Eye Protection: Safety glasses or chemical splash goggles.","39":"throat, and lungs.","40":"Other Protective Equipment: Wear protective rubber footwear when using on","41":"Ingestion: Irritating to the mouth and throat. May cause headache, nausea, abdominal","42":"floor.  Wear protective outerwear when danger of mist contact may occur.","43":"pain, vomiting, and diarrhea. Excessive amounts may cause collapse.","44":"First Aid Procedures: \nSECTION 9-SPILL OR LEAK PROCEDURES","45":"Skin: Flush with water. Seek medical attention if
+Metadata: {'source': 'data2\\HD Cleaner Degreaser HW MSDS.pdf', 'page': 1, 'type': 'table', 'table_index': 0, 'document_name': 'HD Cleaner Degreaser HW MSDS.pdf', 'id': 'c47fb27e-62d9-44e1-80de-ffe030b30b4c'}
+
+--------------------------------------------------------------------------------
+Chunk 5:
+Content: mists may be irritating to mucous membranes in the nose,","38":"Eye Protection: Safety glasses or chemical splash goggles.","39":"throat, and lungs.","40":"Other Protective Equipment: Wear protective rubber footwear when using on","41":"Ingestion: Irritating to the mouth and throat. May cause headache, nausea, abdominal","42":"floor.  Wear protective outerwear when danger of mist contact may occur.","43":"pain, vomiting, and diarrhea. Excessive amounts may cause collapse.","44":"First Aid Procedures: \nSECTION 9-SPILL OR LEAK PROCEDURES","45":"Skin: Flush with water. Seek medical attention if irritation persists. \nSteps  to  be  taken  in  Case  Material  is  Released or Spilled: Floors will become","46":"slippery.  Avoid walking in product.  Keep unessential personnel away.  Mop up or \nEyes: Immediately flush with large quantities of water, holding eyelids open. Seek","47":"otherwise absorb and hold disposal.  Avoid discharge to sewer or open waterways. \nmedical attention if irritation persists.","48":"Waste Disposal Method: Any method in accordance with local, state and federal \nInhalation: Get to fresh air. Seek medical attention if irritation persists.","49":"laws.    Best  method  is  to  recycle  or  reuse  for  intended  purpose.  Consult  local \nIngestion: Do not induce vomiting. Drink large quantities of water. Seek medical","50":"authorities for disposal in public sewer.  Do not dispose of into storm drain, stream, \nattention immediately.","51":"river or to
+Metadata: {'source': 'data2\\HD Cleaner Degreaser HW MSDS.pdf', 'page': 1, 'type': 'table', 'table_index': 0, 'document_name': 'HD Cleaner Degreaser HW MSDS.pdf', 'id': '08aaaa70-f36e-46b8-a0f5-1740a01d6670'}
+
+--------------------------------------------------------------------------------
+Chunk 6:
+Content: absorb and hold disposal.  Avoid discharge to sewer or open waterways. \nmedical attention if irritation persists.","48":"Waste Disposal Method: Any method in accordance with local, state and federal \nInhalation: Get to fresh air. Seek medical attention if irritation persists.","49":"laws.    Best  method  is  to  recycle  or  reuse  for  intended  purpose.  Consult  local \nIngestion: Do not induce vomiting. Drink large quantities of water. Seek medical","50":"authorities for disposal in public sewer.  Do not dispose of into storm drain, stream, \nattention immediately.","51":"river or to ground.  Rinse container thoroughly before discarding in trash.","52":"SECTION 10-REGULATORY INFORMATION","53":"HMIS Hazardous Materials  \n \nSARA Title III - Section 311\/312 -Hazard Categories: \nShipping Information:","54":"Identification System \n \nNo  - Fire Hazard \nFOR CONTAINERS > Cleaning Compound","55":"Health \n2\nNo  - Sudden Release of Pressure Hazard","56":"No  - Reactivity Hazard \nFlammability \n0\nFOR 1 GALLON CONTAINERS: Cleaning Compound","57":"Yes - Immediate (acute) Health Hazard \n \nReactivity \n0","58":"No  - Delayed (chronic) Health Hazard \nFOR CONTAINERS < 1 GALLON: Cleaning Compound \nPersonal Protection \nD"}}
+Metadata: {'source': 'data2\\HD Cleaner Degreaser HW MSDS.pdf', 'page': 1, 'type': 'table', 'table_index': 0, 'document_name': 'HD Cleaner Degreaser HW MSDS.pdf', 'id': '445a99a0-08a5-42cc-8e37-1d593bc610dc'}
+
+--------------------------------------------------------------------------------
+Chunk 7:
+Content: REG 
+ 
+ 
+ 
+ 
+ 
+MATERIAL SAFETY DATA SHEET 
+ 
+       
+ N/A=Not Applicable 
+Prepared by: Regulatory Affairs Dept.  
+ 
+    (Prepared According to 29 CFR 1910.1200) 
+          Effective Date: 1/09 Revision: n/a 
+SECTION 1-PRODUCT IDENTIFICATION AND SUPPLIER INFORMATION 
+Manufacturer’s Name: 
+Misco Products Corporation 
+Manufacturer’s Address: 
+1048 Stinson Drive     Reading, PA    19605 
+Manufacturer’s Phone #:   (610)  926-4106 
+Product Name: Revite (Green)  
+Generic Name: Heavy Duty Cleaner Degreaser 
+Chemical Family: Alkaline Detergent 
+Formula: Proprietary 
+ 
+Supplier’s Name: 
+ 
+Supplier’s Address: 
+ 
+Supplier’s Phone #: 
+SECTION 2-INGREDIENT INFORMATION 
+CHEMICAL NAME 
+CAS NO. 
+WT. % 
+PEL 
+TWA-TLV 
+STEL-TLV 
+Water 
+7732-18-5 
+to 100 
+ 
+ 
+ 
+2-Butoxyethanol 
+111-76-2 
+0 to 5 
+25 ppm 
+25 ppm 
+N/A 
+Potassium Alkyl Aryl Sulfonate 
+27177-77-1 
+0 to 5 
+ 
+ 
+ 
+Potassium Tall Oil Soap 
+61790-44-1 
+0 to 5 
+ 
+ 
+ 
+Sodium Tripolyphosphate 
+7758-29-4 
+0 to 5 
+ 
+ 
+ 
+Dye 
+N/A 
+< 1 
+ 
+ 
+ 
+Fragrance 
+N/A 
+< 1 
+ 
+ 
+ 
+SECTION 3-PHYSICAL DATA 
+SECTION 4-FIRE AND EXPLOSION HAZARD DATA 
+Boiling Point (°F): 212 F. 
+ 
+Specific Gravity: 1.055 
+Vapor Pressure: 20mm Hg @ 68 F.            Vapor Density (Air=1): >1 
+% Volatile: 85+                             
+pH: 12.0 – 13.0 
+Solubility in Water: Complete  
+Evaporation Rate (Water=1): <1 
+Physical Description: Thin green liquid with characteristic odor. 
+VOC Content: 2.93% (wt/wt), 0.26 lbs/gal., 30.9 grams/liter
+Metadata: {'source': 'data2\\HD Cleaner Degreaser HW MSDS.pdf', 'document_name': 'HD Cleaner Degreaser HW MSDS.pdf', 'id': '15068926-2c00-431b-82c0-8aa038bc90c5'}
+
+--------------------------------------------------------------------------------
+Chunk 8:
+Content: Potassium Tall Oil Soap 
+61790-44-1 
+0 to 5 
+ 
+ 
+ 
+Sodium Tripolyphosphate 
+7758-29-4 
+0 to 5 
+ 
+ 
+ 
+Dye 
+N/A 
+< 1 
+ 
+ 
+ 
+Fragrance 
+N/A 
+< 1 
+ 
+ 
+ 
+SECTION 3-PHYSICAL DATA 
+SECTION 4-FIRE AND EXPLOSION HAZARD DATA 
+Boiling Point (°F): 212 F. 
+ 
+Specific Gravity: 1.055 
+Vapor Pressure: 20mm Hg @ 68 F.            Vapor Density (Air=1): >1 
+% Volatile: 85+                             
+pH: 12.0 – 13.0 
+Solubility in Water: Complete  
+Evaporation Rate (Water=1): <1 
+Physical Description: Thin green liquid with characteristic odor. 
+VOC Content: 2.93% (wt/wt), 0.26 lbs/gal., 30.9 grams/liter 
+Flash Point (Method Used): None (waterbased) 
+Upper Explosion Limit: N/A  
+ 
+Lower Explosion Limit: N/A 
+Extinguishing Media: N/A 
+Special Firefighting Procedures: Non Flammable 
+Unusual Fire and Explosion Hazards: N/A 
+SECTION 5-REACTIVITY DATA 
+Stability: Stable 
+ 
+ 
+ 
+ 
+ 
+ 
+Hazardous Polymerization: None 
+ 
+Hazards Decomposition Products: Alkaline vapors in a fire. 
+Incompatibility (Materials to Avoid): Strong acids. 
+SECTION 6-STORAGE AND HANDLING INFORMATION 
+WARNING: Eye Irritant. May cause skin irritation with prolong or repeated contact. Avoid contact with eyes, skin and clothing.  Wear rubber gloves, chemical splash 
+goggles and protective outerwear when handling. Avoid breathing of vapors or mists.  Use in well-ventilated area. Keep out of reach of children.  For use by trained
+Metadata: {'source': 'data2\\HD Cleaner Degreaser HW MSDS.pdf', 'document_name': 'HD Cleaner Degreaser HW MSDS.pdf', 'id': '482b8510-2026-40b8-afa8-356857f25046'}
+
+--------------------------------------------------------------------------------
+Chunk 9:
+Content: SECTION 5-REACTIVITY DATA 
+Stability: Stable 
+ 
+ 
+ 
+ 
+ 
+ 
+Hazardous Polymerization: None 
+ 
+Hazards Decomposition Products: Alkaline vapors in a fire. 
+Incompatibility (Materials to Avoid): Strong acids. 
+SECTION 6-STORAGE AND HANDLING INFORMATION 
+WARNING: Eye Irritant. May cause skin irritation with prolong or repeated contact. Avoid contact with eyes, skin and clothing.  Wear rubber gloves, chemical splash 
+goggles and protective outerwear when handling. Avoid breathing of vapors or mists.  Use in well-ventilated area. Keep out of reach of children.  For use by trained 
+personnel only.  Keep container closed during storage.  For institutional and industrial use only.   
+SECTION 7-HEALTH HAZARDS AND FIRST AID 
+SECTION 8-SPECIAL PROTECTION INFORMATION 
+Effects of Overexposure: 
+Skin: Moderate skin irritant. Prolonged or repeated contact may cause redness, 
+dermatitis. 
+Eyes: Eye irritant. Liquid and mists will cause tearing, redness, burning sensation. 
+Inhalation: Vapors and mists may be irritating to mucous membranes in the nose, 
+throat, and lungs. 
+Ingestion: Irritating to the mouth and throat. May cause headache, nausea, abdominal 
+pain, vomiting, and diarrhea. Excessive amounts may cause collapse. 
+Respiratory Protection: Use in well ventilated area. 
+Ventilation Requirements: Provide local exhaust to keep TLV of Section 2 in-
+gredients below acceptable limit. 
+Protective Gloves: Chemical resistant rubber or neoprene.
+Metadata: {'source': 'data2\\HD Cleaner Degreaser HW MSDS.pdf', 'document_name': 'HD Cleaner Degreaser HW MSDS.pdf', 'id': 'c25afd65-8ed3-4460-bb49-2c250f9444ac'}
+
+--------------------------------------------------------------------------------
+Chunk 10:
+Content: dermatitis. 
+Eyes: Eye irritant. Liquid and mists will cause tearing, redness, burning sensation. 
+Inhalation: Vapors and mists may be irritating to mucous membranes in the nose, 
+throat, and lungs. 
+Ingestion: Irritating to the mouth and throat. May cause headache, nausea, abdominal 
+pain, vomiting, and diarrhea. Excessive amounts may cause collapse. 
+Respiratory Protection: Use in well ventilated area. 
+Ventilation Requirements: Provide local exhaust to keep TLV of Section 2 in-
+gredients below acceptable limit. 
+Protective Gloves: Chemical resistant rubber or neoprene. 
+Eye Protection: Safety glasses or chemical splash goggles. 
+Other Protective Equipment: Wear protective rubber footwear when using on 
+floor.  Wear protective outerwear when danger of mist contact may occur. 
+First Aid Procedures: 
+SECTION 9-SPILL OR LEAK PROCEDURES 
+Skin: Flush with water. Seek medical attention if irritation persists. 
+Eyes: Immediately flush with large quantities of water, holding eyelids open. Seek 
+medical attention if irritation persists. 
+Inhalation: Get to fresh air. Seek medical attention if irritation persists. 
+Ingestion: Do not induce vomiting. Drink large quantities of water. Seek medical 
+attention immediately. 
+ 
+Steps to be taken in Case Material is Released or Spilled: Floors will become 
+slippery.  Avoid walking in product.  Keep unessential personnel away.  Mop up or 
+otherwise absorb and hold disposal.  Avoid discharge to sewer or open waterways.
+Metadata: {'source': 'data2\\HD Cleaner Degreaser HW MSDS.pdf', 'document_name': 'HD Cleaner Degreaser HW MSDS.pdf', 'id': '0c9d747b-286b-4f6d-9c40-b100c4e045fa'}
+
+--------------------------------------------------------------------------------
+Chunk 11:
+Content: Eyes: Immediately flush with large quantities of water, holding eyelids open. Seek 
+medical attention if irritation persists. 
+Inhalation: Get to fresh air. Seek medical attention if irritation persists. 
+Ingestion: Do not induce vomiting. Drink large quantities of water. Seek medical 
+attention immediately. 
+ 
+Steps to be taken in Case Material is Released or Spilled: Floors will become 
+slippery.  Avoid walking in product.  Keep unessential personnel away.  Mop up or 
+otherwise absorb and hold disposal.  Avoid discharge to sewer or open waterways. 
+Waste Disposal Method: Any method in accordance with local, state and federal 
+laws.  Best method is to recycle or reuse for intended purpose. Consult local 
+authorities for disposal in public sewer.  Do not dispose of into storm drain, stream, 
+river or to ground.  Rinse container thoroughly before discarding in trash. 
+SECTION 10-REGULATORY INFORMATION 
+SARA Title III - Section 311/312 -Hazard Categories: 
+Shipping Information: 
+HMIS Hazardous Materials  
+ 
+No  - Fire Hazard 
+FOR CONTAINERS > Cleaning Compound  
+Identification System 
+ 
+No  - Sudden Release of Pressure Hazard 
+ 
+Health 
+2
+No  - Reactivity Hazard 
+FOR 1 GALLON CONTAINERS: Cleaning Compound 
+Flammability 
+0
+Yes - Immediate (acute) Health Hazard 
+ 
+Reactivity 
+0
+No  - Delayed (chronic) Health Hazard 
+FOR CONTAINERS < 1 GALLON: Cleaning Compound 
+Personal Protection 
+D
+Metadata: {'source': 'data2\\HD Cleaner Degreaser HW MSDS.pdf', 'document_name': 'HD Cleaner Degreaser HW MSDS.pdf', 'id': 'ea5f2b5e-388c-4352-803d-0ffe57035fff'}
+
+--------------------------------------------------------------------------------
+Chunk 12:
+Content: SECTION 10-REGULATORY INFORMATION 
+SARA Title III - Section 311/312 -Hazard Categories: 
+Shipping Information: 
+HMIS Hazardous Materials  
+ 
+No  - Fire Hazard 
+FOR CONTAINERS > Cleaning Compound  
+Identification System 
+ 
+No  - Sudden Release of Pressure Hazard 
+ 
+Health 
+2
+No  - Reactivity Hazard 
+FOR 1 GALLON CONTAINERS: Cleaning Compound 
+Flammability 
+0
+Yes - Immediate (acute) Health Hazard 
+ 
+Reactivity 
+0
+No  - Delayed (chronic) Health Hazard 
+FOR CONTAINERS < 1 GALLON: Cleaning Compound 
+Personal Protection 
+D
+ 
+FOR EMERGENCY MEDICAL OR TRANSPORT INFORMATION:  CHEM-TEL, Inc. @ 800-255-3924   (24 hours, 7 days per week) 
+ 
+This product contains the following toxic chemical(s) subject to the reporting requirements of section 313 of the Emergency Planning and Community Right-To-Know Act 
+of 1986 and of 40 CFR 372. 
+CAS# 
+Chemical Name 
+Percent by Weight 
+111-76-2 
+Glycol Ether 
+3% max. 
+This product contains the following chemical(s) which have been established to be either a carcinogen or suspected carcinogen. 
+CAS# 
+Chemical Name 
+Percent by Weight 
+ 
+None 
+ 
+SECTION 11-OTHER INFORMATION 
+This company cannot anticipate all conditions of handling and use of this product.  Therefore, this company accepts no responsibility for results obtained by the 
+application of this information, or the safety and suitability of our products either alone or in combination with other products.  It is the responsibility of the user to
+Metadata: {'source': 'data2\\HD Cleaner Degreaser HW MSDS.pdf', 'document_name': 'HD Cleaner Degreaser HW MSDS.pdf', 'id': '43135d39-aa94-4867-9d50-a1740eadd989'}
+
+--------------------------------------------------------------------------------
+Chunk 13:
+Content: Percent by Weight 
+111-76-2 
+Glycol Ether 
+3% max. 
+This product contains the following chemical(s) which have been established to be either a carcinogen or suspected carcinogen. 
+CAS# 
+Chemical Name 
+Percent by Weight 
+ 
+None 
+ 
+SECTION 11-OTHER INFORMATION 
+This company cannot anticipate all conditions of handling and use of this product.  Therefore, this company accepts no responsibility for results obtained by the 
+application of this information, or the safety and suitability of our products either alone or in combination with other products.  It is the responsibility of the user to 
+provide a safe workplace, using the health and safety information contained herein as a guide.  This company will accept no liability for damages or loss incurred from the 
+improper handling and use of this product
+Metadata: {'source': 'data2\\HD Cleaner Degreaser HW MSDS.pdf', 'document_name': 'HD Cleaner Degreaser HW MSDS.pdf', 'id': 'b7d130ab-798a-4259-9a9c-0618cca5da42'}
+
+--------------------------------------------------------------------------------

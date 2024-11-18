@@ -1,0 +1,258 @@
+1: What is the product identifier?
+{
+  "answer": "7722-84-1",
+  "source": "Exposure Limits, SECTION 16 – Other Information"
+}
+
+2: When was the Safety Data Sheet issued?
+{
+  "answer": "Information not available in the provided context",
+  "source": "N/A"
+}
+
+3: What is the product description?
+{
+  "answer": "Hydrogen Peroxide, a liquid with a clear, colorless appearance, sharp irritating odor, and slightly acid to litmus paper pH value.",
+  "source": "SECTION 9 – Physical and Chemical Properties"
+}
+
+4: Who is the manufacturer of the product?
+{
+  "answer": "Seastar Chemicals Inc",
+  "source": "SECTION 16 – Other Information, SECTION 1 – Identification"
+}
+
+5: What is the emergency telephone number for the product?
+{
+  "answer": "Information not available in the provided context",
+  "source": "N/A"
+}
+
+6: What are the hazard classifications associated with the product?
+{
+  "answer": "Oxidizing material, Corrosive substance, Poisonous and infectious material - Other effects - Toxic",
+  "source": "SECTION 3 – Hazards Identification, CCOHS WHMIS Classification"
+}
+
+7: What is the signal word used for the product?
+{
+  "answer": "DANGER",
+  "source": "SECTION 3 – Hazards Identification"
+}
+
+8: What are the hazard statements related to the product?
+{
+  "answer": "The product is classified as a D2B - Poisonous and infectious material - Other effects - Toxic, E - Corrosive material. The hazard statements related to the product are Oxidizing (Class C), Toxic (D2B), and Corrosive (E).",
+  "source": "WHMIS Classification, WHMIS Health Effects Criteria Met by this Chemical"
+}
+
+9: What precautions should be taken while handling the product?
+{
+  "answer": "Inspect containers for damage or leaks before handling, Label containers, Cautiously dispense into sturdy containers made of compatible materials, Use corrosion-resistant transfer equipment when dispensing, Add to cold water slowly, in small amounts and stir frequently to avoid excessive heat generation, Never transfer by pressurizing the original shipping container with air or inert gas, Do not return unused or contaminated material to the original container, Do not use with incompatible materials such as organic compounds (e.g. alcohols, ethers), Do not allow contact with materials such as cleaning solvents, paints or thinners, Keep containers closed when not in use, Always assume that empty containers contain hazardous residues, Never reuse empty containers, even if they appear to be clean.",
+  "source": "SECTION 7 – Handling and Storage"
+}
+
+10: What are the first aid measures in case of inhalation?
+{
+  "answer": "Use a full-face particle respirator type N100 (US) or type P3 (EN 143) respirator cartridges as a backup to engineering controls. If the respirator is the sole means of protection, use a full-face supplied air respirator.",
+  "source": "Inhalation/Ventilation, SECTION 4 – First Aid Measures"
+}
+
+11: What are the first aid measures in case of skin contact?
+{
+  "answer": "Remove contaminated clothing, shoes, and leather goods. Immediately flush with lukewarm, gently flowing water for 15-20 minutes. Obtain medical advice. Completely decontaminate clothing, shoes, and leather goods before re-use or discard. Keep contaminated clothing under water in a closed container until it can be safely discarded.",
+  "source": "SECTION 4 – First Aid Measures, Skin"
+}
+
+12: What are the first aid measures in case of eye contact?
+{
+  "answer": "Immediately flush the contaminated eye(s) with lukewarm, gently flowing water for at least 30 minutes, while holding the eyelid(s) open. If a contact lens is present, DO NOT delay irrigation or attempt to remove the lens until flushing is done. Neutral saline solution may be used as soon as it is available. DO NOT INTERRUPT FLUSHING. If necessary, continue flushing during transport to emergency care facility.",
+  "source": "SECTION 4 – First Aid Measures"
+}
+
+13: What are the first aid measures in case of ingestion?
+{
+  "answer": "NEVER give anything by mouth if victim is rapidly losing consciousness, is unconscious or convulsing. Have victim rinse mouth thoroughly with water. DO NOT INDUCE VOMITING. If vomiting occurs naturally, have victim rinse mouth with water again. Immediately obtain medical attention.",
+  "source": "SECTION 4 – First Aid Measures, Ingestion"
+}
+
+14: What are the suitable extinguishing media for a fire involving the product?
+{
+  "answer": "Use large quantities of water as fog, suitable extinguishing media for the surrounding fire.",
+  "source": "Extinguishing Media"
+}
+
+15: What are the special hazards arising from the substance during a fire?
+{
+  "answer": "Rapid decomposition, release of large amounts of oxygen gas to form an oxygen-rich atmosphere, container rupture with violent explosion if exposed to fire or excessive heat, or contaminated with certain metals or dirt.",
+  "source": "SECTION 5 – Fire Fighting Measures"
+}
+
+16: Are there any special fire handling procedures required for the product?
+{
+  "answer": "Use large quantities of water as fog to fight fires in which this material is involved. Some chemical extinguishing agents may accelerate decomposition. Carbon dioxide or other extinguishing agents that smother flames are not effective on oxidizers.",
+  "source": "Extinguishing Media, Auto-ignition Temperature, Flash Point"
+}
+
+17: How should accidental releases, spill, or leak of the product be handled?
+{
+  "answer": "Do not touch spilled material. Stop or reduce leak if safe to do so. Prevent material from entering sewers, waterways or confined spaces. Keep materials that can burn away from spilled material. SMALL SPILLS: Flush area with water. LARGE SPILLS: Dike with earth, sand or inert absorbent material to contain spill. Remove liquid with compatible pumps or vacuum equipment. Place in suitable, covered, labelled, vented containers. Flush area with excess water.",
+  "source": "SECTION 6 – Accidental Release Measures"
+}
+
+18: What precautions should be taken for safe handling and storage of the product?
+{
+  "answer": "Inspect containers for damage or leaks before handling. Label containers. Cautiously, dispense into sturdy containers made of compatible materials. Use corrosion-resistant transfer equipment when dispensing. Add to cold water slowly, in small amounts and stir frequently to avoid excessive heat generation. Never transfer by pressurizing the original shipping container with air or inert gas. Do not return unused or contaminated material to the original container. Store away from incompatible materials, such as organic compounds. See Section 10 for more information. Store in suitable, labelled containers (usually the shipping container). Containers should be equipped with an adequately sized vent or other relief device to prevent overpressurization due to decomposition or fire exposure. Protect from damage. Have appropriate fire extinguishers and spill clean-up equipment in storage area.",
+  "source": "Storage, SECTION 10 – Special Precautions for Storage"
+}
+
+19: What are the exposure controls and personal protection measures recommended for the product?
+{
+  "answer": "Engineering methods to control hazardous conditions are preferred. Methods include mechanical ventilation (dilution and local exhaust), process or personnel enclosure, control of process conditions, and process modification (e.g., substitution of a less hazardous material). A totally enclosed system with an associated purging system should be considered for unloading bulk hydrogen peroxide and sampling process liquids. To prevent the release of hydrogen peroxide due to equipment failure, backup controls (e.g., double mechanical seals for process pumps) should be considered. Supply sufficient replacement air to make up for air removed by exhaust systems. Do not use organic or combustible materials such as wood in the construction of ventilation or control systems.",
+  "source": "SECTION 8 – Exposure Control/Personal Protection, SECTION 1 – Identification"
+}
+
+20: What are the physical and chemical properties of the product?
+{
+  "answer": "Physical State: Liquid; Appearance: Clear, colourless; Odour: Sharp, irritating odour; pH Value: Slightly acid to litmus paper; Vapour Pressure: 18 mm Hg @ 30°C; Vapour Density: 1.2 (air=1); Evaporation Rate: Not available; Viscosity: 1.11 mPa·s @ 20°C; Boiling Point: 103.6 °C (218.5 °F) for 20% (w/w); Solubility: Soluble in all proportions in water and many polar solvents.",
+  "source": "SECTION 9 – Physical and Chemical Properties"
+}
+
+21: Is the product stable or reactive? Are there any hazardous reactions to be aware of?
+{
+  "answer": "The product is likely to be reactive. There are warnings about handling with care, avoiding contact with incompatible materials, and not transferring by pressurizing the original shipping container with air or inert gas. This suggests that the product can generate excessive heat or react with other substances if handled improperly.",
+  "source": "Section 7 - Handling and Storage; Section 8 - Exposure Controls/Personal Protection"
+}
+
+22: What are the possible hazardous decomposition products of the product?
+{
+  "answer": "Oxygen gas may be released to form an oxygen-rich atmosphere.",
+  "source": "SECTION 5 – Firefighting Measures"
+}
+
+23: What is the toxicological information available for the product?
+{
+  "answer": "The mutagenicity information is available. It shows that CAS#: 7722-84-1 has been tested in microorganisms, with a mutation rate of 4400 umol/plate, and in mammalian somatic cells, with a mutation rate of 20 umol/L. No data on neurotoxicity or other studies are available.",
+  "source": "SECTION 11 – TOXICOLOGICAL INFORMATION"
+}
+
+24: What are the safety precautions and handling instructions for using the product?
+{
+  "answer": "To prevent contamination of peroxide solutions, do not perform hot work on empty vessels or containers. Do not allow water to evaporate from the solution. Replace water and maintain levels of stabilizer. Consider using closed handling systems for processes involving this material. Avoid generating vapours or mists. Prevent the release of vapours or mists into the air. Inspect containers for damage or leaks before handling. Label containers. Cautiously, dispense into sturdy containers made of compatible materials. Use corrosion-resistant transfer equipment when dispensing. Add to cold water slowly, in small amounts and stir frequently to avoid excessive heat generation. Never transfer by pressurizing the original shipping container with air or inert gas. Do not return unused or contaminated material to the original container. Do not use with incompatible materials such as organic compounds (e.g., alcohols, ethers). See Section 10 for more information. Do not allow contact with materials such as cleaning solvents, paints or thinners. Keep containers closed when not in use. Always assume that empty containers contain hazardous residues. Never reuse empty containers, even if they appear to be clean. Have suitable emergency equipment for fires, spills and leaks readily available. Practice good housekeeping.",
+  "source": "Context"
+}
+
+25: What are the potential hazards associated with the product?
+{
+  "answer": "The product is a moderate oxidizer, corrosive to eyes and skin, can cause severe eye burns, irritating to skin, eyes, and respiratory system. It may also cause permanent injury including blindness, and damage to steel, iron, nickel, copper, and its alloys. Inhaling the vapour or misting it can be irritating to the nose, throat, and respiratory tract, while prolonged exposure may lead to eye and throat irritation, corneal damage, dermatitis, and gradual bleaching of hair.",
+  "source": "SECTION 2: HAZARDOUS IDENTIFICATION; SECTION 3: COMPOSITION/INFORMATION ON INGREDIENTS; SECTION 7: HANDLING AND STORAGE"
+}
+
+26: What are the specific health effects or risks associated with exposure to the product?
+{
+  "answer": "The specific health effects or risks associated with exposure to the product are: corrosive to eyes, may cause permanent injury including blindness; corrosive to steel, iron, nickel, copper and its alloys; irritates the gastrointestinal tract and may cause corrosive injury and death; causes severe eye burns; irritating to skin, eyes, and respiratory system. Ingestion of concentrated solutions (greater than 20%) may result in sharp pains in the abdomen, foaming at the mouth, vomiting, temporary unconsciousness, fever, sensory and motor impairment. Prolonged or repeated exposure may cause eye and throat irritation, corneal damage, dermatitis, and gradual bleaching of hair.",
+  "source": "SECTION 2: HAZARDOUS INGREDIENTS/IDENTIFICATION (Primary Route(s) of Entry), SECTION 3: PHYSICAL AND CHEMICAL PROPERTIES (Effects of Acute Exposure)"
+}
+
+27: What are the emergency procedures in case of inhalation of the product?
+{
+  "answer": "If symptoms are experienced, remove source of contamination or move victim to fresh air. If symptoms persist, immediately obtain medical attention.",
+  "source": "SECTION 4 – First Aid Measures, Inhalation"
+}
+
+28: What are the emergency procedures in case of skin contact with the product?
+{
+  "answer": "Remove contaminated clothing, shoes, and leather goods. Immediately flush with lukewarm, gently flowing water for 15-20 minutes. Obtain medical advice. Completely decontaminate clothing, shoes, and leather goods before re-use or discard. Keep contaminated clothing under water in a closed container until it can be safely discarded.",
+  "source": "SECTION 4 – First Aid Measures"
+}
+
+29: What are the emergency procedures in case of eye contact with the product?
+{
+  "answer": "Immediately flush the contaminated eye(s) with lukewarm, gently flowing water for at least 30 minutes, while holding the eyelid(s) open. If a contact lens is present, DO NOT delay irrigation or attempt to remove the lens until flushing is done. Neutral saline solution may be used as soon as it is available. DO NOT INTERRUPT FLUSHING. If necessary, continue flushing during transport to emergency care facility. Quickly transport victim to an emergency care facility.",
+  "source": "SECTION 4 – First Aid Measures"
+}
+
+30: What are the emergency procedures in case of ingestion of the product?
+{
+  "answer": "NEVER give anything by mouth if victim is rapidly losing consciousness, is unconscious or convulsing. Have victim rinse mouth thoroughly with water. DO NOT INDUCE VOMITING. If vomiting occurs naturally, have victim rinse mouth with water again. Immediately obtain medical attention.",
+  "source": "SECTION 4 – First Aid Measures and Ingestion"
+}
+
+31: What is the waste disposal method for the product?
+{
+  "answer": "Dispose of in a manner consistent with federal, provincial/state/territorial, and local regulations. Chemical waste generators must determine whether a discarded chemical is classified as a hazardous waste. US EPA guidelines for the classification determination are listed in 40 CFR Parts 261.3.",
+  "source": "SECTION 13 – Disposal Considerations"
+}
+
+32: Are there any specific storage requirements or conditions for safely storing the product?
+{
+  "answer": "Store below 35 °C, in a cool, well-ventilated area, out of direct sunlight, away from heat and ignition sources and combustible materials. Store in suitable, labelled containers (usually the shipping container). Containers should be equipped with an adequately sized vent or other relief device to prevent overpressurization due to decomposition or fire exposure. Protect from damage. Have appropriate fire extinguishers and spill clean-up equipment in storage area.",
+  "source": "Storage section"
+}
+
+33: What is the shelf life of the product?
+{
+  "answer": "The product does not have a specific shelf life mentioned. However, it is recommended to store below 35 °C (Section 7: Storage) and to protect from damage.",
+  "source": "Storage"
+}
+
+34: What are the composition and ingredients of the product?
+{
+  "answer": "Hydrogen peroxide (H2O2), molecular weight: 34.0128, soluble in all proportions in water, many polar solvents, e.g., low molecular weight alcohols, glycols, and ketones; insoluble in petroleum ether.",
+  "source": "SECTION 9 – Physical and Chemical Properties, SECTION 10 – Stability and Reactivity"
+}
+
+35: Are there any known hazardous reactions or incompatibilities with other substances or materials?
+{
+  "answer": "Hydrogen peroxide solutions (30% or greater) are strong oxidizing agents capable of reacting explosively with many substances. Incompatibilities include combustible materials, strong bases, nitric acid, sulfuric acid, organic materials, and certain metals or dirt. Closed containers may rupture violently due to rapid decomposition if exposed to fire or excessive heat for a sufficient period of time.",
+  "source": "Section 6 - Accidental Release Measures, Section 7 - Handling and Storage"
+}
+
+36: What is the odor of the product?
+{
+  "answer": "Sharp, irritating odour",
+  "source": "SECTION 9 – Physical and Chemical Properties"
+}
+
+37: What is the boiling point of the product?
+{
+  "answer": "Information not available in the provided context",
+  "source": "N/A"
+}
+
+38: Is the product flammable?
+{
+  "answer": "No, the product does not burn but is a moderate oxidizing material that can increase the risk of fire or the intensity of a fire. Flash point: Does not apply.",
+  "source": "Section 5 - Fire-Fighting Measures and Section 10 - Stability and Reactivity"
+}
+
+39: What is the solubility of the product?
+{
+  "answer": "The product is soluble in all proportions in water. It is also soluble in all proportions in many polar solvents, e.g., low molecular weight alcohols, glycols, and ketones; insoluble in petroleum ether.",
+  "source": "SECTION 9 – Physical and Chemical Properties"
+}
+
+40: Is the product stable under certain conditions, and are there any potential decomposition products?
+{
+  "answer": "The product is relatively stable in completely free of contamination solutions, but stability depends on many factors such as temperature, pH, and presence of impurities. It can decompose in sunlight and may attack or ignite some forms of plastics, rubber, or coatings. Hydrogen peroxide readily liberates oxygen, water, and heat.",
+  "source": "SECTION 10 – Stability and Reactivity"
+}
+
+41: What are the recommended engineering controls, personal protective equipment (PPE), and respiratory protection for handling the product?
+{
+  "answer": "To handle hydrogen peroxide, recommended engineering controls include a chemical fume hood. Additionally, consider a totally enclosed system with an associated purging system for unloading bulk hydrogen peroxide and sampling process liquids. For large scale operations, stringent control measures such as enclosure or isolation should be considered. Use in a chemical fume hood is also recommended. Respiratory protection includes using a full-face particle respirator type N100 (US) or type P3 (EN 143) respirator cartridges as a backup to engineering controls. A full-face supplied air respirator can also be used if the respirator is the sole means of protection. Personal protective equipment (PPE) includes chemical safety goggles suitable for splash protection, face shields, and impervious gloves. Choose body protection according to the amount and concentration of the substance at the work place.",
+  "source": "Inhalation/Ventilation, Personal Protective Equipment, SECTION 9 – Physical and Chemical Properties"
+}
+
+42: Are there any specific environmental precautions or considerations for the disposal of the product or its containers?
+{
+  "answer": "According to the Waste Disposal Method section, dispose of waste according to all applicable regulations. Additionally, it is advised to Avoid run-off.",
+  "source": "Waste disposal method, SECTION 7 – Handling and Storage"
+}
+
+43: Can the specific chemical identity or exact percentage of the composition be disclosed for the product?
+{
+  "answer": "No, according to Section 1 (Product Identifier), Seastar Chemicals Inc believes their product information is accurate but does not purport to be all-inclusive.",
+  "source": "SECTION 16 – Other Information, SECTION 1 – Product Identifier"
+}
+

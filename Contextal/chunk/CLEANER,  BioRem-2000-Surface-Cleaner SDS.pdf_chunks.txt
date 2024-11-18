@@ -1,0 +1,497 @@
+Chunk 1:
+Content: {"0":{"0":"Cleaning Aid\nProprietary\n10-20","1":"Nutrients\nProprietary\n1-5","2":"","3":"4.\nFirst Aid Measures","4":"","5":"Eye Contact:\nFlush eyes for fifteen minutes with water. If irritation persists, contact a","6":"physician.","7":"","8":"Skin Contact:\nWash with soap and water. If irritation persists, contact a physician.","9":"Inhalation:\nNot normally required. Move to fresh air. If symptoms persist, get medical","10":"attention.","11":"Ingestion:\nNot normally required. Contact a
+Metadata: {'source': 'data2\\CLEANER,  BioRem-2000-Surface-Cleaner SDS.pdf', 'page': 1, 'type': 'table', 'table_index': 0, 'document_name': 'CLEANER,  BioRem-2000-Surface-Cleaner SDS.pdf', 'id': '0ec146fc-2c9f-420e-890f-9d98c36fd1fe'}
+
+--------------------------------------------------------------------------------
+Chunk 2:
+Content: symptoms persist, get medical","10":"attention.","11":"Ingestion:\nNot normally required. Contact a physician if ingested.","12":"5.\nFire Fighting Measures","13":"","14":"Extinguishing Media:\nUnused form: Water spray, dry chemical or carbon dioxide.","15":"Used form: That which is compatible to liquid (s) absorbed.","16":"Special Fire Fighting Procedures:\nNone required.","17":"Hazardous Combustion Products:\nCarbon monoxide and\/or carbon dioxide.","18":"Unusual Hazards: None expected. Refer
+Metadata: {'source': 'data2\\CLEANER,  BioRem-2000-Surface-Cleaner SDS.pdf', 'page': 1, 'type': 'table', 'table_index': 0, 'document_name': 'CLEANER,  BioRem-2000-Surface-Cleaner SDS.pdf', 'id': 'e0c67006-6bba-4338-8c2a-500f751826d8'}
+
+--------------------------------------------------------------------------------
+Chunk 3:
+Content: Products:\nCarbon monoxide and\/or carbon dioxide.","18":"Unusual Hazards: None expected. Refer to absorbed liquid(s) MSDS(s). Extreme heat","19":"may cause pressure to build up inside drum.","20":"6.\nAccidental Release Measures"},"1":{"0":"Teratogenicity:\nNot available","1":"Mutagenicity:\nNot available","2":"Synergistic Products:\nNot available","3":"","4":"12.\nEcological Data","5":"","6":"","7":"No data available","8":"","9":"13.\nDisposal Considerations","10":"","11":"Waste Disposal
+Metadata: {'source': 'data2\\CLEANER,  BioRem-2000-Surface-Cleaner SDS.pdf', 'page': 1, 'type': 'table', 'table_index': 0, 'document_name': 'CLEANER,  BioRem-2000-Surface-Cleaner SDS.pdf', 'id': '54b2b819-01bd-49af-843f-6baa59f84df9'}
+
+--------------------------------------------------------------------------------
+Chunk 4:
+Content: data available","8":"","9":"13.\nDisposal Considerations","10":"","11":"Waste Disposal Method: Observe all federal, state and local regulations.","12":"","13":"14.\nTransport Information","14":"","15":"D.O.T. (Department of Transportation):","16":"Proper Shipping Name:\nNon-hazardous liquid","17":"Hazard Class:\nNot regulated","18":"Identification Number:\nNot applicable","19":"","20":"15.\nRegulatory Information"}}
+Metadata: {'source': 'data2\\CLEANER,  BioRem-2000-Surface-Cleaner SDS.pdf', 'page': 1, 'type': 'table', 'table_index': 0, 'document_name': 'CLEANER,  BioRem-2000-Surface-Cleaner SDS.pdf', 'id': '9147df46-67c3-46fa-a218-dccbb64c82df'}
+
+--------------------------------------------------------------------------------
+Chunk 5:
+Content: {"0":{"0":"","1":"1.\nProduct and Company Identification","2":"Product Identifier: BioRem-2000 Surface Cleaner","3":"","4":"General Use: Designed to remediate oil, grease and other hydrocarbons on hard surfaces.","5":"","6":"Product Description: Amber liquid","7":"","8":"Manufacturer:\nEmergency Telephone","9":"","10":"Clift Industries, Inc.\nCHEMTREC","11":"","12":"PO Box 471578\n800-424-9300","13":"","14":"Charlotte, NC 28247","15":"","16":"704-752-0031","17":"","18":"","19":"2.\nHazards
+Metadata: {'source': 'data2\\CLEANER,  BioRem-2000-Surface-Cleaner SDS.pdf', 'page': 1, 'type': 'table', 'table_index': 1, 'document_name': 'CLEANER,  BioRem-2000-Surface-Cleaner SDS.pdf', 'id': '2f07d298-1b75-4450-b66d-fd381ac9d68c'}
+
+--------------------------------------------------------------------------------
+Chunk 6:
+Content: NC 28247","15":"","16":"704-752-0031","17":"","18":"","19":"2.\nHazards Identification","20":"","21":"Classification:\nAcute toxicity, Oral, Dermal, Inhalation Category 5","22":"Eye Irritation, Category 2B","23":"","24":"Warning!\nSignal Word:","25":"","26":"H303+H313\nMaybe harmful if swallowed, in contact with\nHazard Statement:","27":"+H333\nskin or if inhaled.","28":"H320\nCauses eye irritation.","29":"","30":"Precautionary","31":"P264\nWash hands thoroughly after
+Metadata: {'source': 'data2\\CLEANER,  BioRem-2000-Surface-Cleaner SDS.pdf', 'page': 1, 'type': 'table', 'table_index': 1, 'document_name': 'CLEANER,  BioRem-2000-Surface-Cleaner SDS.pdf', 'id': 'd7d76d7f-1651-4107-8cc4-07767c48dccb'}
+
+--------------------------------------------------------------------------------
+Chunk 7:
+Content: eye irritation.","29":"","30":"Precautionary","31":"P264\nWash hands thoroughly after handling.","32":"Statements Prevention:","33":"","34":"P304 + 340\nIF INHALED: Remove victim to fresh air and\nPrecautionary","35":"","36":"Statements Response:\nkeep at rest in a position comfortable for","37":"","38":"breathing","39":"","40":"P301+330+\nIF SWALLOWED: Rinse mouth. Do NOT","41":"","42":"331\ninduce vomiting.","43":"P303+352\nIF ON SKIN: Wash with plenty of soap
+Metadata: {'source': 'data2\\CLEANER,  BioRem-2000-Surface-Cleaner SDS.pdf', 'page': 1, 'type': 'table', 'table_index': 1, 'document_name': 'CLEANER,  BioRem-2000-Surface-Cleaner SDS.pdf', 'id': '77ec7156-7fc5-4cd2-b8e7-e67e7b6885ab'}
+
+--------------------------------------------------------------------------------
+Chunk 8:
+Content: Do NOT","41":"","42":"331\ninduce vomiting.","43":"P303+352\nIF ON SKIN: Wash with plenty of soap and","44":"","45":"water.","46":"P305+351+\nIF IN EYES: Rinse cautiously with water for","47":"","48":"338\nseveral minutes. Remove contact lenses, if","49":"","50":"present and easy to do. Continue Rinsing.","51":"3.\nComposition\/Information on Ingredients","52":"","53":"Ingredients\nCAS No.\nWeight
+Metadata: {'source': 'data2\\CLEANER,  BioRem-2000-Surface-Cleaner SDS.pdf', 'page': 1, 'type': 'table', 'table_index': 1, 'document_name': 'CLEANER,  BioRem-2000-Surface-Cleaner SDS.pdf', 'id': '55d7ccdf-8826-42dc-9d01-f5d014cc8bdf'}
+
+--------------------------------------------------------------------------------
+Chunk 9:
+Content: on Ingredients","52":"","53":"Ingredients\nCAS No.\nWeight %","54":"Aqua\n7732-18-5\n70-90","55":"Microbes\nProprietary\n1-5","56":"Enzymes\nProprietary\n1-5","57":"Cleaning Aid\nProprietary\n10-20","58":"Nutrients\nProprietary\n1-5","59":"","60":"4.\nFirst Aid Measures","61":"","62":"Eye Contact:\nFlush eyes for fifteen minutes with water. If irritation persists, contact a","63":"physician.","64":"","65":"Skin Contact:\nWash with soap and water. If irritation persists, contact a
+Metadata: {'source': 'data2\\CLEANER,  BioRem-2000-Surface-Cleaner SDS.pdf', 'page': 1, 'type': 'table', 'table_index': 1, 'document_name': 'CLEANER,  BioRem-2000-Surface-Cleaner SDS.pdf', 'id': 'a4083511-9d57-45f3-8950-c9e38b694a8b'}
+
+--------------------------------------------------------------------------------
+Chunk 10:
+Content: Contact:\nWash with soap and water. If irritation persists, contact a physician.","66":"Inhalation:\nNot normally required. Move to fresh air. If symptoms persist, get medical","67":"attention.","68":"Ingestion:\nNot normally required. Contact a physician if ingested.","69":"5.\nFire Fighting Measures","70":"","71":"Extinguishing Media:\nUnused form: Water spray, dry chemical or carbon dioxide.","72":"Used form: That which is compatible to liquid (s) absorbed.","73":"Special Fire Fighting
+Metadata: {'source': 'data2\\CLEANER,  BioRem-2000-Surface-Cleaner SDS.pdf', 'page': 1, 'type': 'table', 'table_index': 1, 'document_name': 'CLEANER,  BioRem-2000-Surface-Cleaner SDS.pdf', 'id': '669a62e9-e1c6-4050-a7d0-9acad22d957e'}
+
+--------------------------------------------------------------------------------
+Chunk 11:
+Content: form: That which is compatible to liquid (s) absorbed.","73":"Special Fire Fighting Procedures:\nNone required.","74":"Hazardous Combustion Products:\nCarbon monoxide and\/or carbon dioxide.","75":"Unusual Hazards: None expected. Refer to absorbed liquid(s) MSDS(s). Extreme heat","76":"may cause pressure to build up inside drum.","77":"6.\nAccidental Release Measures","78":"Spill or Leak Procedures: If material is unused, collect and recover for reuse. Wear","79":"","80":"protective equipment.
+Metadata: {'source': 'data2\\CLEANER,  BioRem-2000-Surface-Cleaner SDS.pdf', 'page': 1, 'type': 'table', 'table_index': 1, 'document_name': 'CLEANER,  BioRem-2000-Surface-Cleaner SDS.pdf', 'id': '63106a53-c7e4-4da0-a13d-07834953fc3a'}
+
+--------------------------------------------------------------------------------
+Chunk 12:
+Content: If material is unused, collect and recover for reuse. Wear","79":"","80":"protective equipment. Not a listed hazardous waste.","81":"","82":"7.\nHandling and Storage","83":"","84":"","85":"Handling Precautions: Avoid contact with skin and eyes. Do not swallow. Wash hands","86":"","87":"thoroughly after handling.","88":"","89":"Storage Precautions: Store in cool, dry area. Prevent product\nfrom freezing. Keep out
+Metadata: {'source': 'data2\\CLEANER,  BioRem-2000-Surface-Cleaner SDS.pdf', 'page': 1, 'type': 'table', 'table_index': 1, 'document_name': 'CLEANER,  BioRem-2000-Surface-Cleaner SDS.pdf', 'id': '70afae0b-cf9d-4fcd-9d51-f74a9a57c444'}
+
+--------------------------------------------------------------------------------
+Chunk 13:
+Content: Precautions: Store in cool, dry area. Prevent product\nfrom freezing. Keep out of","90":"reach\nof\nchildren.\nShelf\nlife:\n3\nyears\nas\nlong\nas\nthe\nproduct\nis\nkept\nin\na\nclean,\ndry","91":"environment away from direct sunlight and\/or excessive heat.","92":"General: Refer to absorbed liquid(s) MSDS(s). Follow label directions carefully. Make sure","93":"all containers are labeled properly. The container can be hazardous when empty. Follow","94":"label cautions even after\nthe
+Metadata: {'source': 'data2\\CLEANER,  BioRem-2000-Surface-Cleaner SDS.pdf', 'page': 1, 'type': 'table', 'table_index': 1, 'document_name': 'CLEANER,  BioRem-2000-Surface-Cleaner SDS.pdf', 'id': '52a78bbd-3ad2-4c1c-b277-cfc512ef7806'}
+
+--------------------------------------------------------------------------------
+Chunk 14:
+Content: properly. The container can be hazardous when empty. Follow","94":"label cautions even after\nthe container\nis empty. Do not\nre-use empty containers for\nfood,","95":"clothing or products for human or animal consumption, or where skin contact can occur.","96":"","97":"8. Exposure Controls\/Personal Protection","98":"","99":"Engineering Controls: Use adequate ventilation to keep airborne concentrations low.","100":"","101":"PERSONAL PROTECTION","102":"","103":"Eyes:\nSafety goggles or glass
+Metadata: {'source': 'data2\\CLEANER,  BioRem-2000-Surface-Cleaner SDS.pdf', 'page': 1, 'type': 'table', 'table_index': 1, 'document_name': 'CLEANER,  BioRem-2000-Surface-Cleaner SDS.pdf', 'id': '351b8a73-27de-4520-b8e5-bd8b2e9a3522'}
+
+--------------------------------------------------------------------------------
+Chunk 15:
+Content: low.","100":"","101":"PERSONAL PROTECTION","102":"","103":"Eyes:\nSafety goggles or glass with side shields","104":"","105":"Respirator: NIOSH\/MSHA approved respirator when ventilation is inadequate.","106":"Gloves:\nImpervious gloves.","107":"","108":"Other:\nMaintain eyewash and safety shower in work area.","109":"","110":"OSHA HAZARDOUS COMPONENTS","111":"","112":"(29 CFR 1910.1200):","113":"","114":"EXPOSURE LIMIT 8 hrs. TWA (ppm)","115":"","116":"OSHA PEL\nACGIH
+Metadata: {'source': 'data2\\CLEANER,  BioRem-2000-Surface-Cleaner SDS.pdf', 'page': 1, 'type': 'table', 'table_index': 1, 'document_name': 'CLEANER,  BioRem-2000-Surface-Cleaner SDS.pdf', 'id': '3cdfbdaf-0e9f-4e6d-9cdb-6c743355f6f6'}
+
+--------------------------------------------------------------------------------
+Chunk 16:
+Content: CFR 1910.1200):","113":"","114":"EXPOSURE LIMIT 8 hrs. TWA (ppm)","115":"","116":"OSHA PEL\nACGIH TLV","117":"","118":"None"},"1":{"0":"Safety Data Sheet","1":"","2":"","3":"Appearance: Amber liquid","4":"","5":"Odor: Bland","6":"","7":"pH: 7","8":"","9":"Melting Point\/Freezing Point: 32\u00ba F (0\u00ba C)","10":"","11":"Initial Boiling Point and Range: 212\u00ba F (100\u00ba C)","12":"","13":"Flash Point: None Method: Not available.","14":"","15":"Evaporation Rate: Not
+Metadata: {'source': 'data2\\CLEANER,  BioRem-2000-Surface-Cleaner SDS.pdf', 'page': 1, 'type': 'table', 'table_index': 1, 'document_name': 'CLEANER,  BioRem-2000-Surface-Cleaner SDS.pdf', 'id': 'da9d2e6b-26be-4fd1-ad1f-30fad0b87609'}
+
+--------------------------------------------------------------------------------
+Chunk 17:
+Content: C)","12":"","13":"Flash Point: None Method: Not available.","14":"","15":"Evaporation Rate: Not established.","16":"","17":"Flammable Limits: Not applicable.","18":"Conditions of Flammability: Non-flammable.","19":"","20":"Explosive Properties: Not established.","21":"Vapor Pressure: Not available.","22":"Vapor Density: Not established.","23":"Relative Density (H2O =1): 1.079","24":"Solubility in Water: Soluble","25":"VOC (g\/L): 0","26":"","27":"10. Stability and Reactivity
+Metadata: {'source': 'data2\\CLEANER,  BioRem-2000-Surface-Cleaner SDS.pdf', 'page': 1, 'type': 'table', 'table_index': 1, 'document_name': 'CLEANER,  BioRem-2000-Surface-Cleaner SDS.pdf', 'id': 'd176a1c4-2cef-4813-ab5d-abcecc924920'}
+
+--------------------------------------------------------------------------------
+Chunk 18:
+Content: in Water: Soluble","25":"VOC (g\/L): 0","26":"","27":"10. Stability and Reactivity Data","28":"","29":"General:\nThis is a stable material","30":"","31":"Conditions of Reactivity:","32":"","33":"hypochlorite.","34":"","35":"Incompatible Materials:\nStrong oxidants","36":"","37":"Conditions to Avoid:\nExcessive heat or flame.","38":"","39":"Hazardous Decomposition:\nNot established.","40":"","41":"Hazardous Polymerization:\nWill not occur.","42":"","43":"","44":"11. Toxicological
+Metadata: {'source': 'data2\\CLEANER,  BioRem-2000-Surface-Cleaner SDS.pdf', 'page': 1, 'type': 'table', 'table_index': 1, 'document_name': 'CLEANER,  BioRem-2000-Surface-Cleaner SDS.pdf', 'id': '79753d95-014d-4fe5-9b11-2aab1aeadebb'}
+
+--------------------------------------------------------------------------------
+Chunk 19:
+Content: Polymerization:\nWill not occur.","42":"","43":"","44":"11. Toxicological Data","45":"","46":"","47":"LD50:\nNot established.","48":"","49":"LC50:\nNot established.","50":"","51":"Carcinogenicity: IRAC: None","52":"National Toxicology Program: None","53":"OSHA: None","54":"California Prop 65: No listed ingredient","55":"","56":"Reproduction Toxicity: Not available","57":"Teratogenicity:\nNot available","58":"Mutagenicity:\nNot available","59":"Synergistic Products:\nNot
+Metadata: {'source': 'data2\\CLEANER,  BioRem-2000-Surface-Cleaner SDS.pdf', 'page': 1, 'type': 'table', 'table_index': 1, 'document_name': 'CLEANER,  BioRem-2000-Surface-Cleaner SDS.pdf', 'id': '06bce094-89d2-49c5-9971-985e135c4946'}
+
+--------------------------------------------------------------------------------
+Chunk 20:
+Content: available","58":"Mutagenicity:\nNot available","59":"Synergistic Products:\nNot available","60":"","61":"12.\nEcological Data","62":"","63":"","64":"No data available","65":"","66":"13.\nDisposal Considerations","67":"","68":"","69":"","70":"14.\nTransport Information","71":"","72":"D.O.T. (Department of Transportation):","73":"Proper Shipping Name:\nNon-hazardous liquid","74":"Hazard Class:\nNot regulated","75":"Identification Number:\nNot applicable","76":"","77":"15.\nRegulatory
+Metadata: {'source': 'data2\\CLEANER,  BioRem-2000-Surface-Cleaner SDS.pdf', 'page': 1, 'type': 'table', 'table_index': 1, 'document_name': 'CLEANER,  BioRem-2000-Surface-Cleaner SDS.pdf', 'id': 'fc0181bc-7b9b-4c15-ad71-f4a6d3f0dd08'}
+
+--------------------------------------------------------------------------------
+Chunk 21:
+Content: Class:\nNot regulated","75":"Identification Number:\nNot applicable","76":"","77":"15.\nRegulatory Information","78":"","79":"","80":"Act): No Reportable Quantity","81":"","82":"","83":"ingredient.","84":"","85":"","86":"ingredient.","87":"","88":"TSCA (Toxic Substances Control Act): All ingredients are listed.","89":"","90":"","91":"16.\nOTHER INFORMATION:","92":"","93":"NFPA Hazard Rating: Health \u2013 1","94":"None \uf0e0 Extreme\nFire \u2013 0","95":"0\n\uf0e0 4\nReactivity \u2013
+Metadata: {'source': 'data2\\CLEANER,  BioRem-2000-Surface-Cleaner SDS.pdf', 'page': 1, 'type': 'table', 'table_index': 1, 'document_name': 'CLEANER,  BioRem-2000-Surface-Cleaner SDS.pdf', 'id': '96f96263-428c-4b89-8062-d6662af41e60'}
+
+--------------------------------------------------------------------------------
+Chunk 22:
+Content: Health \u2013 1","94":"None \uf0e0 Extreme\nFire \u2013 0","95":"0\n\uf0e0 4\nReactivity \u2013 0","96":"PPE \u2013 B","97":"Reason for Issue: GHS changes to Sections 2 & 3.","98":"Prepared by: J. Pickett","99":"","100":"Approved by: C. Matthews","101":"","102":"Approval Date of Issue: 5\/1\/2015","103":"","104":"Approval Date: 5\/1\/2015","105":"","106":"","107":"","108":"","109":"the\ninformation\nis\nprovided without\nany warranty\nor","110":"","111":"regarding\nits\ncorrectness.
+Metadata: {'source': 'data2\\CLEANER,  BioRem-2000-Surface-Cleaner SDS.pdf', 'page': 1, 'type': 'table', 'table_index': 1, 'document_name': 'CLEANER,  BioRem-2000-Surface-Cleaner SDS.pdf', 'id': 'f5342963-584d-467d-965a-fae587f9552c'}
+
+--------------------------------------------------------------------------------
+Chunk 23:
+Content: without\nany warranty\nor","110":"","111":"regarding\nits\ncorrectness. We\ndo\nnot\nassume\nresponsibility","112":"","113":"","114":"","115":"assumes\nall\nresponsibility of using and handling the product","116":"","117":"federal, state and local regulations.","118":""},"2":{"0":"","1":"9. Physical\/Chemical
+Metadata: {'source': 'data2\\CLEANER,  BioRem-2000-Surface-Cleaner SDS.pdf', 'page': 1, 'type': 'table', 'table_index': 1, 'document_name': 'CLEANER,  BioRem-2000-Surface-Cleaner SDS.pdf', 'id': '2c2b22f8-64ff-49ef-b9a3-37b0d0ca7417'}
+
+--------------------------------------------------------------------------------
+Chunk 24:
+Content: state and local regulations.","118":""},"2":{"0":"","1":"9. Physical\/Chemical Characteristics","2":"","3":"","4":"","5":"","6":"","7":"","8":"","9":"","10":"","11":"","12":"","13":"","14":"","15":"","16":"","17":"","18":"","19":"","20":"","21":"","22":"","23":"","24":"","25":"","26":"","27":"","28":"","29":"","30":"","31":"Reacts with sodium hypochlorite or
+Metadata: {'source': 'data2\\CLEANER,  BioRem-2000-Surface-Cleaner SDS.pdf', 'page': 1, 'type': 'table', 'table_index': 1, 'document_name': 'CLEANER,  BioRem-2000-Surface-Cleaner SDS.pdf', 'id': '36dae4f7-3e19-441b-b6fa-07af2172ffd3'}
+
+--------------------------------------------------------------------------------
+Chunk 25:
+Content: with sodium hypochlorite or calcium","32":"","33":"","34":"","35":"","36":"","37":"","38":"","39":"","40":"","41":"","42":"","43":"","44":"","45":"","46":"","47":"","48":"","49":"","50":"","51":"","52":"","53":"","54":"","55":"","56":"","57":"","58":"","59":"","60":"","61":"","62":"","63":"","64":"","65":"","66":"","67":"","68":"Waste Disposal Method: Observe all federal, state and local regulations.","69":"","70":"","71":"","72":"","73":"","74":"","75":"","76":"","77":"","78":"","79":"CERCLA
+Metadata: {'source': 'data2\\CLEANER,  BioRem-2000-Surface-Cleaner SDS.pdf', 'page': 1, 'type': 'table', 'table_index': 1, 'document_name': 'CLEANER,  BioRem-2000-Surface-Cleaner SDS.pdf', 'id': '51831592-f48e-4e0f-bcc9-19bd2d50e224'}
+
+--------------------------------------------------------------------------------
+Chunk 26:
+Content: (Comprehensive Environmental Response Compensation and Liability","80":"","81":"OSHA Hazard Communication Standard, 28 CFR 1910.1200: No hazardous","82":"","83":"","84":"SARA Title III (Superfund Amendments and Reauthorization Act): No listed","85":"","86":"","87":"","88":"","89":"","90":"","91":"","92":"","93":"","94":"","95":"","96":"","97":"","98":"","99":"","100":"","101":"","102":"","103":"","104":"","105":"","106":"","107":"The information provided in this MSDS is believed to be reliable
+Metadata: {'source': 'data2\\CLEANER,  BioRem-2000-Surface-Cleaner SDS.pdf', 'page': 1, 'type': 'table', 'table_index': 1, 'document_name': 'CLEANER,  BioRem-2000-Surface-Cleaner SDS.pdf', 'id': 'cde67c81-975a-4764-a087-d274d03b528e'}
+
+--------------------------------------------------------------------------------
+Chunk 27:
+Content: information provided in this MSDS is believed to be reliable and accurate. However,","108":"","109":"guarantee,","110":"","111":"and","112":"","113":"liability for loss, damage or expense arising out of the use of this information. The
+Metadata: {'source': 'data2\\CLEANER,  BioRem-2000-Surface-Cleaner SDS.pdf', 'page': 1, 'type': 'table', 'table_index': 1, 'document_name': 'CLEANER,  BioRem-2000-Surface-Cleaner SDS.pdf', 'id': '6c82b36a-7653-46d9-8746-8677b1378afb'}
+
+--------------------------------------------------------------------------------
+Chunk 28:
+Content: buyer","114":"","115":"","116":"","117":"","118":""},"3":{"0":"","1":"","2":"","3":"","4":"","5":"","6":"","7":"","8":"","9":"","10":"","11":"","12":"","13":"","14":"","15":"","16":"","17":"","18":"","19":"","20":"","21":"","22":"","23":"","24":"","25":"","26":"","27":"","28":"","29":"","30":"","31":"","32":"","33":"","34":"","35":"","36":"","37":"","38":"","39":"","40":"","41":"","42":"","43":"","44":"","45":"","46":"","47":"","48":"","49":"","50":"","51":"","52":"","53":"","54":"","55":"","56
+Metadata: {'source': 'data2\\CLEANER,  BioRem-2000-Surface-Cleaner SDS.pdf', 'page': 1, 'type': 'table', 'table_index': 1, 'document_name': 'CLEANER,  BioRem-2000-Surface-Cleaner SDS.pdf', 'id': '9df99a27-e4ac-4897-85a3-8de929a8a50d'}
+
+--------------------------------------------------------------------------------
+Chunk 29:
+Content: ,"44":"","45":"","46":"","47":"","48":"","49":"","50":"","51":"","52":"","53":"","54":"","55":"","56":"","57":"","58":"","59":"","60":"","61":"","62":"","63":"","64":"","65":"","66":"","67":"","68":"","69":"","70":"","71":"","72":"","73":"","74":"","75":"","76":"","77":"","78":"","79":"","80":"","81":"","82":"","83":"","84":"","85":"","86":"","87":"","88":"","89":"","90":"","91":"","92":"","93":"","94":"","95":"","96":"","97":"","98":"","99":"","100":"","101":"","102":"","103":"","104":"","105":
+Metadata: {'source': 'data2\\CLEANER,  BioRem-2000-Surface-Cleaner SDS.pdf', 'page': 1, 'type': 'table', 'table_index': 1, 'document_name': 'CLEANER,  BioRem-2000-Surface-Cleaner SDS.pdf', 'id': '4f8e35fe-6159-4564-8cbd-0890daf760df'}
+
+--------------------------------------------------------------------------------
+Chunk 30:
+Content: ,"94":"","95":"","96":"","97":"","98":"","99":"","100":"","101":"","102":"","103":"","104":"","105":"","106":"","107":"","108":"","109":"express\nor","110":"","111":"expressly","112":"","113":"","114":"","115":"in
+Metadata: {'source': 'data2\\CLEANER,  BioRem-2000-Surface-Cleaner SDS.pdf', 'page': 1, 'type': 'table', 'table_index': 1, 'document_name': 'CLEANER,  BioRem-2000-Surface-Cleaner SDS.pdf', 'id': '9476d994-f646-48a7-9956-6b52bb4837f6'}
+
+--------------------------------------------------------------------------------
+Chunk 31:
+Content: accordance with
+Metadata: {'source': 'data2\\CLEANER,  BioRem-2000-Surface-Cleaner SDS.pdf', 'page': 1, 'type': 'table', 'table_index': 1, 'document_name': 'CLEANER,  BioRem-2000-Surface-Cleaner SDS.pdf', 'id': 'b49390b4-c095-4f49-b622-096e47259ac5'}
+
+--------------------------------------------------------------------------------
+Chunk 32:
+Content: the","116":"","117":"","118":""},"4":{"0":"","1":"","2":"","3":"","4":"","5":"","6":"","7":"","8":"","9":"","10":"","11":"","12":"","13":"","14":"","15":"","16":"","17":"","18":"","19":"","20":"","21":"","22":"","23":"","24":"","25":"","26":"","27":"","28":"","29":"","30":"","31":"","32":"","33":"","34":"","35":"","36":"","37":"","38":"","39":"","40":"","41":"","42":"","43":"","44":"","45":"","46":"","47":"","48":"","49":"","50":"","51":"","52":"","53":"","54":"","55":"","56":"","57":"","58":""
+Metadata: {'source': 'data2\\CLEANER,  BioRem-2000-Surface-Cleaner SDS.pdf', 'page': 1, 'type': 'table', 'table_index': 1, 'document_name': 'CLEANER,  BioRem-2000-Surface-Cleaner SDS.pdf', 'id': '138c10fe-7d6c-466b-98a5-b41084af8b39'}
+
+--------------------------------------------------------------------------------
+Chunk 33:
+Content: ":"","47":"","48":"","49":"","50":"","51":"","52":"","53":"","54":"","55":"","56":"","57":"","58":"","59":"","60":"","61":"","62":"","63":"","64":"","65":"","66":"","67":"","68":"","69":"","70":"","71":"","72":"","73":"","74":"","75":"","76":"","77":"","78":"","79":"","80":"","81":"","82":"","83":"","84":"","85":"","86":"","87":"","88":"","89":"","90":"","91":"","92":"","93":"","94":"","95":"","96":"","97":"","98":"","99":"","100":"","101":"","102":"","103":"","104":"","105":"","106":"","107":""
+Metadata: {'source': 'data2\\CLEANER,  BioRem-2000-Surface-Cleaner SDS.pdf', 'page': 1, 'type': 'table', 'table_index': 1, 'document_name': 'CLEANER,  BioRem-2000-Surface-Cleaner SDS.pdf', 'id': '665b5fab-bfff-4dce-aeff-3f91d0d8df5d'}
+
+--------------------------------------------------------------------------------
+Chunk 34:
+Content: ":"","97":"","98":"","99":"","100":"","101":"","102":"","103":"","104":"","105":"","106":"","107":"","108":"","109":"implied,","110":"","111":"disclaim","112":"","113":"","114":"","115":"","116":"","117":"","118":""}}
+Metadata: {'source': 'data2\\CLEANER,  BioRem-2000-Surface-Cleaner SDS.pdf', 'page': 1, 'type': 'table', 'table_index': 1, 'document_name': 'CLEANER,  BioRem-2000-Surface-Cleaner SDS.pdf', 'id': '7bba02c9-80ad-4661-a10c-ed4571182eea'}
+
+--------------------------------------------------------------------------------
+Chunk 35:
+Content: Safety Data Sheet
+1.
+Product and Company Identification
+Product Identifier: BioRem-2000 Surface Cleaner
+General Use: Designed to remediate oil, grease and other hydrocarbons on hard surfaces.
+Product Description: Amber liquid
+Manufacturer:
+Emergency Telephone
+Clift Industries, Inc.
+CHEMTREC
+PO Box 471578
+800-424-9300
+Charlotte, NC 28247
+704-752-0031
+2.
+Hazards Identification
+Classification:
+Acute toxicity, Oral, Dermal, Inhalation Category 5
+Eye Irritation, Category 2B
+Signal Word:
+Warning!
+Metadata: {'source': 'data2\\CLEANER,  BioRem-2000-Surface-Cleaner SDS.pdf', 'document_name': 'CLEANER,  BioRem-2000-Surface-Cleaner SDS.pdf', 'id': '1b7e32b8-818f-4b6e-b07c-c8c11c4688a8'}
+
+--------------------------------------------------------------------------------
+Chunk 36:
+Content: Eye Irritation, Category 2B
+Signal Word:
+Warning!
+Hazard Statement:
+H303+H313
++H333
+H320
+Maybe harmful if swallowed, in contact with
+skin or if inhaled.
+Causes eye irritation.
+Precautionary
+Statements Prevention: P264
+Wash hands thoroughly after handling.
+Precautionary
+Statements Response:
+P304 + 340
+P301+330+
+331
+P303+352
+P305+351+
+338
+IF INHALED: Remove victim to fresh air and
+keep at rest in a position comfortable for
+breathing
+IF SWALLOWED: Rinse mouth. Do NOT
+induce vomiting.
+Metadata: {'source': 'data2\\CLEANER,  BioRem-2000-Surface-Cleaner SDS.pdf', 'document_name': 'CLEANER,  BioRem-2000-Surface-Cleaner SDS.pdf', 'id': '3fdc3691-2ceb-496c-b1b7-25a2efa5b60a'}
+
+--------------------------------------------------------------------------------
+Chunk 37:
+Content: breathing
+IF SWALLOWED: Rinse mouth. Do NOT
+induce vomiting.
+IF ON SKIN: Wash with plenty of soap and
+water.
+IF IN EYES: Rinse cautiously with water for
+several minutes. Remove contact lenses, if
+present and easy to do. Continue Rinsing.
+3.
+Composition/Information on Ingredients
+Ingredients
+CAS No.
+Weight %
+Aqua
+7732-18-5
+70-90
+Microbes
+Proprietary
+1-5
+Enzymes
+Proprietary
+1-5
+Cleaning Aid
+Proprietary
+10-20
+Nutrients
+Proprietary
+1-5
+4.
+First Aid Measures
+Eye Contact:
+Metadata: {'source': 'data2\\CLEANER,  BioRem-2000-Surface-Cleaner SDS.pdf', 'document_name': 'CLEANER,  BioRem-2000-Surface-Cleaner SDS.pdf', 'id': 'c4276695-77dc-4e3a-9ca0-5c2267f9bf09'}
+
+--------------------------------------------------------------------------------
+Chunk 38:
+Content: 1-5
+Cleaning Aid
+Proprietary
+10-20
+Nutrients
+Proprietary
+1-5
+4.
+First Aid Measures
+Eye Contact:
+Flush eyes for fifteen minutes with water. If irritation persists, contact a
+physician.
+Skin Contact:
+Wash with soap and water. If irritation persists, contact a physician.
+Inhalation:
+Not normally required. Move to fresh air. If symptoms persist, get medical
+attention.
+Ingestion:
+Not normally required. Contact a physician if ingested.
+5.
+Fire Fighting Measures
+Extinguishing Media:
+Metadata: {'source': 'data2\\CLEANER,  BioRem-2000-Surface-Cleaner SDS.pdf', 'document_name': 'CLEANER,  BioRem-2000-Surface-Cleaner SDS.pdf', 'id': '60bae842-7388-457a-87e6-bf935faf8113'}
+
+--------------------------------------------------------------------------------
+Chunk 39:
+Content: 5.
+Fire Fighting Measures
+Extinguishing Media:
+Unused form: Water spray, dry chemical or carbon dioxide.
+Used form: That which is compatible to liquid (s) absorbed.
+Special Fire Fighting Procedures:
+None required.
+Hazardous Combustion Products:
+Carbon monoxide and/or carbon dioxide.
+Unusual Hazards: None expected. Refer to absorbed liquid(s) MSDS(s). Extreme heat
+may cause pressure to build up inside drum.
+6.
+Accidental Release Measures
+Metadata: {'source': 'data2\\CLEANER,  BioRem-2000-Surface-Cleaner SDS.pdf', 'document_name': 'CLEANER,  BioRem-2000-Surface-Cleaner SDS.pdf', 'id': '0dab53be-da45-4a02-b978-7bebead6363f'}
+
+--------------------------------------------------------------------------------
+Chunk 40:
+Content: may cause pressure to build up inside drum.
+6.
+Accidental Release Measures
+Spill or Leak Procedures: If material is unused, collect and recover for reuse. Wear
+protective equipment. Not a listed hazardous waste.
+7.
+Handling and Storage
+Handling Precautions: Avoid contact with skin and eyes. Do not swallow. Wash hands
+thoroughly after handling.
+Storage Precautions: Store in cool, dry area. Prevent product from freezing. Keep out of
+Metadata: {'source': 'data2\\CLEANER,  BioRem-2000-Surface-Cleaner SDS.pdf', 'document_name': 'CLEANER,  BioRem-2000-Surface-Cleaner SDS.pdf', 'id': 'deea04b6-5f24-4d8d-a0b8-8278fb7daee8'}
+
+--------------------------------------------------------------------------------
+Chunk 41:
+Content: Storage Precautions: Store in cool, dry area. Prevent product from freezing. Keep out of
+reach of children. Shelf life: 3 years as long as the product is kept in a clean, dry
+environment away from direct sunlight and/or excessive heat.
+General: Refer to absorbed liquid(s) MSDS(s). Follow label directions carefully. Make sure
+all containers are labeled properly. The container can be hazardous when empty. Follow
+Metadata: {'source': 'data2\\CLEANER,  BioRem-2000-Surface-Cleaner SDS.pdf', 'document_name': 'CLEANER,  BioRem-2000-Surface-Cleaner SDS.pdf', 'id': '199bac72-3240-46a7-92a0-3a8917381f14'}
+
+--------------------------------------------------------------------------------
+Chunk 42:
+Content: all containers are labeled properly. The container can be hazardous when empty. Follow
+label cautions even after the container is empty. Do not re-use empty containers for food,
+clothing or products for human or animal consumption, or where skin contact can occur.
+8. Exposure Controls/Personal Protection
+Engineering Controls: Use adequate ventilation to keep airborne concentrations low.
+PERSONAL PROTECTION
+Eyes:
+Safety goggles or glass with side shields
+Metadata: {'source': 'data2\\CLEANER,  BioRem-2000-Surface-Cleaner SDS.pdf', 'document_name': 'CLEANER,  BioRem-2000-Surface-Cleaner SDS.pdf', 'id': '01b5cdab-c1c6-4a4f-8c03-ad6aab5e9fb7'}
+
+--------------------------------------------------------------------------------
+Chunk 43:
+Content: PERSONAL PROTECTION
+Eyes:
+Safety goggles or glass with side shields
+Respirator: NIOSH/MSHA approved respirator when ventilation is inadequate.
+Gloves:
+Impervious gloves.
+Other:
+Maintain eyewash and safety shower in work area.
+OSHA HAZARDOUS COMPONENTS
+(29 CFR 1910.1200):
+EXPOSURE LIMIT 8 hrs. TWA (ppm)
+OSHA PEL
+ACGIH TLV
+None
+9. Physical/Chemical Characteristics
+Appearance: Amber liquid
+Odor: Bland
+pH: 7
+Melting Point/Freezing Point: 32º F (0º C)
+Initial Boiling Point and Range: 212º F (100º C)
+Metadata: {'source': 'data2\\CLEANER,  BioRem-2000-Surface-Cleaner SDS.pdf', 'document_name': 'CLEANER,  BioRem-2000-Surface-Cleaner SDS.pdf', 'id': '7dde8033-5814-4a77-9f0c-9e59b7726c14'}
+
+--------------------------------------------------------------------------------
+Chunk 44:
+Content: pH: 7
+Melting Point/Freezing Point: 32º F (0º C)
+Initial Boiling Point and Range: 212º F (100º C)
+Flash Point: None Method: Not available.
+Evaporation Rate: Not established.
+Flammable Limits: Not applicable.
+Conditions of Flammability: Non-flammable.
+Explosive Properties: Not established.
+Vapor Pressure: Not available.
+Vapor Density: Not established.
+Relative Density (H2O =1): 1.079
+Solubility in Water: Soluble
+VOC (g/L): 0
+10. Stability and Reactivity Data
+General:
+This is a stable material
+Metadata: {'source': 'data2\\CLEANER,  BioRem-2000-Surface-Cleaner SDS.pdf', 'document_name': 'CLEANER,  BioRem-2000-Surface-Cleaner SDS.pdf', 'id': '9d463728-d2a1-4b30-8656-11add73f816d'}
+
+--------------------------------------------------------------------------------
+Chunk 45:
+Content: VOC (g/L): 0
+10. Stability and Reactivity Data
+General:
+This is a stable material
+Conditions of Reactivity:
+Reacts with sodium hypochlorite or calcium
+hypochlorite.
+Incompatible Materials:
+Strong oxidants
+Conditions to Avoid:
+Excessive heat or flame.
+Hazardous Decomposition:
+Not established.
+Hazardous Polymerization:
+Will not occur.
+11. Toxicological Data
+LD50:
+Not established.
+LC50:
+Not established.
+Carcinogenicity: IRAC: None
+National Toxicology Program: None
+OSHA: None
+Metadata: {'source': 'data2\\CLEANER,  BioRem-2000-Surface-Cleaner SDS.pdf', 'document_name': 'CLEANER,  BioRem-2000-Surface-Cleaner SDS.pdf', 'id': 'c4ce875a-9706-437a-8f46-554dbbceb7c7'}
+
+--------------------------------------------------------------------------------
+Chunk 46:
+Content: LC50:
+Not established.
+Carcinogenicity: IRAC: None
+National Toxicology Program: None
+OSHA: None
+California Prop 65: No listed ingredient
+Reproduction Toxicity: Not available
+Teratogenicity:
+Not available
+Mutagenicity:
+Not available
+Synergistic Products:
+Not available
+12.
+Ecological Data
+No data available
+13.
+Disposal Considerations
+Waste Disposal Method: Observe all federal, state and local regulations.
+14.
+Transport Information
+D.O.T. (Department of Transportation):
+Proper Shipping Name:
+Metadata: {'source': 'data2\\CLEANER,  BioRem-2000-Surface-Cleaner SDS.pdf', 'document_name': 'CLEANER,  BioRem-2000-Surface-Cleaner SDS.pdf', 'id': '64ca12d1-b094-4cd6-8141-5e318b9e33a3'}
+
+--------------------------------------------------------------------------------
+Chunk 47:
+Content: 14.
+Transport Information
+D.O.T. (Department of Transportation):
+Proper Shipping Name:
+Non-hazardous liquid
+Hazard Class:
+Not regulated
+Identification Number:
+Not applicable
+15.
+Regulatory Information
+CERCLA (Comprehensive Environmental Response Compensation and Liability
+Act): No Reportable Quantity
+OSHA Hazard Communication Standard, 28 CFR 1910.1200: No hazardous
+ingredient.
+SARA Title III (Superfund Amendments and Reauthorization Act): No listed
+ingredient.
+Metadata: {'source': 'data2\\CLEANER,  BioRem-2000-Surface-Cleaner SDS.pdf', 'document_name': 'CLEANER,  BioRem-2000-Surface-Cleaner SDS.pdf', 'id': '748b5508-591b-49d8-bffa-c52a07f7767a'}
+
+--------------------------------------------------------------------------------
+Chunk 48:
+Content: ingredient.
+SARA Title III (Superfund Amendments and Reauthorization Act): No listed
+ingredient.
+TSCA (Toxic Substances Control Act): All ingredients are listed.
+16.
+OTHER INFORMATION:
+NFPA Hazard Rating: Health – 1
+None Extreme
+Fire – 0
+0
+4
+Reactivity – 0
+PPE – B
+Reason for Issue: GHS changes to Sections 2 & 3.
+Prepared by: J. Pickett
+Approved by: C. Matthews
+Approval Date of Issue: 5/1/2015
+Approval Date: 5/1/2015
+Metadata: {'source': 'data2\\CLEANER,  BioRem-2000-Surface-Cleaner SDS.pdf', 'document_name': 'CLEANER,  BioRem-2000-Surface-Cleaner SDS.pdf', 'id': '08d8dd0d-a643-4b11-8745-40eb41373a08'}
+
+--------------------------------------------------------------------------------
+Chunk 49:
+Content: Approved by: C. Matthews
+Approval Date of Issue: 5/1/2015
+Approval Date: 5/1/2015
+The information provided in this MSDS is believed to be reliable and accurate. However,
+the information is provided without any warranty or guarantee, express or implied,
+regarding its correctness. We do not assume responsibility and expressly disclaim
+liability for loss, damage or expense arising out of the use of this information. The buyer
+Metadata: {'source': 'data2\\CLEANER,  BioRem-2000-Surface-Cleaner SDS.pdf', 'document_name': 'CLEANER,  BioRem-2000-Surface-Cleaner SDS.pdf', 'id': 'bc82a703-bef4-455f-9704-aebdec441a8f'}
+
+--------------------------------------------------------------------------------
+Chunk 50:
+Content: liability for loss, damage or expense arising out of the use of this information. The buyer
+assumes all responsibility of using and handling the product in accordance with the
+federal, state and local regulations.
+Metadata: {'source': 'data2\\CLEANER,  BioRem-2000-Surface-Cleaner SDS.pdf', 'document_name': 'CLEANER,  BioRem-2000-Surface-Cleaner SDS.pdf', 'id': '2ef4b2f6-d552-4617-b30d-83d9eaf7d5dc'}
+
+--------------------------------------------------------------------------------

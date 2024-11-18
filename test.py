@@ -1,9 +1,10 @@
-import pdfplumber
+import camelot
 import os
 
-with pdfplumber.open("pdf/" + os.listdir("pdf")[0]) as pdf:
-    for page in pdf.pages:
-        
-            print(page.extract_text())
-    
-    print()
+table_doc = camelot.read_pdf('pdf/' + os.listdir('pdf')[0])
+print(len(table_doc))
+# print(table_doc)
+
+# for doc in table_doc:
+#         camelot.plot(doc, kind='grid').show()
+# input()
