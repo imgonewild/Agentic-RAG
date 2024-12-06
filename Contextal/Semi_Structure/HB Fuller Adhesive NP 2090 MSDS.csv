@@ -1,0 +1,174 @@
+Answer,Source,Question,Response
+T,T,What is the product identifier?,"{
+  ""answer"": ""H.B. Fuller NP-2090-F, Product code: 100000001802"",
+  ""source"": ""SECTION 1. PRODUCT AND COMPANY IDENTIFICATION""
+}"
+T,T,When was the Safety Data Sheet issued?,"{
+  ""answer"": ""Revision Date 12/31/2015"",
+  ""source"": ""SECTION 1. PRODUCT AND COMPANY IDENTIFICATION, SECTION 16. OTHER INFORMATION""
+}"
+T,T,What is the product description?,"{
+  ""answer"": ""H.B. Fuller NP-2090-F, off-white solid form with neutral odor"",
+  ""source"": ""SECTION 1. PRODUCT AND COMPANY IDENTIFICATION, Appearance""
+}"
+T,T,Who is the manufacturer of the product?,"{
+  ""answer"": ""H.B. Fuller Company"",
+  ""source"": ""SECTION 1. PRODUCT AND COMPANY IDENTIFICATION""
+}"
+T,T,What is the emergency telephone number for the product?,"{
+  ""answer"": ""1-800-424-9300"",
+  ""source"": ""Transport Emergency Phone Number (CHEMTREC)""
+}"
+T,T,What are the hazard classifications associated with the product?,"{
+  ""answer"": ""Category 2A, Acute Health Hazard, Chronic Health Hazard, Suspected of causing cancer"",
+  ""source"": ""SECTION 14. TRANSPORT INFORMATION, SECTION 15. REGULATORY INFORMATION""
+}"
+F,F,What is the signal word used for the product?,"{
+  ""answer"": ""Warning"",
+  ""source"": ""SECTION 2. HAZARDS IDENTIFICATION""
+}"
+T,T,What are the hazard statements related to the product?,"{
+  ""answer"": ""H315 Causes skin irritation. H317 May cause an allergic skin reaction. H319 Causes serious eye irritation. H334 May cause allergy or asthma symptoms or breathing difficulties if inhaled. H351 Suspected of causing cancer. H373 May cause damage to organs through prolonged or repeated exposure."",
+  ""source"": ""GHS Classification, Hazard Statements""
+}"
+T,T,What precautions should be taken while handling the product?,"{
+  ""answer"": ""No special precautions are needed in handling this material. Avoid breathing vapors/fumes of heated product. Prevent contact with molten product."",
+  ""source"": ""SECTION 7. HANDLING AND STORAGE""
+}"
+T,T,What are the first aid measures in case of inhalation?,"{
+  ""answer"": ""If inhaled, Move to fresh air. If symptoms persist, call a physician."",
+  ""source"": ""SECTION 4. FIRST AID MEASURES""
+}"
+T,T,What are the first aid measures in case of skin contact?,"{
+  ""answer"": ""In case of skin contact : Wash off with soap and water. Cool melted product on skin with plenty of water. Do not remove solidified product."",
+  ""source"": ""SECTION 4. FIRST AID MEASURES""
+}"
+T,T,What are the first aid measures in case of eye contact?,"{
+  ""answer"": ""In the case of contact with eyes, rinse immediately with plenty of water and seek medical advice."",
+  ""source"": ""SECTION 4. FIRST AID MEASURES""
+}"
+T,T,What are the first aid measures in case of ingestion?,"{
+  ""answer"": ""Do not induce vomiting. Seek medical attention if symptoms develop."",
+  ""source"": ""SECTION 4. FIRST AID MEASURES""
+}"
+T,T,What are the suitable extinguishing media for a fire involving the product?,"{
+  ""answer"": ""Use water spray, alcohol-resistant foam, dry chemical or carbon dioxide."",
+  ""source"": ""SECTION 5. FIRE-FIGHTING MEASURES""
+}"
+T,T,What are the special hazards arising from the substance during a fire?,"{
+  ""answer"": ""Burning produces irritant fumes."",
+  ""source"": ""SECTION 5. FIRE-FIGHTING MEASURES, Specific hazards during fire fighting""
+}"
+T,T,Are there any special fire handling procedures required for the product?,"{
+  ""answer"": ""Yes, there are special fire handling procedures required for the product. The suitable extinguishing media include water spray, alcohol-resistant foam, dry chemical or carbon dioxide. However, do NOT use water jet. Burning produces irritant fumes and may require self-contained breathing apparatus for firefighting if necessary."",
+  ""source"": ""SECTION 5. FIRE-FIGHTING MEASURES""
+}"
+T,T,"How should accidental releases, spill, or leak of the product be handled?","{
+  ""answer"": ""For accidental releases, spill, or leak of the product, shovel into suitable container for disposal. Avoid breathing vapors/fumes of heated product. Prevent contact with molten product."",
+  ""source"": ""SECTION 7. HANDLING AND STORAGE, SECTION 1. IDENTIFICATION""
+}"
+T,T,What precautions should be taken for safe handling and storage of the product?,"{
+  ""answer"": ""No special precautions are needed in handling this material. Avoid breathing vapors/fumes of heated product. Prevent contact with molten product. Keep in a dry, cool place."",
+  ""source"": ""SECTION 7. HANDLING AND STORAGE""
+}"
+T,T,What are the exposure controls and personal protection measures recommended for the product?,"{
+  ""answer"": ""Engineering measures: use of local exhaust over the premelting reservoir is encouraged. Personal protective equipment includes respiratory protection (in case of insufficient ventilation), hand protection with nitrile rubber gloves, eye protection with safety glasses, and heat-resistant gloves when handling hot material."",
+  ""source"": ""SECTION 7. HANDLING AND STORAGE, SECTION 8. EXPOSURE CONTROLS/PERSONAL PROTECTION""
+}"
+T,T,What are the physical and chemical properties of the product?,"{
+  ""answer"": ""The product is a solid with off-white color, neutral odor, insoluble in water, density of 10.300 lb/gal, kinematic viscosity not applicable, and 100% solid content by weight. It does not undergo hazardous polymerization or decomposition reactions under normal conditions but can release irritating gases and vapors upon thermal decomposition."",
+  ""source"": ""Appearance, Solubility(ies), Density, Viscosity, Solid Content, % by weight""
+}"
+T,T,Is the product stable or reactive? Are there any hazardous reactions to be aware of?,"{
+  ""answer"": ""The product is chemically stable, but it can be pressurized by carbon dioxide due to reaction with humid air and/or water. Hazardous polymerization does not occur, but thermal decomposition can lead to release of irritating gases and vapors."",
+  ""source"": ""Reactivity, Chemical stability, Possibility of hazardous reactions""
+}"
+T,T,What are the possible hazardous decomposition products of the product?,"{
+  ""answer"": ""In case of incomplete combustion an increased formation of products oxides of nitrogen (NOx) is to be expected. Thermal decomposition can lead to release of irritating gases and vapors."",
+  ""source"": ""SECTION 1: Identification, SECTION 3: Composition/Information on Ingredients""
+}"
+T,T,What is the toxicological information available for the product?,"{
+  ""answer"": ""Acute inhalation toxicity for 4,4'-methylenediphenyl diisocyanate is LC50 : 1.5 mg/l Exposure time: 4 h Test atmosphere: dust/mist; Acute toxicity estimate for the product is > 10 mg/l Exposure time: 4 h Test atmosphere: dust/mist"",
+  ""source"": ""SECTION 11. TOXICOLOGICAL INFORMATION""
+}"
+T,T,What are the safety precautions and handling instructions for using the product?,"{
+  ""answer"": ""No special precautions are needed in handling this material. Avoid breathing vapors/fumes of heated product. Prevent contact with molten product. Keep in a dry, cool place. No special restrictions on storage with other products."",
+  ""source"": ""SECTION 7. HANDLING AND STORAGE""
+}"
+T,T,What are the potential hazards associated with the product?,"{
+  ""answer"": ""Skin irritation, Eye irritation, Respiratory sensitization, Skin sensitization, Carcinogenicity, Specific target organ systemic toxicity - repeated exposure. Vapors/fumes may be irritating at application temperatures. Contact with hot product will cause thermal burns."",
+  ""source"": ""Hazard Statements, Potential Health Effects""
+}"
+T,T,What are the specific health effects or risks associated with exposure to the product?,"{
+  ""answer"": ""Inhalation: Vapors/fumes may be irritating at application temperatures. Skin: Contact with hot product will cause thermal burns. Aggravated Medical Condition: None known. Carcinogenicity: Suspected of causing cancer."",
+  ""source"": ""SECTION 11. TOXICOLOGICAL INFORMATION, SECTION 1. IDENTIFICATION""
+}"
+T,F,What are the emergency procedures in case of inhalation of the product?,"{
+  ""answer"": ""If inhaled, move to fresh air. If symptoms persist, call a physician."",
+  ""source"": ""SECTION 1: Identification, SECTION 2: Hazards Identification""
+}"
+T,F,What are the emergency procedures in case of skin contact with the product?,"{
+  ""answer"": ""In case of skin contact, wash off with soap and water. Cool melted product on skin with plenty of water. Do not remove solidified product."",
+  ""source"": ""SECTION 1: Identification, SECTION 2: Hazards Identification""
+}"
+T,T,What are the emergency procedures in case of eye contact with the product?,"{
+  ""answer"": ""In case of eye contact, rinse immediately with plenty of water and seek medical advice."",
+  ""source"": ""SECTION 4. FIRST AID MEASURES""
+}"
+T,F,What are the emergency procedures in case of ingestion of the product?,"{
+  ""answer"": ""Do not induce vomiting. Seek medical attention if symptoms develop."",
+  ""source"": ""SECTION 1, SECTION 3""
+}"
+T,T,What is the waste disposal method for the product?,"{
+  ""answer"": ""Shovel into suitable container for disposal."",
+  ""source"": ""SECTION 6. ACCUMULATION AND RISK PREVENTION""
+}"
+T,T,Are there any specific storage requirements or conditions for safely storing the product?,"{
+  ""answer"": ""Yes, keep in a dry, cool place. No special restrictions on storage with other products."",
+  ""source"": ""SECTION 7. HANDLING AND STORAGE""
+}"
+T,T,What is the shelf life of the product?,"{
+  ""answer"": ""The product is chemically stable, and there are no special precautions needed in handling this material. It can be stored in a dry, cool place."",
+  ""source"": ""SECTION 7. HANDLING AND STORAGE, SECTION 1. IDENTIFICATION""
+}"
+F,T,What are the composition and ingredients of the product?,"{
+  ""answer"": ""The product is a mixture with off-white appearance, neutral odor. Hazardous ingredients are present but none of them exceed 0.1% concentration. No ingredient is identified as probable, possible or confirmed human carcinogen by IARC, OSHA, or NTP."",
+  ""source"": ""SECTION 3. COMPOSITION/INFORMATION ON INGREDIENTS, SECTION 15. REGULATORY INFORMATION""
+}"
+T,T,Are there any known hazardous reactions or incompatibilities with other substances or materials?,"{
+  ""answer"": ""There are no known hazardous reactions, but there is a possibility of pressurization due to reaction with humid air and/or water. Additionally, thermal decomposition can lead to release of irritating gases and vapors."",
+  ""source"": ""Reactivity, Chemical stability""
+}"
+T,T,What is the odor of the product?,"{
+  ""answer"": ""Neutral"",
+  ""source"": ""Appearance""
+}"
+T,T,What is the boiling point of the product?,"{
+  ""answer"": ""Not determined"",
+  ""source"": ""Appearance""
+}"
+T,T,Is the product flammable?,"{
+  ""answer"": ""Not classified as a flammability hazard"",
+  ""source"": ""Classification, Section 2""
+}"
+T,T,What is the solubility of the product?,"{
+  ""answer"": ""The product is insoluble in water."",
+  ""source"": ""SECTION 1. IDENTIFICATION, SECTION 2. HAZARDS IDENTIFICATION""
+}"
+T,T,"Is the product stable under certain conditions, and are there any potential decomposition products?","{
+  ""answer"": ""Yes, the product is chemically stable under normal conditions. However, there are potential decomposition products in case of incomplete combustion (oxides of nitrogen) or thermal decomposition (carbon monoxide, carbon dioxide, and unburned hydrocarbons). Additionally, humid air and/or water can produce carbon dioxide which will pressurize the container."",
+  ""source"": ""SECTION 10. STABILITY AND REACTIVITY, SECTION 7. HANDLING AND STORAGE""
+}"
+T,T,"What are the recommended engineering controls, personal protective equipment (PPE), and respiratory protection for handling the product?","{
+  ""answer"": ""For handling the product, recommended engineering controls include using local exhaust over the premelting reservoir at the application temperature. Personal protective equipment includes nitrile rubber gloves for hand protection, safety glasses for eye protection, and heat-resistant gloves when handling hot material. Respiratory protection is required in case of insufficient ventilation, with a combined particulates and organic vapor type filter."",
+  ""source"": ""SECTION 8. EXPOSURE CONTROLS/PERSONAL PROTECTION, SECTION 7. HANDLING AND STORAGE""
+}"
+T,T,Are there any specific environmental precautions or considerations for the disposal of the product or its containers?,"{
+  ""answer"": ""Shovel into suitable container for disposal. Store in a dry, cool place."",
+  ""source"": ""SECTION 7. HANDLING AND STORAGE, SECTION 14. TRANSPORT INFORMATION""
+}"
+T,T,Can the specific chemical identity or exact percentage of the composition be disclosed for the product?,"{
+  ""answer"": ""The specific chemical identity of '4,4'-methylenediphenyl diisocyanate' can be disclosed, but the exact percentage composition is not provided in the SDS."",
+  ""source"": ""SECTION 3. COMPOSITION/INFORMATION ON INGREDIENTS, SECTION 15. REGULATORY INFORMATION""
+}"
+41,39,,

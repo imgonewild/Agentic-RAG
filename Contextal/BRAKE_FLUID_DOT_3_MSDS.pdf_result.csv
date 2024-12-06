@@ -1,0 +1,174 @@
+Answer,Source,Quesiont,Answer
+T,T,What is the product identifier?,"{
+  ""answer"": ""NAPA DOT 3 Brake Fluid"",
+  ""source"": ""SECTION 1: Identification""
+}"
+F,F,When was the Safety Data Sheet issued?,"{
+  ""answer"": ""Information not available in the provided context"",
+  ""source"": ""N/A""
+}"
+F,F,What is the product description?,"{
+  ""answer"": ""Trade Secret Inhibitor Package, Trade Secret, 3% of the composition of this material has been withheld as a trade secret."",
+  ""source"": ""SECTION 1: Identification""
+}"
+T,T,Who is the manufacturer of the product?,"{
+  ""answer"": ""The manufacturer of the product is NAPA, as mentioned in the 'Manufacturer's Name' section."",
+  ""source"": ""N/A""
+}"
+T,T,What is the emergency telephone number for the product?,"{
+  ""answer"": ""24/7 Emergency Telephone Number: 1-800-424-9300"",
+  ""source"": ""Section 1, Section 14""
+}"
+T,T,What are the hazard classifications associated with the product?,"{
+  ""answer"": ""OSHA Hazards: Target Organ Effect, Harmful by ingestion, Irritant, Teratogen, Reproductive hazard; GHS Classification: Acute toxicity, dermal (Category 5), Acute toxicity, oral (Category 4), Skin Irritation (Category 3), Serious eye damage (Category 1), Reproductive toxicity (Category 2)"",
+  ""source"": ""SECTION 2: HAZARD(S) IDENTIFICATION, SECTION 2: HAZARD(S) IDENTIFICATION""
+}"
+T,T,What is the signal word used for the product?,"{
+  ""answer"": ""Warning"",
+  ""source"": ""Signal Word""
+}"
+F,F,What are the hazard statements related to the product?,"{
+  ""answer"": ""The hazard statements related to the product are: H302 (Harmful if swallowed), H315 (Causes skin irritation), H319 (Causes serious eye irritation), H335 (May cause respiratory irritation)"",
+  ""source"": ""Section 3, Hazard Identification""
+}"
+T,T,What precautions should be taken while handling the product?,"{
+  ""answer"": ""Use appropriate personal protective equipment, avoid breathing vapors, mist or gas, avoid contact with spilled material, ensure adequate ventilation, remove all sources of ignition, use non-sparking tools and equipment."",
+  ""source"": ""SECTION 6: ACCIDENTAL RELEASE MEASURES""
+}"
+T,T,What are the first aid measures in case of inhalation?,"{
+  ""answer"": ""Remove victim to fresh air. If not breathing, give artificial respiration. If breathing is difficult, give oxygen. Consult a physician."",
+  ""source"": ""SECTION 4: FIRST AID MEASURE""
+}"
+T,T,What are the first aid measures in case of skin contact?,"{
+  ""answer"": ""Wash with plenty of soap and water. If skin irritation occurs, get medical advice / attention."",
+  ""source"": ""SECTION 4: FIRST AID MEASURE""
+}"
+T,T,What are the first aid measures in case of eye contact?,"{
+  ""answer"": ""In case of eye contact, flush with plenty of water for at least 15-20 minutes. Remove contact lenses if easy to do so. Continue rinsing. Get medical attention."",
+  ""source"": ""SECTION 1: PRODUCT AND COMPANY IDENTIFICATION, SECTION 2: HAZARD(S) IDENTIFICATION""
+}"
+T,T,What are the first aid measures in case of ingestion?,"{
+  ""answer"": ""IF SWALLOWED: Call a POISON CENTER or doctor / physician immediately. Rinse mouth."",
+  ""source"": ""P201, P202, P301 + P312, P330""
+}"
+F,F,What are the suitable extinguishing media for a fire involving the product?,"{
+  ""answer"": ""Information not available in the provided context"",
+  ""source"": ""N/A""
+}"
+T,T,What are the special hazards arising from the substance during a fire?,"{
+  ""answer"": ""Carbon monoxide, carbon dioxide, and unidentified organic compounds."",
+  ""source"": ""SECTION 5: FIRE-FIGHTING MEASURES""
+}"
+T,T,Are there any special fire handling procedures required for the product?,"{
+  ""answer"": ""Yes, do not use direct water stream to extinguish fires. Do not release runoff from fire control methods to sewers or waterways."",
+  ""source"": ""SECTION 5: FIRE-FIGHTING MEASURES""
+}"
+T,T,"How should accidental releases, spill, or leak of the product be handled?","{
+  ""answer"": ""Use appropriate personal protective equipment, avoid breathing vapors, mist or gas, avoid contact with spilled material, ensure adequate ventilation, remove all sources of ignition, use non-sparking tools and equipment."",
+  ""source"": ""SECTION 6: ACCIDENTAL RELEASE MEASURES""
+}"
+T,T,What precautions should be taken for safe handling and storage of the product?,"{
+  ""answer"": ""For safe handling and storage, use appropriate personal protective equipment, avoid breathing vapors, mist, or gas, avoid contact with spilled material, ensure adequate ventilation, remove all sources of ignition, and use non-sparking tools and equipment."",
+  ""source"": ""SECTION 6: ACCIDENTAL RELEASE MEASURES""
+}"
+T,T,What are the exposure controls and personal protection measures recommended for the product?,"{
+  ""answer"": ""Engineering controls should be such that adequate ventilation is provided, provide general or local exhaust ventilation systems to maintain airborne concentrations below OSHA PELs. Local exhaust ventilation is preferred because it prevents contaminant dispersion into the work place by controlling it at its source. Respiratory protection: seek professional advice prior to respirator selection and use. Follow OSHA respirator regulations (29 CFR 1910.134) and, if necessary, wear a MSHA / NIOSH approved respirator. Select respirator based on its suitability to provide adequate worker protection for given working conditions, level of airborne contamination, and presence of sufficient oxygen. For emergency or non-routine operations (e.g. cleaning spills, reactor vessels, or storage tanks), wear an SCBA. Wear protective eyeglasses or chemical safety goggles, per OSHA eye-and face-protection regulations (29 CFR 1910.133). Contact lenses are not eye protective devices. Appropriate eye protection must be worn instead of, or in conjunction with, contact lenses. Wear chemically protective gloves, boots, aprons and gauntlets to prevent prolonged or repeated skin contact."",
+  ""source"": ""SECTION 8: EXPOSURE CONTROLS / PERSONAL PROTECTION""
+}"
+T,T,What are the physical and chemical properties of the product?,"{
+  ""answer"": ""The product is a liquid with a yellow to amber appearance, mild odor, and a flash point of >275°F (>135°C). It has a relative density of 8.33 ??9.02 lb/gal, specific gravity of 1.000 ??1.070, and is soluble in water. The initial boiling point is 480°F (248.9°C), and it has a vapor density >1."",
+  ""source"": ""SECTION 9: PHYSICAL AND CHEMICAL PROPERTIES""
+}"
+T,T,Is the product stable or reactive? Are there any hazardous reactions to be aware of?,"{
+  ""answer"": ""The product is stable under normal handling conditions, but thermal oxidative decomposition can produce carbon monoxide, carbon dioxide, and unknown organic compounds."",
+  ""source"": ""SECTION 10: STABILITY AND REACTIVITY""
+}"
+T,T,What are the possible hazardous decomposition products of the product?,"{
+  ""answer"": ""Carbon monoxide, carbon dioxide, and unknown organic compounds"",
+  ""source"": ""SECTION 10: STABILITY AND REACTIVITY""
+}"
+T,T,What is the toxicological information available for the product?,"{
+  ""answer"": ""The toxicological information available for the product includes Acute toxicity, dermal (Category 5), Acute toxicity, oral (Category 4), Skin Irritation (Category 3), Serious eye damage (Category 1), Reproductive toxicity (Category 2). The Hazard Statements include H302 Harmful if swallowed, H313 May be harmful in contact with skin, H316 Causes mild skin irritation, H318 Causes serious eye damage, and H361 Suspected of damaging fertility or the unborn child."",
+  ""source"": ""Hazard Classification, GHS Classification""
+}"
+T,T,What are the safety precautions and handling instructions for using the product?,"{
+  ""answer"": ""To use this product safely, follow these precautions and handling instructions: Wear full protective clothing and NIOSH-approved self-contained breathing apparatus with full face piece operated in the pressure demand or other positive breathing mode when fighting fires. When handling the product, use appropriate personal protective equipment, avoid breathing vapors, mist or gas, and avoid contact with spilled material. Ensure adequate ventilation and remove all sources of ignition. Use non-sparking tools and equipment. For accidental release measures, use standard work uniform, impervious gloves, safety glasses, and increase PPE level as deemed necessary in any given situation. In case of fire, evacuate the area, do not use direct water stream to extinguish fires, and do not release runoff from fire control methods to sewers or waterways."",
+  ""source"": ""SECTION 6: ACCIDENTAL RELEASE MEASURES, SECTION 5: FIRE-FIGHTING MEASURES""
+}"
+T,T,What are the potential hazards associated with the product?,"{
+  ""answer"": ""The potential hazards associated with NAPA DOT 3 Brake Fluid include Target Organ Effect, Harmful by ingestion, Irritant, Teratogen, Reproductive hazard according to OSHA Hazards, and Acute toxicity, dermal (Category 5), Acute toxicity, oral (Category 4), Skin Irritation (Category 3), Serious eye damage (Category 1), Reproductive toxicity (Category 2) according to GHS Classification. The Hazard Statements are H302 Harmful if swallowed, H313 May be harmful in contact with skin, H316 Causes mild skin irritation, H318 Causes serious eye damage, and H361 Suspected of damaging fertility or the unborn child."",
+  ""source"": ""SECTION 2: HAZARD(S) IDENTIFICATION, SECTION 4: FIRST AID MEASURES""
+}"
+T,T,What are the specific health effects or risks associated with exposure to the product?,"{
+  ""answer"": ""The product is a Health Hazard, with specific health effects or risks associated with exposure including oral toxicity (LD50 >2,000 mg/kg for Polyalkylene Glycol Monobutyl Ether), dermal toxicity (LD50 >2,000 mg/kg for Polyalkylene Glycol Monobutyl Ether), and potential carcinogenicity (no component identified as a known or anticipated carcinogen by NTP, probable, possible, or confirmed human carcinogen by IARC, or carcinogen or potential carcinogen by OSHA)."",
+  ""source"": ""EXPOSURE GUIDELINES, LISTED CARCINOGEN""
+}"
+T,T,What are the emergency procedures in case of inhalation of the product?,"{
+  ""answer"": ""Remove victim to fresh air. If not breathing, give artificial respiration. If breathing is difficult, give oxygen. Consult a physician."",
+  ""source"": ""SECTION 4: FIRST AID MEASURE""
+}"
+T,T,What are the emergency procedures in case of skin contact with the product?,"{
+  ""answer"": ""Wear impervious gloves, safety glasses, and increase PPE level as deemed appropriate in any given situation."",
+  ""source"": ""SECTION 6: ACCIDENTAL RELEASE MEASURES""
+}"
+T,T,What are the emergency procedures in case of eye contact with the product?,"{
+  ""answer"": ""In case of eye contact with the product, flush eyes with plenty of water. If irritation persists, seek medical attention."",
+  ""source"": ""SECTION 5: FIRE FIGHTING MEASURES""
+}"
+T,T,What are the emergency procedures in case of ingestion of the product?,"{
+  ""answer"": ""In case of ingestion, rinse mouth with water. Consult a physician."",
+  ""source"": ""SECTION 4: FIRST AID MEASURES""
+}"
+T,T,What is the waste disposal method for the product?,"{
+  ""answer"": ""Whatever cannot be saved for recovery or recycling should be disposed of in an approved waste facility in accordance with Federal, State/Provincial and Local requirements."",
+  ""source"": ""SECTION 13: DISPOSAL CONSIDERATIONS""
+}"
+T,T,Are there any specific storage requirements or conditions for safely storing the product?,"{
+  ""answer"": ""The product should be stored in a well-ventilated area, away from direct sunlight and heat sources. It is recommended to store the product in its original container, tightly sealed, and kept upright."",
+  ""source"": ""SECTION 7: HANDLING AND STORAGE""
+}"
+T,T,What is the shelf life of the product?,"{
+  ""answer"": ""Information not available in the provided context"",
+  ""source"": ""N/A""
+}"
+T,T,What are the composition and ingredients of the product?,"{
+  ""answer"": ""The product is a mixture consisting of 20-80% ingredients of unknown acute toxicity, with the remaining 20-80% composed of various glycol ethers and polyalkylene glycols. The specific composition includes:\n\nTriethylene Glycol Monomethyl Ether (5-50%),\nTriethylene Glycol Monoethyl Ether (5-50%),\nTriethylene Glycol Monobutyl Ether (5-50%),\nTetrathylene Glycol Monobutyl Ether (5-20%),\nPolyethylene Glycol (5-20%),\nDiethylene Glycol Monobutyl Ether (5-20),\nDiethylene Glycol (5-15),\nDiethylene Glycol Monomethyl Ether (<5),\nDiethylene Glycol Monoethyl Ether (<5),\nPolyalkylene Glycol Monobutyl Ether (5-20),\nPolyalkylene Glycol Monomethyl Ether (5-20), and\nPolyalkylene Glycols (5-20).\n\n"",
+  ""source"": ""SDS ??NAPA DOT 3 Brake Fluid, SECTION 1: Identification, SECTION 2: Composition / Information on Ingredients""
+}"
+T,T,Are there any known hazardous reactions or incompatibilities with other substances or materials?,"{
+  ""answer"": ""No known hazardous reactions are described, but there is a description of other hazards not otherwise classified as 'none known.' Additionally, some ingredients have unknown acute toxicity (20-80% of the mixture), and data on reactivity with other substances or materials is unavailable for several polyalkylene glycol ethers."",
+  ""source"": ""SECTION 1: Identification / Classification of the Substance / Mixture, SECTION 3: Composition / Information on Ingredients""
+}"
+F,F,What is the odor of the product?,"{
+  ""answer"": ""The odor of the product is described as 'pleasant' in one section, but it's also mentioned that 20-80% of the mixture consists of ingredients of unknown acute toxicity."",
+  ""source"": ""SECTION 1: Identification, SECTION 2: HMIS Classification""
+}"
+T,T,What is the boiling point of the product?,"{
+  ""answer"": ""480°F (248.9°C), boiling range not available"",
+  ""source"": ""SECTION 9: PHYSICAL AND CHEMICAL PROPERTIES""
+}"
+T,T,Is the product flammable?,"{
+  ""answer"": ""Yes, the product is flammable."",
+  ""source"": ""NFPA Rating""
+}"
+T,T,What is the solubility of the product?,"{
+  ""answer"": ""The product is soluble in water, but specific solubility information is not available."",
+  ""source"": ""SECTION 11: TOXICOLOGICAL INFORMATION""
+}"
+T,T,"Is the product stable under certain conditions, and are there any potential decomposition products?","{
+  ""answer"": ""Yes, the product is stable under normal handling conditions (stable at room temperature in closed containers). However, thermal oxidative decomposition can produce carbon monoxide, carbon dioxide, and unknown organic compounds."",
+  ""source"": ""SECTION 10: STABILITY AND REACTIVITY""
+}"
+T,T,"What are the recommended engineering controls, personal protective equipment (PPE), and respiratory protection for handling the product?","{
+  ""answer"": ""Engineering controls should be such that adequate ventilation is provided, and local exhaust ventilation systems are preferred to maintain airborne concentrations below OSHA PELs. Personal protective equipment includes standard work uniform, impervious gloves, safety glasses, and increasing the level of PPE as deemed appropriate in any given situation. Respiratory protection requires seeking professional advice prior to respirator selection and use, following OSHA respirator regulations (29 CFR 1910.134), and wearing a MSHA / NIOSH approved respirator, specifically an SCBA for emergency or non-routine operations."",
+  ""source"": ""SECTION 8: EXPOSURE CONTROLS / PERSONAL PROTECTION""
+}"
+T,T,Are there any specific environmental precautions or considerations for the disposal of the product or its containers?,"{
+  ""answer"": ""Whatever cannot be saved for recovery or recycling should be disposed of in an approved waste facility in accordance with Federal, State/Provincial and Local requirements. Whenever possible, material should not be allowed to enter sewage disposal systems."",
+  ""source"": ""SECTION 13: DISPOSAL CONSIDERATIONS""
+}"
+T,T,Can the specific chemical identity or exact percentage of the composition be disclosed for the product?,"{
+  ""answer"": ""No, the specific chemical identity or exact percentage of the composition cannot be disclosed for the product."",
+  ""source"": ""SDS ??NAPA DOT 3 Brake Fluid""
+}"
+38,38,,

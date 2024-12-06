@@ -3,6 +3,7 @@ from langchain_community.llms.ollama import Ollama
 from langchain_community.embeddings import OllamaEmbeddings
 from ragas.testset.evolutions import simple, reasoning, multi_context
 from rag_system import RAGSystem
+import PyPDF2
 import time
 import pandas as pd
 import nest_asyncio
@@ -49,11 +50,11 @@ def evaluate_VectorDataBase():
     print("Start evaluate")
 
     metrics = [
-        AnswerRelevancy,
-        AnswerCorrectness,
-        Faithfulness,
-        ContextPrecision,
-        ContextRecall
+        AnswerRelevancy(),
+        AnswerCorrectness(),
+        Faithfulness(),
+        ContextPrecision(),
+        ContextRecall()
     ]
 
     testset_df = pd.read_csv(question_dic + "/testset.csv")

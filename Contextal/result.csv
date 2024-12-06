@@ -1,0 +1,259 @@
+,Quesiont,Answer,
+T,What is the product identifier?,"According to Section 1 of the Material Safety Data Sheet, the product identifier is:
+
+""Revite (Green) Heavy Duty Cleaner Degreaser""
+
+This is listed as the ""Product Name"" and also referred to as the ""Generic Name"".",
+T,When was the Safety Data Sheet issued?,January 09.,
+T,What is the product description?,"The product description is ""Heavy Duty Cleaner Degreaser"" and it is also referred to as ""Revite (Green)"".",
+T,Who is the manufacturer of the product?,"The manufacturer of the product, Revite (Green), is Misco Products Corporation.",
+T,What is the emergency telephone number for the product?,"The emergency telephone number for the product is 800-255-3924, which can be called 24 hours a day, 7 days a week for emergency medical or transport information.",
+F,What are the hazard classifications associated with the product?,"Based on the provided context, the hazard classifications associated with the product ""Revite (Green)"" are:
+
+* Fire Hazard: Yes
+* Immediate (acute) Health Hazard: Yes
+* Delayed (chronic) Health Hazard: No
+* Reactivity Hazard: No
+* Sudden Release of Pressure Hazard: No
+
+Note that these classifications are based on the information provided in the context, specifically in the ""SARA Title III - Section 311/312"" section.",
+T,What is the signal word used for the product?,"There is no explicit mention of a ""signal word"" in the provided context. However, based on the information given, it appears that this product does not have a specific warning label or hazard statement associated with it.
+
+Typically, signal words are used to indicate the level of hazard associated with a chemical substance. The three common signal words are:
+
+* Danger
+* Warning
+* Caution
+
+However, in this case, there is no mention of any signal word being assigned to the product ""Revite (Green)"".",
+T,What are the hazard statements related to the product?,"Based on the provided context, the following hazard statements are related to the product:
+
+* Eye Irritant
+* May cause skin irritation with prolonged or repeated contact
+* Moderate skin irritant
+* Prolonged or repeated contact may cause redness and dermatitis
+* Eye irritant. Liquid and mists will cause tearing, redness, burning sensation.
+* Vapors and mists may be irritating to mucous membranes in the nose, throat, and lungs.
+* Irritating to the mouth and throat. May cause headache, nausea, abdominal pain, vomiting, and diarrhea.
+
+These hazard statements are mentioned in Section 6 (Storage and Handling Information) and Section 7 (Health Hazards and First Aid) of the provided context.",
+T,What precautions should be taken while handling the product?,"According to the provided context, the following precautions should be taken while handling the product:
+
+* Avoid contact with eyes, skin, and clothing.
+* Wear rubber gloves, chemical splash goggles, and protective outerwear when handling.
+* Avoid breathing of vapors or mists. Use in a well-ventilated area.
+* Keep out of reach of children.
+* For use by trained personnel only.
+* Keep container closed during storage.
+
+Additionally, it is recommended to wear protective rubber footwear when using the product on the floor and protective outerwear when there is a danger of mist contact.",#NAME?
+T,What are the first aid measures in case of inhalation?,Get to fresh air. Seek medical attention if irritation persists.,
+T,What are the first aid measures in case of skin contact?,The first aid measure for skin contact is to flush with water and seek medical attention if irritation persists.,
+T,What are the first aid measures in case of eye contact?,"In case of eye contact, the first aid procedure is to immediately flush with large quantities of water, holding eyelids open. Seek medical attention if irritation persists.",
+T,What are the first aid measures in case of ingestion?,Do not induce vomiting. Drink large quantities of water. Seek medical attention immediately.,
+T,What are the suitable extinguishing media for a fire involving the product?,None (water-based).,
+T,What are the special hazards arising from the substance during a fire?,Alkaline vapors.,
+T,Are there any special fire handling procedures required for the product?,"No, according to Section 4-Fire and Explosion Hazard Data, there are no special firefighting procedures required for this product. The information states that it is a non-flammable water-based liquid.",
+T,"How should accidental releases, spill, or leak of the product be handled?","According to SECTION 9-SPILL OR LEAK PROCEDURES, in case the material is released or spilled:
+
+* Floors will become slippery.
+* Avoid walking in the product.
+* Keep unessential personnel away.
+* Mop up or otherwise absorb and hold for disposal.
+* Avoid discharge to sewer or open waterways.
+
+Additionally, if the product comes into contact with skin, eyes, or is ingested, specific first aid procedures should be followed as outlined in SECTION 9-SPILL OR LEAK PROCEDURES.",
+T,What precautions should be taken for safe handling and storage of the product?,"According to the provided context, the following precautions should be taken for safe handling and storage of the product:
+
+* Wear rubber gloves, chemical splash goggles, and protective outerwear when handling.
+* Avoid contact with eyes, skin, and clothing.
+* Use in a well-ventilated area.
+* Keep out of reach of children.
+* For use by trained personnel only.
+* Keep container closed during storage.
+* Provide local exhaust to keep TLV (Threshold Limit Value) of Section 2 ingredients below acceptable limit.
+
+Additionally, it is recommended to wear protective rubber footwear when using the product on a floor and protective outerwear when there is a danger of mist contact.",
+T,What are the exposure controls and personal protection measures recommended for the product?,"According to Section 6-Storage and Handling Information, the following exposure controls and personal protection measures are recommended:
+
+* Wear rubber gloves
+* Chemical splash goggles
+* Protective outerwear when handling
+* Avoid breathing of vapors or mists
+* Use in well-ventilated area
+* Keep out of reach of children
+
+Additionally, Section 7-Health Hazards and First Aid lists the following specific personal protection measures:
+
+* Respiratory Protection: Use in well-ventilated area.
+* Protective Gloves: Chemical resistant rubber or neoprene.
+* Eye Protection: Safety glasses or chemical splash goggles.
+* Other Protective Equipment: Wear protective rubber footwear when using on floor. Wear protective outerwear when danger of mist contact may occur.
+
+Overall, the recommended exposure controls and personal protection measures are designed to minimize the risk of skin irritation, eye irritation, and inhalation of vapors or mists.",
+T,What are the physical and chemical properties of the product?,"Based on the provided context, here are the physical and chemical properties of the product:
+
+**Physical Properties:**
+
+* Physical Description: Thin green liquid with characteristic odor
+* Boiling Point (°F): 212 F
+* Specific Gravity: 1.055
+* Flash Point (Method Used): None (water-based)
+* Vapor Pressure: 20mm Hg @ 68 F
+* Vapor Density (Air=1): >1
+* Upper Explosion Limit: N/A
+* Lower Explosion Limit: N/A
+* % Volatile: 85+
+* pH: 12.0 ??13.0
+
+**Chemical Properties:**
+
+* Chemical Family: Alkaline Detergent
+* Formula: Proprietary (not disclosed)
+* Chemical Name:
+	+ Water: 7732-18-5
+	+ 2-Butoxyethanol: 111-76-2 (0 to 5%)
+	+ Potassium Alkyl Aryl Sulfonate: 27177-77-1 (0 to 5%)
+	+ Potassium Tall Oil Soap: 61790-44-1 (0 to 5%)
+	+ Sodium Tripolyphosphate: 7758-29-4 (0 to 5%)
+	+ Dye: N/A (< 1%)
+	+ Fragrance: N/A (< 1%)
+
+Note that the exact chemical composition of the product is not disclosed, as indicated by ""Formula: Proprietary"".",
+T,Is the product stable or reactive? Are there any hazardous reactions to be aware of?,"According to Section 5-REACTIVITY DATA, the product is:
+
+* Stable
+* Not prone to hazardous polymerization
+* May produce alkaline vapors in a fire (decomposition products)
+
+There are no specific hazards mentioned regarding incompatible materials or reactions with other substances. However, it is noted that strong acids should be avoided when handling this product.",
+T,What are the possible hazardous decomposition products of the product?,"According to Section 5-REACTIVITY DATA, the possible hazardous decomposition products of the product are:
+
+* Alkaline vapors.",
+T,What is the toxicological information available for the product?,"The toxicological information available for the product includes:
+
+* The chemical(s) present in the product that are subject to reporting requirements under section 313 of the Emergency Planning and Community Right-To-Know Act of 1986, which is/are:
+	+ Glycol Ether (CAS# 111-76-2)
+* The effects of overexposure to the product, including:
+	+ Respiratory protection: Use in a well-ventilated area
+	+ Skin irritation: Moderate skin irritant, prolonged or repeated contact may cause redness and dermatitis
+	+ Eye irritation: Eye irritant, liquid and mists will cause tearing, redness, and burning sensation
+	+ Inhalation: Vapors and mists may be irritating to mucous membranes in the nose, throat, and lungs
+	+ Ingestion: Irritating to the mouth and throat, may cause headache, nausea, abdominal pain, vomiting, and diarrhea
+* The recommended first aid procedures for exposure to the product, including:
+	+ Skin: Flush with water, seek medical attention if irritation persists
+	+ Eyes: Immediately flush with large quantities of water, holding eyelids open, seek medical attention if irritation persists
+	+ Inhalation: Get to fresh air, seek medical attention if irritation persists
+	+ Ingestion: Do not induce vomiting, drink large quantities of water, seek medical attention immediately",
+T,What are the safety precautions and handling instructions for using the product?,"Based on the provided context, here are the safety precautions and handling instructions for using the product:
+
+**General Precautions**
+
+* Avoid contact with eyes, skin, and clothing.
+* Wear rubber gloves, chemical splash goggles, and protective outerwear when handling.
+* Avoid breathing of vapors or mists. Use in a well-ventilated area.
+* Keep out of reach of children.
+* For use by trained personnel only.
+
+**Specific Precautions**
+
+* Respiratory Protection: Use in a well-ventilated area.
+* Skin: Moderate skin irritant. Prolonged or repeated contact may cause redness and dermatitis.
+* Eyes: Eye irritant. Liquid and mists will cause tearing, redness, burning sensation.
+* Ingestion: Irritating to the mouth and throat. May cause headache, nausea, abdominal pain, vomiting, and diarrhea.
+
+**Personal Protective Equipment**
+
+* Chemical resistant rubber or neoprene gloves
+* Safety glasses or chemical splash goggles
+* Protective outerwear when danger of mist contact may occur
+* Protective rubber footwear when using on floor
+
+**First Aid Procedures**
+
+* Skin: Flush with water. Seek medical attention if irritation persists.
+* Eyes: Immediately flush with large quantities of water, holding eyelids open. Seek medical attention if irritation persists.
+* Inhalation: Get to fresh air. Seek medical attention if irritation persists.
+* Ingestion: Do not induce vomiting. Drink large quantities of water. Seek medical attention immediately.
+
+**Spill or Leak Procedures**
+
+* Floors will become slippery. Avoid walking in product.
+* Keep unessential personnel away.
+* Mop up or otherwise absorb and hold disposal.
+* Avoid discharge to sewer or open waterways.
+* Waste Disposal Method: Any method in accordance with local, state, and federal laws. Best method is to recycle or reuse for intended purpose. Consult local authorities for disposal in public sewer. Do not dispose of into storm drain, stream, river, or to ground. Rinse container thoroughly before discarding in trash.",
+T,What are the potential hazards associated with the product?,"Based on the provided context, the potential hazards associated with the product ""Revite (Green)"" include:
+
+* Eye irritation and redness
+* Skin irritation and dermatitis
+* Respiratory problems due to inhalation of vapors or mists
+* Irritation to mucous membranes in the nose, throat, and lungs
+* Headache, nausea, abdominal pain, vomiting, and diarrhea if ingested
+* Collapse if excessive amounts are ingested
+
+Additionally, there is a warning about the product being an eye irritant and causing skin irritation with prolonged or repeated contact.",
+T,What are the specific health effects or risks associated with exposure to the product?,"According to the provided context, the specific health effects or risks associated with exposure to the product include:
+
+* Respiratory problems: Vapors and mists may be irritating to mucous membranes in the nose, throat, and lungs.
+* Skin irritation: Prolonged or repeated contact may cause redness, dermatitis.
+* Eye irritation: Liquid and mists will cause tearing, redness, burning sensation.
+* Gastrointestinal problems: Ingestion may cause headache, nausea, abdominal pain, vomiting, and diarrhea. Excessive amounts may cause collapse.
+
+Additionally, the product is classified as a moderate skin irritant and an eye irritant.",
+T,What are the emergency procedures in case of inhalation of the product?,"In case of inhalation, get to fresh air and seek medical attention if irritation persists.",
+T,What are the emergency procedures in case of skin contact with the product?,"In case of skin contact with the product, the recommended procedure is to flush the affected area with water. If irritation persists, seek medical attention.",
+T,What are the emergency procedures in case of eye contact with the product?,"In case of eye contact with the product, immediately flush with large quantities of water, holding eyelids open. Seek medical attention if irritation persists.",
+T,What are the emergency procedures in case of ingestion of the product?,"In case of ingestion, do not induce vomiting. Drink large quantities of water. Seek medical attention immediately.",
+T,What is the waste disposal method for the product?,"According to SECTION 9-SPILL OR LEAK PROCEDURES, the recommended waste disposal method for Revite (Green) is:
+
+""Any method in accordance with local, state and federal laws. Best method is to recycle or reuse for intended purpose. Consult local authorities for disposal in public sewer. Do not dispose of into storm drain, stream, river or to ground.""",
+T,Are there any specific storage requirements or conditions for safely storing the product?,"No, there is no information provided about specific storage requirements or conditions for safely storing the product in the given context.",
+T,What is the shelf life of the product?,"There is no information provided about the shelf life of the product. The context only provides information about the chemical composition, safety data sheet, and handling procedures for the Heavy Duty Cleaner Degreaser (Revite Green), but does not mention a specific shelf life or expiration date.",
+T,What are the composition and ingredients of the product?,"According to Section 2 of the Material Safety Data Sheet (MSDS), the composition and ingredients of the product, Revite (Green) Heavy Duty Cleaner Degreaser, are:
+
+* Water: 100%
+* 2-Butoxyethanol: 0-5%
+* Potassium Alkyl Aryl Sulfonate: 0-5%
+* Potassium Tall Oil Soap: 0-5%
+* Sodium Tripolyphosphate: 0-5%
+* Dye: <1%
+* Fragrance: <1%
+
+Note that the product also contains Glycol Ether, which is mentioned in the first section of the MSDS, but its concentration is not specified.",
+F,Are there any known hazardous reactions or incompatibilities with other substances or materials?,"No, there is no information provided about known hazardous reactions or incompatibilities with other substances or materials. The text only mentions general safety precautions and first aid procedures for handling the substance, but does not provide any specific information about potential hazards related to mixing it with other substances or materials.",
+T,What is the odor of the product?,"The product, Revite (Green), has a ""characteristic odor"".",
+T,What is the boiling point of the product?,"The boiling point of Revite (Green), a Heavy Duty Cleaner Degreaser, is 212°F.",
+T,Is the product flammable?,"No, according to SECTION 4-FIRE AND EXPLOSION HAZARD DATA, the product is a water-based cleaner with a Flash Point of ""None"", indicating that it is not flammable.",
+T,What is the solubility of the product?,The product is completely soluble in water.,
+T,"Is the product stable under certain conditions, and are there any potential decomposition products?","Yes, according to Section 5-REACTIVITY DATA, the product is stable under normal conditions. However, it's noted that ""Alkaline vapors"" may be produced in a fire, which could indicate some instability under extreme heat conditions.
+
+There are no specific hazards mentioned regarding polymerization or decomposition products under normal storage and handling conditions.",
+T,"What are the recommended engineering controls, personal protective equipment (PPE), and respiratory protection for handling the product?","Based on the provided context, here are the recommended:
+
+**Engineering Controls:**
+
+* Use in a well-ventilated area
+* Provide local exhaust to keep TLV of Section 2 ingredients below acceptable limit
+
+**Personal Protective Equipment (PPE):**
+
+* Chemical resistant rubber or neoprene gloves
+* Safety glasses or chemical splash goggles
+* Protective outerwear when danger of mist contact may occur
+* Protective rubber footwear when using on floor
+
+**Respiratory Protection:**
+
+* Use in a well-ventilated area to avoid breathing vapors or mists",
+T,Are there any specific environmental precautions or considerations for the disposal of the product or its containers?,"Yes, according to the provided context, there are specific environmental precautions and considerations for the disposal of the product or its containers. The text states:
+
+* ""Avoid discharge to sewer or open waterways.""
+* ""Do not dispose of into storm drain, stream, river or to ground.""
+* ""Waste Disposal Method: Any method in accordance with local, state and federal laws.""
+* ""Best method is to recycle or reuse for intended purpose.""
+* ""Consult local authorities for disposal in public sewer.""
+
+These statements indicate that the product's manufacturer recommends environmentally responsible disposal practices, such as recycling, reusing, or following local regulations for proper disposal.",
+T,Can the specific chemical identity or exact percentage of the composition be disclosed for the product?,"No, according to Section 2 of the Material Safety Data Sheet, the specific chemical identity and exact percentage of some components are not disclosed, indicated by ""N/A"" (Not Applicable) in the columns for CAS NO., WT. %, PEL, TWA-TLV, STEL-TLV.",
+41,,,

@@ -1,0 +1,174 @@
+Answer,Source,Quesiont,Answer
+T,T,What is the product identifier?,"{
+  ""answer"": ""Revite (Green)"",
+  ""source"": ""SECTION 1-PRODUCT IDENTIFICATION AND SUPPLIER INFORMATION""
+}"
+T,T,When was the Safety Data Sheet issued?,"{
+  ""answer"": ""1/09"",
+  ""source"": ""SECTION 1-PRODUCT IDENTIFICATION AND SUPPLIER INFORMATION, Effective Date""
+}"
+T,T,What is the product description?,"{
+  ""answer"": ""Heavy Duty Cleaner Degreaser"",
+  ""source"": ""SECTION 1-PRODUCT IDENTIFICATION AND SUPPLIER INFORMATION""
+}"
+T,T,Who is the manufacturer of the product?,"{
+  ""answer"": ""Misco Products Corporation"",
+  ""source"": ""SECTION 1-PRODUCT IDENTIFICATION AND SUPPLIER INFORMATION""
+}"
+T,F,What is the emergency telephone number for the product?,"{
+  ""answer"": ""CHEM-TEL, Inc. @ 800-255-3924 (24 hours, 7 days per week)"",
+  ""source"": ""SECTION 6-STORAGE AND HANDLING INFORMATION""
+}"
+T,T,What are the hazard classifications associated with the product?,"{
+  ""answer"": ""SARA Title III - Section 311/312 -Hazard Categories: Shipping Information: No - Fire Hazard FOR CONTAINERS > Cleaning Compound Identification System No - Sudden Release of Pressure Hazard Health No - Reactivity Hazard FOR 1 GALLON CONTAINERS: Cleaning Compound Flammability Yes - Immediate (acute) Health Hazard Reactivity No - Delayed (chronic) Health Hazard FOR CONTAINERS < 1 GALLON: Cleaning Compound"",
+  ""source"": ""SARA Title III - Section 311/312, SECTION 6-STORAGE AND HANDLING INFORMATION""
+}"
+T,T,What is the signal word used for the product?,"{
+  ""answer"": ""Information not available in the provided context"",
+  ""source"": ""N/A""
+}"
+T,T,What are the hazard statements related to the product?,"{
+  ""answer"": ""The product is a moderate skin irritant, eye irritant, and may cause respiratory irritation. It can also be irritating to mucous membranes in the nose, throat, and lungs. Ingestion of excessive amounts may cause headache, nausea, abdominal pain, vomiting, and diarrhea."",
+  ""source"": ""SECTION 7-HEALTH HAZARDS AND FIRST AID""
+}"
+T,T,What precautions should be taken while handling the product?,"{
+  ""answer"": ""Wear rubber gloves, chemical splash goggles, and protective outerwear when handling. Avoid contact with eyes, skin, and clothing. Avoid breathing of vapors or mists. Use in well-ventilated area. Keep out of reach of children. For use by trained personnel only."",
+  ""source"": ""SECTION 6-STORAGE AND HANDLING INFORMATION""
+}"
+T,T,What are the first aid measures in case of inhalation?,"{
+  ""answer"": ""Get to fresh air. Seek medical attention if irritation persists."",
+  ""source"": ""SECTION 9-SPILL OR LEAK PROCEDURES""
+}"
+T,T,What are the first aid measures in case of skin contact?,"{
+  ""answer"": ""Flush with water. Seek medical attention if irritation persists."",
+  ""source"": ""SECTION 7-HEALTH HAZARDS AND FIRST AID, First Aid Procedures""
+}"
+T,T,What are the first aid measures in case of eye contact?,"{
+  ""answer"": ""Immediately flush with large quantities of water, holding eyelids open. Seek medical attention if irritation persists."",
+  ""source"": ""SECTION 7-HEALTH HAZARDS AND FIRST AID""
+}"
+T,F,What are the first aid measures in case of ingestion?,"{
+  ""answer"": ""Do not induce vomiting. Drink large quantities of water. Seek medical attention immediately."",
+  ""source"": ""SECTION 9-SPILL OR LEAK PROCEDURES, Ingestion""
+}"
+T,T,What are the suitable extinguishing media for a fire involving the product?,"{
+  ""answer"": ""Information not available in the provided context"",
+  ""source"": ""N/A""
+}"
+T,T,What are the special hazards arising from the substance during a fire?,"{
+  ""answer"": ""Alkaline vapors"",
+  ""source"": ""SECTION 4-FIRE AND EXPLOSION HAZARD DATA""
+}"
+T,T,Are there any special fire handling procedures required for the product?,"{
+  ""answer"": ""No special fire handling procedures are required for this product."",
+  ""source"": ""SECTION 4-FIRE AND EXPLOSION HAZARD DATA, SECTION 9-SPILL OR LEAK PROCEDURES""
+}"
+T,T,"How should accidental releases, spill, or leak of the product be handled?","{
+  ""answer"": ""Floors will become slippery. Avoid walking in product. Keep unessential personnel away. Mop up or otherwise absorb and hold disposal. Avoid discharge to sewer or open waterways. Waste Disposal Method: Any method in accordance with local, state and federal laws. Best method is to recycle or reuse for intended purpose. Consult local authorities for disposal in public sewer. Do not dispose of into storm drain, stream, river or to ground. Rinse container thoroughly before discarding in trash."",
+  ""source"": ""SECTION 9-SPILL OR LEAK PROCEDURES""
+}"
+T,T,What precautions should be taken for safe handling and storage of the product?,"{
+  ""answer"": ""To ensure safe handling and storage, wear rubber gloves, chemical splash goggles, and protective outerwear when handling. Avoid contact with eyes, skin, and clothing. Store in a well-ventilated area, keep out of reach of children, and for use by trained personnel only. Keep container closed during storage."",
+  ""source"": ""SECTION 6-STORAGE AND HANDLING INFORMATION""
+}"
+T,T,What are the exposure controls and personal protection measures recommended for the product?,"{
+  ""answer"": ""Use in well-ventilated area, provide local exhaust to keep TLV of Section 2 ingredients below acceptable limit, wear rubber gloves, chemical splash goggles, protective outerwear, and protective rubber footwear when using on floor."",
+  ""source"": ""SECTION 6-STORAGE AND HANDLING INFORMATION, SECTION 7-HEALTH HAZARDS AND FIRST AID""
+}"
+T,T,What are the physical and chemical properties of the product?,"{
+  ""answer"": ""The product, Revite (Green), is a Heavy Duty Cleaner Degreaser with the following physical and chemical properties: Thin green liquid with characteristic odor; Boiling Point: 212 F; Specific Gravity: 1.055; Flash Point: None (water-based); Vapor Pressure: 20mm Hg @ 68 F; Vapor Density (Air=1): >1; Upper Explosion Limit: N/A; Lower Explosion Limit: N/A; % Volatile: 85+; pH: 12.0 ??13.0; Solubility in Water: Complete; Evaporation Rate (Water=1): <1; VOC Content: 2.93% (wt/wt), 0.26 lbs/gal., 30.9 grams/liter."",
+  ""source"": ""SECTION 3-PHYSICAL DATA, SECTION 4-FIRE AND EXPLOSION HAZARD DATA""
+}"
+T,T,Is the product stable or reactive? Are there any hazardous reactions to be aware of?,"{
+  ""answer"": ""The product is stable, with no hazardous polymerization noted in SECTION 5-REACTIVITY DATA."",
+  ""source"": ""SECTION 5-REACTIVITY DATA""
+}"
+T,T,What are the possible hazardous decomposition products of the product?,"{
+  ""answer"": ""Alkaline vapors"",
+  ""source"": ""SECTION 5-REACTIVITY DATA""
+}"
+T,T,What is the toxicological information available for the product?,"{
+  ""answer"": ""The product contains a toxic chemical, Glycol Ether (CAS# 111-76-2), which is an eye irritant and may cause skin irritation with prolonged or repeated contact. It can also be irritating to the mucous membranes in the nose, throat, and lungs, and ingesting it may cause headache, nausea, abdominal pain, vomiting, and diarrhea. Excessive amounts may cause collapse."",
+  ""source"": ""SECTION 6-STORAGE AND HANDLING INFORMATION, SECTION 7-HEALTH HAZARDS AND FIRST AID""
+}"
+T,T,What are the safety precautions and handling instructions for using the product?,"{
+  ""answer"": ""When handling this product, wear rubber gloves, chemical splash goggles, and protective outerwear. Avoid contact with eyes, skin, and clothing. Work in a well-ventilated area to prevent breathing of vapors or mists. Keep the container closed during storage. For institutional and industrial use only. Use by trained personnel is recommended."",
+  ""source"": ""SECTION 6-STORAGE AND HANDLING INFORMATION""
+}"
+T,T,What are the potential hazards associated with the product?,"{
+  ""answer"": ""The product is a moderate skin irritant, eye irritant, and may cause respiratory irritation. Ingestion can lead to headache, nausea, abdominal pain, vomiting, and diarrhea. Excessive amounts may cause collapse. The product also has flammability hazards."",
+  ""source"": ""SECTION 7-HEALTH HAZARDS AND FIRST AID, SECTION 4-FIRE AND EXPLOSION HAZARD DATA""
+}"
+T,T,What are the specific health effects or risks associated with exposure to the product?,"{
+  ""answer"": ""Respiratory Protection: Vapors and mists may be irritating to mucous membranes in the nose, throat, and lungs. Skin: Moderate skin irritant. Prolonged or repeated contact may cause redness, dermatitis. Eyes: Eye irritant. Liquid and mists will cause tearing, redness, burning sensation. Ingestion: Irritating to the mouth and throat. May cause headache, nausea, abdominal pain, vomiting, and diarrhea. Excessive amounts may cause collapse."",
+  ""source"": ""SECTION 7-HEALTH HAZARDS AND FIRST AID""
+}"
+T,T,What are the emergency procedures in case of inhalation of the product?,"{
+  ""answer"": ""Get to fresh air. Seek medical attention if irritation persists."",
+  ""source"": ""SECTION 9-SPILL OR LEAK PROCEDURES, SECTION 7-HEALTH HAZARDS AND FIRST AID""
+}"
+T,T,What are the emergency procedures in case of skin contact with the product?,"{
+  ""answer"": ""Flush with water. Seek medical attention if irritation persists."",
+  ""source"": ""SECTION 7-HEALTH HAZARDS AND FIRST AID, SECTION 9-SPILL OR LEAK PROCEDURES""
+}"
+T,T,What are the emergency procedures in case of eye contact with the product?,"{
+  ""answer"": ""Immediately flush with large quantities of water, holding eyelids open. Seek medical attention if irritation persists."",
+  ""source"": ""SECTION 7-HEALTH HAZARDS AND FIRST AID""
+}"
+T,T,What are the emergency procedures in case of ingestion of the product?,"{
+  ""answer"": ""In case of ingestion, do not induce vomiting. Drink large quantities of water. Seek medical attention immediately."",
+  ""source"": ""SECTION 7-HEALTH HAZARDS AND FIRST AID""
+}"
+T,T,What is the waste disposal method for the product?,"{
+  ""answer"": ""Any method in accordance with local, state and federal laws. Best method is to recycle or reuse for intended purpose. Consult local authorities for disposal in public sewer. Do not dispose of into storm drain, stream, river or to ground."",
+  ""source"": ""SECTION 9-SPILL OR LEAK PROCEDURES""
+}"
+T,T,Are there any specific storage requirements or conditions for safely storing the product?,"{
+  ""answer"": ""No specific storage requirements or conditions are mentioned in the SDS."",
+  ""source"": ""SECTION 1-PRODUCT IDENTIFICATION AND SUPPLIER INFORMATION, SECTION 10-REGULATORY INFORMATION""
+}"
+T,T,What is the shelf life of the product?,"{
+  ""answer"": ""Information not available in the provided context"",
+  ""source"": ""N/A""
+}"
+T,T,What are the composition and ingredients of the product?,"{
+  ""answer"": ""The product contains Water (to 100%), 2-Butoxyethanol (0 to 5%), Potassium Alkyl Aryl Sulfonate (0 to 5%), Potassium Tall Oil Soap (0 to 5%), Sodium Tripolyphosphate (0 to 5%), Dye (<1%), and Fragrance (<1%)."",
+  ""source"": ""SECTION 2-INGREDIENT INFORMATION""
+}"
+F,F,Are there any known hazardous reactions or incompatibilities with other substances or materials?,"{
+  ""answer"": ""No known hazardous reactions or incompatibilities with other substances or materials are mentioned in the SDS."",
+  ""source"": ""SECTION 6-STORAGE AND HANDLING INFORMATION, SECTION 9-SPILL OR LEAK PROCEDURES""
+}"
+T,T,What is the odor of the product?,"{
+  ""answer"": ""Characteristic odor"",
+  ""source"": ""SECTION 3-PHYSICAL DATA""
+}"
+T,T,What is the boiling point of the product?,"{
+  ""answer"": ""212 F"",
+  ""source"": ""SECTION 3-PHYSICAL DATA""
+}"
+T,F,Is the product flammable?,"{
+  ""answer"": ""No, according to SECTION 3-PHYSICAL DATA, Flash Point (Method Used): None (water-based)"",
+  ""source"": ""SECTION 3-PHYSICAL DATA""
+}"
+T,T,What is the solubility of the product?,"{
+  ""answer"": ""The product is completely soluble in water."",
+  ""source"": ""SECTION 3-PHYSICAL DATA""
+}"
+T,T,"Is the product stable under certain conditions, and are there any potential decomposition products?","{
+  ""answer"": ""Yes, the product is stable under normal conditions. In a fire, alkaline vapors are potential decomposition products."",
+  ""source"": ""SECTION 5-REACTIVITY DATA""
+}"
+T,T,"What are the recommended engineering controls, personal protective equipment (PPE), and respiratory protection for handling the product?","{
+  ""answer"": ""Use in well-ventilated area, Provide local exhaust to keep TLV of Section 2 ingredients below acceptable limit, Wear protective rubber gloves, chemical splash goggles, and protective outerwear when handling, Wear protective rubber footwear when using on floor."",
+  ""source"": ""SECTION 6-STORAGE AND HANDLING INFORMATION, SECTION 7-HEALTH HAZARDS AND FIRST AID""
+}"
+T,T,Are there any specific environmental precautions or considerations for the disposal of the product or its containers?,"{
+  ""answer"": ""Do not dispose of into storm drain, stream, river or to ground. Rinse container thoroughly before discarding in trash. Avoid discharge to sewer or open waterways. Waste Disposal Method: Any method in accordance with local, state and federal laws. Best method is to recycle or reuse for intended purpose. Consult local authorities for disposal in public sewer."",
+  ""source"": ""SECTION 9-SPILL OR LEAK PROCEDURES""
+}"
+T,T,Can the specific chemical identity or exact percentage of the composition be disclosed for the product?,"{
+  ""answer"": ""No, the specific chemical identity of Glycol Ether (CAS# 111-76-2) can be disclosed as it is already mentioned in SECTION 2-INGREDIENT INFORMATION with its CAS number and percentage by weight."",
+  ""source"": ""SECTION 1-PRODUCT IDENTIFICATION AND SUPPLIER INFORMATION, SECTION 2-INGREDIENT INFORMATION""
+}"
+42,39,,
